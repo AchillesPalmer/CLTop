@@ -1,0 +1,1981 @@
+number,construction,sentence,item,grammaticality,num_words,prob
+0,p_pn,The laws have done,any,0,4,7.991925667738542e-05
+1,p_pn,Many of the laws have done,any,0,6,0.00011885344429174438
+2,p_pn,It is the case that the laws have done,any,0,9,0.00019661067926790565
+3,p_prel,The laws which I have studied have done,any,0,8,0.0001935190666699782
+4,p_prel,Many of the laws which I have studied have done,any,0,10,0.00045451021287590265
+5,p_prel,It is the case that laws which I have studied have done,any,0,12,0.0001893181906780228
+6,p_ppp,The laws in these places have done,any,0,7,0.00017284642672166228
+7,p_ppp,Many of the laws in these places have done,any,0,9,0.00023235264234244823
+8,p_ppp,It is the case that the laws in these places have done,any,0,12,0.00029014633037149906
+9,p_nrel,The laws which I have not studied have done,any,1,9,0.0007218902464956045
+10,p_nrel,Many of the laws which I have not studied have done,any,1,11,0.0013544773682951927
+11,p_nrel,It is the case that the laws which I have not studied have done,any,1,14,0.0010955586330965161
+12,p_npp,The laws in none of these places have done,any,1,9,0.08448302745819092
+13,p_npp,Many of the laws in none of these places have done,any,1,11,0.07689687609672546
+14,p_npp,It is the case that laws in none of these places have done,any,1,13,0.04817759990692139
+15,n_pn,No laws have done,any,1,4,0.020895803347229958
+16,n_pn,None of the laws have done,any,1,6,0.07025004923343658
+17,n_pn,It is not the case that the laws have done,any,1,10,0.050586216151714325
+18,n_prel,No laws which I have studied have done,any,1,8,0.051622726023197174
+19,n_prel,None of the laws which I have studied have done,any,1,10,0.10034344345331192
+20,n_prel,It is not the case that the laws which I have studied have done,any,1,14,0.0728493258357048
+21,n_ppp,No laws in these places have done,any,1,7,0.049823615700006485
+22,n_ppp,None of the laws in these places have done,any,1,9,0.07996339350938797
+23,n_ppp,It is not the case that laws in these places have done,any,1,12,0.0392443984746933
+24,n_nrel,No laws which I have not studied have done,any,1,9,0.06526638567447662
+25,n_nrel,None of the laws which I have not have studied have done,any,1,12,0.09099704772233963
+26,n_nrel,It is not the case that the laws which I have not studied have done,any,1,15,0.08354666829109192
+27,n_npp,No laws in none of these places have done,any,1,9,0.0470842681825161
+28,n_npp,None of the laws in none of these places have done,any,1,11,0.07213666290044785
+29,n_npp,It is not the case that laws in none of these places have done,any,1,14,0.04389607533812523
+30,p_pn,The laws will impact,any,0,4,0.003194796619936824
+31,p_pn,Many of the laws will impact,any,0,6,0.0019487327663227916
+32,p_pn,It is the case that the laws will impact,any,0,9,0.0017943037673830986
+33,p_prel,The laws which I have studied will impact,any,0,8,0.0030143139883875847
+34,p_prel,Many of the laws which I have studied will impact,any,0,10,0.0033673683647066355
+35,p_prel,It is the case that laws which I have studied will impact,any,0,12,0.0018410291522741318
+36,p_ppp,The laws in these places will impact,any,0,7,0.0019921218045055866
+37,p_ppp,Many of the laws in these places will impact,any,0,9,0.0020422483794391155
+38,p_ppp,It is the case that the laws in these places will impact,any,0,12,0.0014087370363995433
+39,p_nrel,The laws which I have not studied will impact,any,1,9,0.008760652504861355
+40,p_nrel,Many of the laws which I have not studied will impact,any,1,11,0.006251565646380186
+41,p_nrel,It is the case that the laws which I have not studied will impact,any,1,14,0.005587941966950893
+42,p_npp,The laws in none of these places will impact,any,1,9,0.029352406039834023
+43,p_npp,Many of the laws in none of these places will impact,any,1,11,0.020935922861099243
+44,p_npp,It is the case that laws in none of these places will impact,any,1,13,0.01682092994451523
+45,n_pn,No laws will impact,any,1,4,0.010666902177035809
+46,n_pn,None of the laws will impact,any,1,6,0.021489500999450684
+47,n_pn,It is not the case that the laws will impact,any,1,10,0.016887901350855827
+48,n_prel,No laws which I have studied will impact,any,1,8,0.018112534657120705
+49,n_prel,None of the laws which I have studied will impact,any,1,10,0.020932026207447052
+50,n_prel,It is not the case that the laws which I have studied will impact,any,1,14,0.02193223498761654
+51,n_ppp,No laws in these places will impact,any,1,7,0.011939582414925098
+52,n_ppp,None of the laws in these places will impact,any,1,9,0.01746487431228161
+53,n_ppp,It is not the case that laws in these places will impact,any,1,12,0.009228719398379326
+54,n_nrel,No laws which I have not studied will impact,any,1,9,0.019705262035131454
+55,n_nrel,None of the laws which I have not have studied will impact,any,1,12,0.021672843024134636
+56,n_nrel,It is not the case that the laws which I have not studied will impact,any,1,15,0.023893557488918304
+57,n_npp,No laws in none of these places will impact,any,1,9,0.017359159886837006
+58,n_npp,None of the laws in none of these places will impact,any,1,11,0.02123611606657505
+59,n_npp,It is not the case that laws in none of these places will impact,any,1,14,0.013902572914958
+60,p_pn,The laws confuse,any,0,3,0.0011364280944690108
+61,p_pn,Many of the laws confuse,any,0,5,0.000662522274069488
+62,p_pn,It is the case that the laws confuse,any,0,8,0.0007457735482603312
+63,p_prel,The laws which I have studied confuse,any,0,7,0.0014393533347174525
+64,p_prel,Many of the laws which I have studied confuse,any,0,9,0.0011038644006475806
+65,p_prel,It is the case that laws which I have studied confuse,any,0,11,0.0009584854706190526
+66,p_ppp,The laws in these places confuse,any,0,6,0.0013788328506052494
+67,p_ppp,Many of the laws in these places confuse,any,0,8,0.0009700519731268287
+68,p_ppp,It is the case that the laws in these places confuse,any,0,11,0.0009406296303495765
+69,p_nrel,The laws which I have not studied confuse,any,1,8,0.0015768007142469287
+70,p_nrel,Many of the laws which I have not studied confuse,any,1,10,0.0010810904204845428
+71,p_nrel,It is the case that the laws which I have not studied confuse,any,1,13,0.0014365707756951451
+72,p_npp,The laws in none of these places confuse,any,1,8,0.024223091080784798
+73,p_npp,Many of the laws in none of these places confuse,any,1,10,0.011385873891413212
+74,p_npp,It is the case that laws in none of these places confuse,any,1,12,0.006291566416621208
+75,n_pn,No laws confuse,any,1,3,0.003170058596879244
+76,n_pn,None of the laws confuse,any,1,5,0.009750716388225555
+77,n_pn,It is not the case that the laws confuse,any,1,9,0.006176438182592392
+78,n_prel,No laws which I have studied confuse,any,1,7,0.0038578608073294163
+79,n_prel,None of the laws which I have studied confuse,any,1,9,0.010875506326556206
+80,n_prel,It is not the case that the laws which I have studied confuse,any,1,13,0.008765755221247673
+81,n_ppp,No laws in these places confuse,any,1,6,0.0039207241497933865
+82,n_ppp,None of the laws in these places confuse,any,1,8,0.010703037492930889
+83,n_ppp,It is not the case that laws in these places confuse,any,1,11,0.0026686822529882193
+84,n_nrel,No laws which I have not studied confuse,any,1,8,0.003150894306600094
+85,n_nrel,None of the laws which I have not have studied confuse,any,1,11,0.007655376102775335
+86,n_nrel,It is not the case that the laws which I have not studied confuse,any,1,14,0.008865799754858017
+87,n_npp,No laws in none of these places confuse,any,1,8,0.010975094512104988
+88,n_npp,None of the laws in none of these places confuse,any,1,10,0.015763763338327408
+89,n_npp,It is not the case that laws in none of these places confuse,any,1,13,0.00540759414434433
+90,p_pn,The laws inspired,any,0,3,0.00013811986718792468
+91,p_pn,Many of the laws inspired,any,0,5,4.269292548997328e-05
+92,p_pn,It is the case that the laws inspired,any,0,8,0.00015328172594308853
+93,p_prel,The laws which I have studied inspired,any,0,7,0.00035327186924405396
+94,p_prel,Many of the laws which I have studied inspired,any,0,9,0.000442260701674968
+95,p_prel,It is the case that laws which I have studied inspired,any,0,11,0.0006214560125954449
+96,p_ppp,The laws in these places inspired,any,0,6,0.0003314927453175187
+97,p_ppp,Many of the laws in these places inspired,any,0,8,0.0002598277642391622
+98,p_ppp,It is the case that the laws in these places inspired,any,0,11,0.0006457899580709636
+99,p_nrel,The laws which I have not studied inspired,any,1,8,0.0013672530185431242
+100,p_nrel,Many of the laws which I have not studied inspired,any,1,10,0.0015922347083687782
+101,p_nrel,It is the case that the laws which I have not studied inspired,any,1,13,0.0037467610090970993
+102,p_npp,The laws in none of these places inspired,any,1,8,0.09476232528686523
+103,p_npp,Many of the laws in none of these places inspired,any,1,10,0.07510269433259964
+104,p_npp,It is the case that laws in none of these places inspired,any,1,12,0.03740455210208893
+105,n_pn,No laws inspired,any,1,3,0.002026304602622986
+106,n_pn,None of the laws inspired,any,1,5,0.005651918239891529
+107,n_pn,It is not the case that the laws inspired,any,1,9,0.0031136604957282543
+108,n_prel,No laws which I have studied inspired,any,1,7,0.008304513990879059
+109,n_prel,None of the laws which I have studied inspired,any,1,9,0.0399024672806263
+110,n_prel,It is not the case that the laws which I have studied inspired,any,1,13,0.028684882447123528
+111,n_ppp,No laws in these places inspired,any,1,6,0.011375302448868752
+112,n_ppp,None of the laws in these places inspired,any,1,8,0.031261734664440155
+113,n_ppp,It is not the case that laws in these places inspired,any,1,11,0.005398245994001627
+114,n_nrel,No laws which I have not studied inspired,any,1,8,0.012850083410739899
+115,n_nrel,None of the laws which I have not have studied inspired,any,1,11,0.05064590275287628
+116,n_nrel,It is not the case that the laws which I have not studied inspired,any,1,14,0.0500342957675457
+117,n_npp,No laws in none of these places inspired,any,1,8,0.03253290802240372
+118,n_npp,None of the laws in none of these places inspired,any,1,10,0.06549796462059021
+119,n_npp,It is not the case that laws in none of these places inspired,any,1,13,0.028394777327775955
+120,p_pn,The laws will change,any,0,4,0.0007642033160664141
+121,p_pn,Many of the laws will change,any,0,6,0.0004114625626243651
+122,p_pn,It is the case that the laws will change,any,0,9,0.0003187769034411758
+123,p_prel,The laws which I have studied will change,any,0,8,0.0010299506830051541
+124,p_prel,Many of the laws which I have studied will change,any,0,10,0.0009524726192466915
+125,p_prel,It is the case that laws which I have studied will change,any,0,12,0.0007318315911106765
+126,p_ppp,The laws in these places will change,any,0,7,0.000449975865194574
+127,p_ppp,Many of the laws in these places will change,any,0,9,0.0004454168665688485
+128,p_ppp,It is the case that the laws in these places will change,any,0,12,0.0003266353451181203
+129,p_nrel,The laws which I have not studied will change,any,1,9,0.0026446322444826365
+130,p_nrel,Many of the laws which I have not studied will change,any,1,11,0.0016836419235914946
+131,p_nrel,It is the case that the laws which I have not studied will change,any,1,14,0.0015843090368434787
+132,p_npp,The laws in none of these places will change,any,1,9,0.012584453448653221
+133,p_npp,Many of the laws in none of these places will change,any,1,11,0.009523733519017696
+134,p_npp,It is the case that laws in none of these places will change,any,1,13,0.006526486482471228
+135,n_pn,No laws will change,any,1,4,0.00231629959307611
+136,n_pn,None of the laws will change,any,1,6,0.005435114726424217
+137,n_pn,It is not the case that the laws will change,any,1,10,0.007212438154965639
+138,n_prel,No laws which I have studied will change,any,1,8,0.009368150494992733
+139,n_prel,None of the laws which I have studied will change,any,1,10,0.013129346072673798
+140,n_prel,It is not the case that the laws which I have studied will change,any,1,14,0.017694370821118355
+141,n_ppp,No laws in these places will change,any,1,7,0.0025632346514612436
+142,n_ppp,None of the laws in these places will change,any,1,9,0.005968001205474138
+143,n_ppp,It is not the case that laws in these places will change,any,1,12,0.004307414870709181
+144,n_nrel,No laws which I have not studied will change,any,1,9,0.011935295537114143
+145,n_nrel,None of the laws which I have not have studied will change,any,1,12,0.015369847416877747
+146,n_nrel,It is not the case that the laws which I have not studied will change,any,1,15,0.01932065188884735
+147,n_npp,No laws in none of these places will change,any,1,9,0.004662327002733946
+148,n_npp,None of the laws in none of these places will change,any,1,11,0.007491780444979668
+149,n_npp,It is not the case that laws in none of these places will change,any,1,14,0.006403041537851095
+150,p_pn,The laws impress,any,0,3,0.0017401818186044693
+151,p_pn,Many of the laws impress,any,0,5,0.0013224274152889848
+152,p_pn,It is the case that the laws impress,any,0,8,0.0015638582408428192
+153,p_prel,The laws which I have studied impress,any,0,7,0.0007737300475127995
+154,p_prel,Many of the laws which I have studied impress,any,0,9,0.0009400388225913048
+155,p_prel,It is the case that laws which I have studied impress,any,0,11,0.0012051383964717388
+156,p_ppp,The laws in these places impress,any,0,6,0.002315622055903077
+157,p_ppp,Many of the laws in these places impress,any,0,8,0.001611655461601913
+158,p_ppp,It is the case that the laws in these places impress,any,0,11,0.001502840779721737
+159,p_nrel,The laws which I have not studied impress,any,1,8,0.0019009689567610621
+160,p_nrel,Many of the laws which I have not studied impress,any,1,10,0.002171074040234089
+161,p_nrel,It is the case that the laws which I have not studied impress,any,1,13,0.0025898085441440344
+162,p_npp,The laws in none of these places impress,any,1,8,0.04980576038360596
+163,p_npp,Many of the laws in none of these places impress,any,1,10,0.040980007499456406
+164,p_npp,It is the case that laws in none of these places impress,any,1,12,0.0351993590593338
+165,n_pn,No laws impress,any,1,3,0.012388545088469982
+166,n_pn,None of the laws impress,any,1,5,0.036535076797008514
+167,n_pn,It is not the case that the laws impress,any,1,9,0.03136829659342766
+168,n_prel,No laws which I have studied impress,any,1,7,0.005494563840329647
+169,n_prel,None of the laws which I have studied impress,any,1,9,0.017785431817173958
+170,n_prel,It is not the case that the laws which I have studied impress,any,1,13,0.01219441369175911
+171,n_ppp,No laws in these places impress,any,1,6,0.03312494978308678
+172,n_ppp,None of the laws in these places impress,any,1,8,0.042828235775232315
+173,n_ppp,It is not the case that laws in these places impress,any,1,11,0.02096777968108654
+174,n_nrel,No laws which I have not studied impress,any,1,8,0.009444968774914742
+175,n_nrel,None of the laws which I have not have studied impress,any,1,11,0.018585413694381714
+176,n_nrel,It is not the case that the laws which I have not studied impress,any,1,14,0.030037594959139824
+177,n_npp,No laws in none of these places impress,any,1,8,0.029903469607234
+178,n_npp,None of the laws in none of these places impress,any,1,10,0.042786333709955215
+179,n_npp,It is not the case that laws in none of these places impress,any,1,13,0.03656608611345291
+180,p_pn,The theories have done,any,0,4,7.636072405148298e-05
+181,p_pn,Many of the theories have done,any,0,6,0.00011553622607607394
+182,p_pn,It is the case that the theories have done,any,0,9,0.0001611927873454988
+183,p_prel,The theories which I have studied have done,any,0,8,0.00023297268489841372
+184,p_prel,Many of the theories which I have studied have done,any,0,10,0.00037476912257261574
+185,p_prel,It is the case that theories which I have studied have done,any,0,12,0.00028862550971098244
+186,p_ppp,The theories in these places have done,any,0,7,0.00018053891835734248
+187,p_ppp,Many of the theories in these places have done,any,0,9,0.00024056156689766794
+188,p_ppp,It is the case that the theories in these places have done,any,0,12,0.0002762172371149063
+189,p_nrel,The theories which I have not studied have done,any,1,9,0.0004519878712017089
+190,p_nrel,Many of the theories which I have not studied have done,any,1,11,0.0008011162863112986
+191,p_nrel,It is the case that the theories which I have not studied have done,any,1,14,0.0009082034812308848
+192,p_npp,The theories in none of these places have done,any,1,9,0.11795401573181152
+193,p_npp,Many of the theories in none of these places have done,any,1,11,0.12423469871282578
+194,p_npp,It is the case that theories in none of these places have done,any,1,13,0.09229156374931335
+195,n_pn,No theories have done,any,1,4,0.03492951765656471
+196,n_pn,None of the theories have done,any,1,6,0.12490735203027725
+197,n_pn,It is not the case that the theories have done,any,1,10,0.08722445368766785
+198,n_prel,No theories which I have studied have done,any,1,8,0.08896040916442871
+199,n_prel,None of the theories which I have studied have done,any,1,10,0.18269944190979004
+200,n_prel,It is not the case that the theories which I have studied have done,any,1,14,0.13047081232070923
+201,n_ppp,No theories in these places have done,any,1,7,0.07672438770532608
+202,n_ppp,None of the theories in these places have done,any,1,9,0.15089665353298187
+203,n_ppp,It is not the case that theories in these places have done,any,1,12,0.06972024589776993
+204,n_nrel,No theories which I have not studied have done,any,1,9,0.09792064875364304
+205,n_nrel,None of the theories which I have not have studied have done,any,1,12,0.16948294639587402
+206,n_nrel,It is not the case that the theories which I have not studied have done,any,1,15,0.15729443728923798
+207,n_npp,No theories in none of these places have done,any,1,9,0.0741603672504425
+208,n_npp,None of the theories in none of these places have done,any,1,11,0.12595583498477936
+209,n_npp,It is not the case that theories in none of these places have done,any,1,14,0.08549574762582779
+210,p_pn,The theories will impact,any,0,4,0.0027699393685907125
+211,p_pn,Many of the theories will impact,any,0,6,0.0019680121913552284
+212,p_pn,It is the case that the theories will impact,any,0,9,0.002247593831270933
+213,p_prel,The theories which I have studied will impact,any,0,8,0.005921735428273678
+214,p_prel,Many of the theories which I have studied will impact,any,0,10,0.004337604157626629
+215,p_prel,It is the case that theories which I have studied will impact,any,0,12,0.00408213073387742
+216,p_ppp,The theories in these places will impact,any,0,7,0.0020173215307295322
+217,p_ppp,Many of the theories in these places will impact,any,0,9,0.001833322923630476
+218,p_ppp,It is the case that the theories in these places will impact,any,0,12,0.0018800023244693875
+219,p_nrel,The theories which I have not studied will impact,any,1,9,0.007741102017462254
+220,p_nrel,Many of the theories which I have not studied will impact,any,1,11,0.005657628644257784
+221,p_nrel,It is the case that the theories which I have not studied will impact,any,1,14,0.007189703173935413
+222,p_npp,The theories in none of these places will impact,any,1,9,0.021181749179959297
+223,p_npp,Many of the theories in none of these places will impact,any,1,11,0.017533807083964348
+224,p_npp,It is the case that theories in none of these places will impact,any,1,13,0.01799207739531994
+225,n_pn,No theories will impact,any,1,4,0.010817382484674454
+226,n_pn,None of the theories will impact,any,1,6,0.016552869230508804
+227,n_pn,It is not the case that the theories will impact,any,1,10,0.01907089538872242
+228,n_prel,No theories which I have studied will impact,any,1,8,0.01593467779457569
+229,n_prel,None of the theories which I have studied will impact,any,1,10,0.02188921719789505
+230,n_prel,It is not the case that the theories which I have studied will impact,any,1,14,0.03051559440791607
+231,n_ppp,No theories in these places will impact,any,1,7,0.010603598318994045
+232,n_ppp,None of the theories in these places will impact,any,1,9,0.015183859504759312
+233,n_ppp,It is not the case that theories in these places will impact,any,1,12,0.010726178996264935
+234,n_nrel,No theories which I have not studied will impact,any,1,9,0.01686824858188629
+235,n_nrel,None of the theories which I have not have studied will impact,any,1,12,0.022227691486477852
+236,n_nrel,It is not the case that the theories which I have not studied will impact,any,1,15,0.0323476679623127
+237,n_npp,No theories in none of these places will impact,any,1,9,0.014646823517978191
+238,n_npp,None of the theories in none of these places will impact,any,1,11,0.017720088362693787
+239,n_npp,It is not the case that theories in none of these places will impact,any,1,14,0.015828946605324745
+240,p_pn,The theories confuse,any,0,3,0.0011995789827778935
+241,p_pn,Many of the theories confuse,any,0,5,0.0006945676868781447
+242,p_pn,It is the case that the theories confuse,any,0,8,0.0008319798507727683
+243,p_prel,The theories which I have studied confuse,any,0,7,0.0014104862930253148
+244,p_prel,Many of the theories which I have studied confuse,any,0,9,0.0009332787012681365
+245,p_prel,It is the case that theories which I have studied confuse,any,0,11,0.0012416968820616603
+246,p_ppp,The theories in these places confuse,any,0,6,0.001335341832600534
+247,p_ppp,Many of the theories in these places confuse,any,0,8,0.0009649978019297123
+248,p_ppp,It is the case that the theories in these places confuse,any,0,11,0.0009673561435192823
+249,p_nrel,The theories which I have not studied confuse,any,1,8,0.001095761195756495
+250,p_nrel,Many of the theories which I have not studied confuse,any,1,10,0.0007456954335793853
+251,p_nrel,It is the case that the theories which I have not studied confuse,any,1,13,0.0012158302124589682
+252,p_npp,The theories in none of these places confuse,any,1,8,0.01676212251186371
+253,p_npp,Many of the theories in none of these places confuse,any,1,10,0.008896125480532646
+254,p_npp,It is the case that theories in none of these places confuse,any,1,12,0.006501942873001099
+255,n_pn,No theories confuse,any,1,3,0.0039500645361840725
+256,n_pn,None of the theories confuse,any,1,5,0.010127289220690727
+257,n_pn,It is not the case that the theories confuse,any,1,9,0.007696358021348715
+258,n_prel,No theories which I have studied confuse,any,1,7,0.002795224543660879
+259,n_prel,None of the theories which I have studied confuse,any,1,9,0.006063167005777359
+260,n_prel,It is not the case that the theories which I have studied confuse,any,1,13,0.008075100369751453
+261,n_ppp,No theories in these places confuse,any,1,6,0.0025105811655521393
+262,n_ppp,None of the theories in these places confuse,any,1,8,0.00780810322612524
+263,n_ppp,It is not the case that theories in these places confuse,any,1,11,0.003046241123229265
+264,n_nrel,No theories which I have not studied confuse,any,1,8,0.0022927175741642714
+265,n_nrel,None of the theories which I have not have studied confuse,any,1,11,0.004015660844743252
+266,n_nrel,It is not the case that the theories which I have not studied confuse,any,1,14,0.008171220310032368
+267,n_npp,No theories in none of these places confuse,any,1,8,0.009329254738986492
+268,n_npp,None of the theories in none of these places confuse,any,1,10,0.011707650497555733
+269,n_npp,It is not the case that theories in none of these places confuse,any,1,13,0.005679809954017401
+270,p_pn,The theories inspired,any,0,3,5.820617298013531e-05
+271,p_pn,Many of the theories inspired,any,0,5,2.3111835616873577e-05
+272,p_pn,It is the case that the theories inspired,any,0,8,4.58187387266662e-05
+273,p_prel,The theories which I have studied inspired,any,0,7,0.0003444965404924005
+274,p_prel,Many of the theories which I have studied inspired,any,0,9,0.00035934351035393775
+275,p_prel,It is the case that theories which I have studied inspired,any,0,11,0.0006011977675370872
+276,p_ppp,The theories in these places inspired,any,0,6,0.0002275116421515122
+277,p_ppp,Many of the theories in these places inspired,any,0,8,0.00016740195860620588
+278,p_ppp,It is the case that the theories in these places inspired,any,0,11,0.0004447161336429417
+279,p_nrel,The theories which I have not studied inspired,any,1,8,0.0012311125174164772
+280,p_nrel,Many of the theories which I have not studied inspired,any,1,10,0.0012502468889579177
+281,p_nrel,It is the case that the theories which I have not studied inspired,any,1,13,0.0033903694711625576
+282,p_npp,The theories in none of these places inspired,any,1,8,0.09722240269184113
+283,p_npp,Many of the theories in none of these places inspired,any,1,10,0.07521267235279083
+284,p_npp,It is the case that theories in none of these places inspired,any,1,12,0.04444039985537529
+285,n_pn,No theories inspired,any,1,3,0.002209647325798869
+286,n_pn,None of the theories inspired,any,1,5,0.0027646974194794893
+287,n_pn,It is not the case that the theories inspired,any,1,9,0.000492248625960201
+288,n_prel,No theories which I have studied inspired,any,1,7,0.01139024831354618
+289,n_prel,None of the theories which I have studied inspired,any,1,9,0.039343591779470444
+290,n_prel,It is not the case that the theories which I have studied inspired,any,1,13,0.022551119327545166
+291,n_ppp,No theories in these places inspired,any,1,6,0.008283903822302818
+292,n_ppp,None of the theories in these places inspired,any,1,8,0.03247207775712013
+293,n_ppp,It is not the case that theories in these places inspired,any,1,11,0.004517822992056608
+294,n_nrel,No theories which I have not studied inspired,any,1,8,0.013688238337635994
+295,n_nrel,None of the theories which I have not have studied inspired,any,1,11,0.07576484978199005
+296,n_nrel,It is not the case that the theories which I have not studied inspired,any,1,14,0.057737529277801514
+297,n_npp,No theories in none of these places inspired,any,1,8,0.04172329977154732
+298,n_npp,None of the theories in none of these places inspired,any,1,10,0.07853774726390839
+299,n_npp,It is not the case that theories in none of these places inspired,any,1,13,0.03286544606089592
+300,p_pn,The theories will change,any,0,4,0.0003970781108364463
+301,p_pn,Many of the theories will change,any,0,6,0.00044369715033099055
+302,p_pn,It is the case that the theories will change,any,0,9,0.0003710355085786432
+303,p_prel,The theories which I have studied will change,any,0,8,0.0019243500428274274
+304,p_prel,Many of the theories which I have studied will change,any,0,10,0.0013677382376044989
+305,p_prel,It is the case that theories which I have studied will change,any,0,12,0.0010880808113142848
+306,p_ppp,The theories in these places will change,any,0,7,0.0005278413882479072
+307,p_ppp,Many of the theories in these places will change,any,0,9,0.0005157190025784075
+308,p_ppp,It is the case that the theories in these places will change,any,0,12,0.0004179166571702808
+309,p_nrel,The theories which I have not studied will change,any,1,9,0.0030886183958500624
+310,p_nrel,Many of the theories which I have not studied will change,any,1,11,0.002493860898539424
+311,p_nrel,It is the case that the theories which I have not studied will change,any,1,14,0.002228463301435113
+312,p_npp,The theories in none of these places will change,any,1,9,0.012507653795182705
+313,p_npp,Many of the theories in none of these places will change,any,1,11,0.010806686244904995
+314,p_npp,It is the case that theories in none of these places will change,any,1,13,0.008135031908750534
+315,n_pn,No theories will change,any,1,4,0.0037854586262255907
+316,n_pn,None of the theories will change,any,1,6,0.007677163928747177
+317,n_pn,It is not the case that the theories will change,any,1,10,0.009341520257294178
+318,n_prel,No theories which I have studied will change,any,1,8,0.00898054987192154
+319,n_prel,None of the theories which I have studied will change,any,1,10,0.01301454659551382
+320,n_prel,It is not the case that the theories which I have studied will change,any,1,14,0.020165031775832176
+321,n_ppp,No theories in these places will change,any,1,7,0.004709362518042326
+322,n_ppp,None of the theories in these places will change,any,1,9,0.008382132276892662
+323,n_ppp,It is not the case that theories in these places will change,any,1,12,0.0048130350187420845
+324,n_nrel,No theories which I have not studied will change,any,1,9,0.009651539847254753
+325,n_nrel,None of the theories which I have not have studied will change,any,1,12,0.01551451999694109
+326,n_nrel,It is not the case that the theories which I have not studied will change,any,1,15,0.023233618587255478
+327,n_npp,No theories in none of these places will change,any,1,9,0.0062542445957660675
+328,n_npp,None of the theories in none of these places will change,any,1,11,0.009903905913233757
+329,n_npp,It is not the case that theories in none of these places will change,any,1,14,0.008315696381032467
+330,p_pn,The theories impress,any,0,3,0.0013263027649372816
+331,p_pn,Many of the theories impress,any,0,5,0.0010741464793682098
+332,p_pn,It is the case that the theories impress,any,0,8,0.001097066910006106
+333,p_prel,The theories which I have studied impress,any,0,7,0.0007586897118017077
+334,p_prel,Many of the theories which I have studied impress,any,0,9,0.0007165618008002639
+335,p_prel,It is the case that theories which I have studied impress,any,0,11,0.0012977065052837133
+336,p_ppp,The theories in these places impress,any,0,6,0.0013549062423408031
+337,p_ppp,Many of the theories in these places impress,any,0,8,0.0011361615033820271
+338,p_ppp,It is the case that the theories in these places impress,any,0,11,0.001379667897708714
+339,p_nrel,The theories which I have not studied impress,any,1,8,0.0015322809340432286
+340,p_nrel,Many of the theories which I have not studied impress,any,1,10,0.001492049777880311
+341,p_nrel,It is the case that the theories which I have not studied impress,any,1,13,0.002264516893774271
+342,p_npp,The theories in none of these places impress,any,1,8,0.019618354737758636
+343,p_npp,Many of the theories in none of these places impress,any,1,10,0.014471227303147316
+344,p_npp,It is the case that theories in none of these places impress,any,1,12,0.02205961011350155
+345,n_pn,No theories impress,any,1,3,0.004481941927224398
+346,n_pn,None of the theories impress,any,1,5,0.012301565147936344
+347,n_pn,It is not the case that the theories impress,any,1,9,0.015333922579884529
+348,n_prel,No theories which I have studied impress,any,1,7,0.0030277830082923174
+349,n_prel,None of the theories which I have studied impress,any,1,9,0.009310550056397915
+350,n_prel,It is not the case that the theories which I have studied impress,any,1,13,0.012020974420011044
+351,n_ppp,No theories in these places impress,any,1,6,0.005928146652877331
+352,n_ppp,None of the theories in these places impress,any,1,8,0.0132020004093647
+353,n_ppp,It is not the case that theories in these places impress,any,1,11,0.017087895423173904
+354,n_nrel,No theories which I have not studied impress,any,1,8,0.005101087037473917
+355,n_nrel,None of the theories which I have not have studied impress,any,1,11,0.008993838913738728
+356,n_nrel,It is not the case that the theories which I have not studied impress,any,1,14,0.021763918921351433
+357,n_npp,No theories in none of these places impress,any,1,8,0.010725196450948715
+358,n_npp,None of the theories in none of these places impress,any,1,10,0.01623033545911312
+359,n_npp,It is not the case that theories in none of these places impress,any,1,13,0.026048246771097183
+360,p_pn,The cats have done,any,0,4,0.00021992280380800366
+361,p_pn,Many of the cats have done,any,0,6,0.0002686471270862967
+362,p_pn,It is the case that the cats have done,any,0,9,0.0004420848563313484
+363,p_prel,The cats which I have studied have done,any,0,8,0.00021395199291873723
+364,p_prel,Many of the cats which I have studied have done,any,0,10,0.0002155280380975455
+365,p_prel,It is the case that cats which I have studied have done,any,0,12,0.00022730862838216126
+366,p_ppp,The cats in these places have done,any,0,7,0.00036515953252092004
+367,p_ppp,Many of the cats in these places have done,any,0,9,0.0003978767490480095
+368,p_ppp,It is the case that the cats in these places have done,any,0,12,0.0005422215908765793
+369,p_nrel,The cats which I have not studied have done,any,1,9,0.0003383581934031099
+370,p_nrel,Many of the cats which I have not studied have done,any,1,11,0.00037929508835077286
+371,p_nrel,It is the case that the cats which I have not studied have done,any,1,14,0.0008901473484002054
+372,p_npp,The cats in none of these places have done,any,1,9,0.1093747615814209
+373,p_npp,Many of the cats in none of these places have done,any,1,11,0.12363140285015106
+374,p_npp,It is the case that cats in none of these places have done,any,1,13,0.10301441699266434
+375,n_pn,No cats have done,any,1,4,0.02325974963605404
+376,n_pn,None of the cats have done,any,1,6,0.10870266705751419
+377,n_pn,It is not the case that the cats have done,any,1,10,0.07464577257633209
+378,n_prel,No cats which I have studied have done,any,1,8,0.02402004599571228
+379,n_prel,None of the cats which I have studied have done,any,1,10,0.08284758031368256
+380,n_prel,It is not the case that the cats which I have studied have done,any,1,14,0.06875719875097275
+381,n_ppp,No cats in these places have done,any,1,7,0.054335132241249084
+382,n_ppp,None of the cats in these places have done,any,1,9,0.12530580163002014
+383,n_ppp,It is not the case that cats in these places have done,any,1,12,0.06160770356655121
+384,n_nrel,No cats which I have not studied have done,any,1,9,0.04191531240940094
+385,n_nrel,None of the cats which I have not have studied have done,any,1,12,0.08468268066644669
+386,n_nrel,It is not the case that the cats which I have not studied have done,any,1,15,0.09316250681877136
+387,n_npp,No cats in none of these places have done,any,1,9,0.05953027680516243
+388,n_npp,None of the cats in none of these places have done,any,1,11,0.10845105350017548
+389,n_npp,It is not the case that cats in none of these places have done,any,1,14,0.08907120674848557
+390,p_pn,The cats will impact,any,0,4,0.0031431035604327917
+391,p_pn,Many of the cats will impact,any,0,6,0.001897036680020392
+392,p_pn,It is the case that the cats will impact,any,0,9,0.002934425836429
+393,p_prel,The cats which I have studied will impact,any,0,8,0.0034771168138831854
+394,p_prel,Many of the cats which I have studied will impact,any,0,10,0.002204605145379901
+395,p_prel,It is the case that cats which I have studied will impact,any,0,12,0.0019040905172005296
+396,p_ppp,The cats in these places will impact,any,0,7,0.001548448926769197
+397,p_ppp,Many of the cats in these places will impact,any,0,9,0.0014879778027534485
+398,p_ppp,It is the case that the cats in these places will impact,any,0,12,0.001754622207954526
+399,p_nrel,The cats which I have not studied will impact,any,1,9,0.007067536469548941
+400,p_nrel,Many of the cats which I have not studied will impact,any,1,11,0.00383132160641253
+401,p_nrel,It is the case that the cats which I have not studied will impact,any,1,14,0.004689929541200399
+402,p_npp,The cats in none of these places will impact,any,1,9,0.027904391288757324
+403,p_npp,Many of the cats in none of these places will impact,any,1,11,0.023498155176639557
+404,p_npp,It is the case that cats in none of these places will impact,any,1,13,0.019768422469496727
+405,n_pn,No cats will impact,any,1,4,0.011039515025913715
+406,n_pn,None of the cats will impact,any,1,6,0.021033020690083504
+407,n_pn,It is not the case that the cats will impact,any,1,10,0.02173587866127491
+408,n_prel,No cats which I have studied will impact,any,1,8,0.007509924937039614
+409,n_prel,None of the cats which I have studied will impact,any,1,10,0.023352529853582382
+410,n_prel,It is not the case that the cats which I have studied will impact,any,1,14,0.025980016216635704
+411,n_ppp,No cats in these places will impact,any,1,7,0.006232497747987509
+412,n_ppp,None of the cats in these places will impact,any,1,9,0.021692831069231033
+413,n_ppp,It is not the case that cats in these places will impact,any,1,12,0.011662234552204609
+414,n_nrel,No cats which I have not studied will impact,any,1,9,0.014496673829853535
+415,n_nrel,None of the cats which I have not have studied will impact,any,1,12,0.022282863035798073
+416,n_nrel,It is not the case that the cats which I have not studied will impact,any,1,15,0.026875043287873268
+417,n_npp,No cats in none of these places will impact,any,1,9,0.018194887787103653
+418,n_npp,None of the cats in none of these places will impact,any,1,11,0.02191885933279991
+419,n_npp,It is not the case that cats in none of these places will impact,any,1,14,0.01573341339826584
+420,p_pn,The cats confuse,any,0,3,0.0013554419856518507
+421,p_pn,Many of the cats confuse,any,0,5,0.0008490310283377767
+422,p_pn,It is the case that the cats confuse,any,0,8,0.0013584087137132883
+423,p_prel,The cats which I have studied confuse,any,0,7,0.0015615086304023862
+424,p_prel,Many of the cats which I have studied confuse,any,0,9,0.0011977256508544087
+425,p_prel,It is the case that cats which I have studied confuse,any,0,11,0.0015342675615102053
+426,p_ppp,The cats in these places confuse,any,0,6,0.0016170809976756573
+427,p_ppp,Many of the cats in these places confuse,any,0,8,0.0010754269314929843
+428,p_ppp,It is the case that the cats in these places confuse,any,0,11,0.0015064922627061605
+429,p_nrel,The cats which I have not studied confuse,any,1,8,0.0012628197437152267
+430,p_nrel,Many of the cats which I have not studied confuse,any,1,10,0.0009487245697528124
+431,p_nrel,It is the case that the cats which I have not studied confuse,any,1,13,0.0015476399566978216
+432,p_npp,The cats in none of these places confuse,any,1,8,0.020838916301727295
+433,p_npp,Many of the cats in none of these places confuse,any,1,10,0.007404920179396868
+434,p_npp,It is the case that cats in none of these places confuse,any,1,12,0.009261514991521835
+435,n_pn,No cats confuse,any,1,3,0.004341705236583948
+436,n_pn,None of the cats confuse,any,1,5,0.008762831799685955
+437,n_pn,It is not the case that the cats confuse,any,1,9,0.007030151318758726
+438,n_prel,No cats which I have studied confuse,any,1,7,0.0029240550938993692
+439,n_prel,None of the cats which I have studied confuse,any,1,9,0.011185749433934689
+440,n_prel,It is not the case that the cats which I have studied confuse,any,1,13,0.013200516812503338
+441,n_ppp,No cats in these places confuse,any,1,6,0.004606966860592365
+442,n_ppp,None of the cats in these places confuse,any,1,8,0.012645244598388672
+443,n_ppp,It is not the case that cats in these places confuse,any,1,11,0.004232896491885185
+444,n_nrel,No cats which I have not studied confuse,any,1,8,0.00272735976614058
+445,n_nrel,None of the cats which I have not have studied confuse,any,1,11,0.006231987848877907
+446,n_nrel,It is not the case that the cats which I have not studied confuse,any,1,14,0.013582104817032814
+447,n_npp,No cats in none of these places confuse,any,1,8,0.010849750600755215
+448,n_npp,None of the cats in none of these places confuse,any,1,10,0.015521661378443241
+449,n_npp,It is not the case that cats in none of these places confuse,any,1,13,0.007938630878925323
+450,p_pn,The cats inspired,any,0,3,0.00020675209816545248
+451,p_pn,Many of the cats inspired,any,0,5,0.0001350646052742377
+452,p_pn,It is the case that the cats inspired,any,0,8,0.0006988623645156622
+453,p_prel,The cats which I have studied inspired,any,0,7,0.00031012026011012495
+454,p_prel,Many of the cats which I have studied inspired,any,0,9,0.00035073168692179024
+455,p_prel,It is the case that cats which I have studied inspired,any,0,11,0.000573783996514976
+456,p_ppp,The cats in these places inspired,any,0,6,0.00016263728321064264
+457,p_ppp,Many of the cats in these places inspired,any,0,8,0.00016253655485343188
+458,p_ppp,It is the case that the cats in these places inspired,any,0,11,0.0005107743199914694
+459,p_nrel,The cats which I have not studied inspired,any,1,8,0.0010183812119066715
+460,p_nrel,Many of the cats which I have not studied inspired,any,1,10,0.0011759689077734947
+461,p_nrel,It is the case that the cats which I have not studied inspired,any,1,13,0.0025188871659338474
+462,p_npp,The cats in none of these places inspired,any,1,8,0.06615296006202698
+463,p_npp,Many of the cats in none of these places inspired,any,1,10,0.043143175542354584
+464,p_npp,It is the case that cats in none of these places inspired,any,1,12,0.04535134136676788
+465,n_pn,No cats inspired,any,1,3,0.004268623422831297
+466,n_pn,None of the cats inspired,any,1,5,0.01505409274250269
+467,n_pn,It is not the case that the cats inspired,any,1,9,0.015940330922603607
+468,n_prel,No cats which I have studied inspired,any,1,7,0.002564056543633342
+469,n_prel,None of the cats which I have studied inspired,any,1,9,0.04706224799156189
+470,n_prel,It is not the case that the cats which I have studied inspired,any,1,13,0.031010447070002556
+471,n_ppp,No cats in these places inspired,any,1,6,0.005310464650392532
+472,n_ppp,None of the cats in these places inspired,any,1,8,0.04295090585947037
+473,n_ppp,It is not the case that cats in these places inspired,any,1,11,0.014756581746041775
+474,n_nrel,No cats which I have not studied inspired,any,1,8,0.009708438068628311
+475,n_nrel,None of the cats which I have not have studied inspired,any,1,11,0.05096964165568352
+476,n_nrel,It is not the case that the cats which I have not studied inspired,any,1,14,0.0521085225045681
+477,n_npp,No cats in none of these places inspired,any,1,8,0.025608433410525322
+478,n_npp,None of the cats in none of these places inspired,any,1,10,0.062076423317193985
+479,n_npp,It is not the case that cats in none of these places inspired,any,1,13,0.03836642950773239
+480,p_pn,The cats will change,any,0,4,0.0007922213990241289
+481,p_pn,Many of the cats will change,any,0,6,0.00027852124185301363
+482,p_pn,It is the case that the cats will change,any,0,9,0.0007725927280262113
+483,p_prel,The cats which I have studied will change,any,0,8,0.002125280676409602
+484,p_prel,Many of the cats which I have studied will change,any,0,10,0.00044841060298494995
+485,p_prel,It is the case that cats which I have studied will change,any,0,12,0.0006020418368279934
+486,p_ppp,The cats in these places will change,any,0,7,0.0006787122692912817
+487,p_ppp,Many of the cats in these places will change,any,0,9,0.00027079976280219853
+488,p_ppp,It is the case that the cats in these places will change,any,0,12,0.0005568164051510394
+489,p_nrel,The cats which I have not studied will change,any,1,9,0.0029781372286379337
+490,p_nrel,Many of the cats which I have not studied will change,any,1,11,0.0008426671265624464
+491,p_nrel,It is the case that the cats which I have not studied will change,any,1,14,0.0015250390861183405
+492,p_npp,The cats in none of these places will change,any,1,9,0.010468840599060059
+493,p_npp,Many of the cats in none of these places will change,any,1,11,0.003838550066575408
+494,p_npp,It is the case that cats in none of these places will change,any,1,13,0.004749124404042959
+495,n_pn,No cats will change,any,1,4,0.005746073555201292
+496,n_pn,None of the cats will change,any,1,6,0.005247080232948065
+497,n_pn,It is not the case that the cats will change,any,1,10,0.007419389672577381
+498,n_prel,No cats which I have studied will change,any,1,8,0.005074313376098871
+499,n_prel,None of the cats which I have studied will change,any,1,10,0.012307708151638508
+500,n_prel,It is not the case that the cats which I have studied will change,any,1,14,0.013712301850318909
+501,n_ppp,No cats in these places will change,any,1,7,0.002757834503427148
+502,n_ppp,None of the cats in these places will change,any,1,9,0.005364161916077137
+503,n_ppp,It is not the case that cats in these places will change,any,1,12,0.0038799187168478966
+504,n_nrel,No cats which I have not studied will change,any,1,9,0.010542744770646095
+505,n_nrel,None of the cats which I have not have studied will change,any,1,12,0.0130893150344491
+506,n_nrel,It is not the case that the cats which I have not studied will change,any,1,15,0.014628822915256023
+507,n_npp,No cats in none of these places will change,any,1,9,0.006581200286746025
+508,n_npp,None of the cats in none of these places will change,any,1,11,0.0050416383892297745
+509,n_npp,It is not the case that cats in none of these places will change,any,1,14,0.0040728505700826645
+510,p_pn,The cats impress,any,0,3,0.0008288382668979466
+511,p_pn,Many of the cats impress,any,0,5,0.0005336779868230224
+512,p_pn,It is the case that the cats impress,any,0,8,0.0010776466224342585
+513,p_prel,The cats which I have studied impress,any,0,7,0.0003735163190867752
+514,p_prel,Many of the cats which I have studied impress,any,0,9,0.0002783751115202904
+515,p_prel,It is the case that cats which I have studied impress,any,0,11,0.0010064131347462535
+516,p_ppp,The cats in these places impress,any,0,6,0.0011231881799176335
+517,p_ppp,Many of the cats in these places impress,any,0,8,0.0008252337574958801
+518,p_ppp,It is the case that the cats in these places impress,any,0,11,0.0013478543842211366
+519,p_nrel,The cats which I have not studied impress,any,1,8,0.0007340958691202104
+520,p_nrel,Many of the cats which I have not studied impress,any,1,10,0.0004993658512830734
+521,p_nrel,It is the case that the cats which I have not studied impress,any,1,13,0.0016166350105777383
+522,p_npp,The cats in none of these places impress,any,1,8,0.019596729427576065
+523,p_npp,Many of the cats in none of these places impress,any,1,10,0.01573222130537033
+524,p_npp,It is the case that cats in none of these places impress,any,1,12,0.03572933375835419
+525,n_pn,No cats impress,any,1,3,0.0049168383702635765
+526,n_pn,None of the cats impress,any,1,5,0.011687063612043858
+527,n_pn,It is not the case that the cats impress,any,1,9,0.024399492889642715
+528,n_prel,No cats which I have studied impress,any,1,7,0.0018074035178869963
+529,n_prel,None of the cats which I have studied impress,any,1,9,0.008350907824933529
+530,n_prel,It is not the case that the cats which I have studied impress,any,1,13,0.013548932038247585
+531,n_ppp,No cats in these places impress,any,1,6,0.006952840834856033
+532,n_ppp,None of the cats in these places impress,any,1,8,0.0179771576076746
+533,n_ppp,It is not the case that cats in these places impress,any,1,11,0.027411431074142456
+534,n_nrel,No cats which I have not studied impress,any,1,8,0.005011538974940777
+535,n_nrel,None of the cats which I have not have studied impress,any,1,11,0.008663645014166832
+536,n_nrel,It is not the case that the cats which I have not studied impress,any,1,14,0.02532949112355709
+537,n_npp,No cats in none of these places impress,any,1,8,0.010610433295369148
+538,n_npp,None of the cats in none of these places impress,any,1,10,0.018200699239969254
+539,n_npp,It is not the case that cats in none of these places impress,any,1,13,0.03972812741994858
+540,p_pn,The queens have done,any,0,4,0.00022462036577053368
+541,p_pn,Many of the queens have done,any,0,6,0.00023707150830887258
+542,p_pn,It is the case that the queens have done,any,0,9,0.0003820055571850389
+543,p_prel,The queens which I have studied have done,any,0,8,0.0002865577407646924
+544,p_prel,Many of the queens which I have studied have done,any,0,10,0.00031409726943820715
+545,p_prel,It is the case that queens which I have studied have done,any,0,12,0.0002079840487567708
+546,p_ppp,The queens in these places have done,any,0,7,0.0003275822673458606
+547,p_ppp,Many of the queens in these places have done,any,0,9,0.000397277093725279
+548,p_ppp,It is the case that the queens in these places have done,any,0,12,0.00043440156150609255
+549,p_nrel,The queens which I have not studied have done,any,1,9,0.00038811564445495605
+550,p_nrel,Many of the queens which I have not studied have done,any,1,11,0.0004496455076150596
+551,p_nrel,It is the case that the queens which I have not studied have done,any,1,14,0.0006278216606006026
+552,p_npp,The queens in none of these places have done,any,1,9,0.07318636775016785
+553,p_npp,Many of the queens in none of these places have done,any,1,11,0.08125831186771393
+554,p_npp,It is the case that queens in none of these places have done,any,1,13,0.061924852430820465
+555,n_pn,No queens have done,any,1,4,0.013422735966742039
+556,n_pn,None of the queens have done,any,1,6,0.06942828744649887
+557,n_pn,It is not the case that the queens have done,any,1,10,0.04650682583451271
+558,n_prel,No queens which I have studied have done,any,1,8,0.011310608126223087
+559,n_prel,None of the queens which I have studied have done,any,1,10,0.05171503499150276
+560,n_prel,It is not the case that the queens which I have studied have done,any,1,14,0.026754023507237434
+561,n_ppp,No queens in these places have done,any,1,7,0.021405482664704323
+562,n_ppp,None of the queens in these places have done,any,1,9,0.08204764127731323
+563,n_ppp,It is not the case that queens in these places have done,any,1,12,0.03125083073973656
+564,n_nrel,No queens which I have not studied have done,any,1,9,0.01687789522111416
+565,n_nrel,None of the queens which I have not have studied have done,any,1,12,0.048926305025815964
+566,n_nrel,It is not the case that the queens which I have not studied have done,any,1,15,0.04134557768702507
+567,n_npp,No queens in none of these places have done,any,1,9,0.03091995231807232
+568,n_npp,None of the queens in none of these places have done,any,1,11,0.07406467944383621
+569,n_npp,It is not the case that queens in none of these places have done,any,1,14,0.04897327348589897
+570,p_pn,The queens will impact,any,0,4,0.003309049876406789
+571,p_pn,Many of the queens will impact,any,0,6,0.0026875881012529135
+572,p_pn,It is the case that the queens will impact,any,0,9,0.0028866936918348074
+573,p_prel,The queens which I have studied will impact,any,0,8,0.002266175113618374
+574,p_prel,Many of the queens which I have studied will impact,any,0,10,0.002130095846951008
+575,p_prel,It is the case that queens which I have studied will impact,any,0,12,0.0013763242168352008
+576,p_ppp,The queens in these places will impact,any,0,7,0.0014354848535731435
+577,p_ppp,Many of the queens in these places will impact,any,0,9,0.0015982167096808553
+578,p_ppp,It is the case that the queens in these places will impact,any,0,12,0.001527241081930697
+579,p_nrel,The queens which I have not studied will impact,any,1,9,0.004016234539449215
+580,p_nrel,Many of the queens which I have not studied will impact,any,1,11,0.0033429774921387434
+581,p_nrel,It is the case that the queens which I have not studied will impact,any,1,14,0.0032128647435456514
+582,p_npp,The queens in none of these places will impact,any,1,9,0.03137969225645065
+583,p_npp,Many of the queens in none of these places will impact,any,1,11,0.029781118035316467
+584,p_npp,It is the case that queens in none of these places will impact,any,1,13,0.01907697319984436
+585,n_pn,No queens will impact,any,1,4,0.014406848698854446
+586,n_pn,None of the queens will impact,any,1,6,0.02827765978872776
+587,n_pn,It is not the case that the queens will impact,any,1,10,0.028356924653053284
+588,n_prel,No queens which I have studied will impact,any,1,8,0.0070585268549621105
+589,n_prel,None of the queens which I have studied will impact,any,1,10,0.022314194589853287
+590,n_prel,It is not the case that the queens which I have studied will impact,any,1,14,0.02244364656507969
+591,n_ppp,No queens in these places will impact,any,1,7,0.006060426123440266
+592,n_ppp,None of the queens in these places will impact,any,1,9,0.023952877148985863
+593,n_ppp,It is not the case that queens in these places will impact,any,1,12,0.010931308381259441
+594,n_nrel,No queens which I have not studied will impact,any,1,9,0.012915955856442451
+595,n_nrel,None of the queens which I have not have studied will impact,any,1,12,0.020355023443698883
+596,n_nrel,It is not the case that the queens which I have not studied will impact,any,1,15,0.02348247356712818
+597,n_npp,No queens in none of these places will impact,any,1,9,0.01938009448349476
+598,n_npp,None of the queens in none of these places will impact,any,1,11,0.02473907358944416
+599,n_npp,It is not the case that queens in none of these places will impact,any,1,14,0.016036512330174446
+600,p_pn,The queens confuse,any,0,3,0.0007859497563913465
+601,p_pn,Many of the queens confuse,any,0,5,0.0007604877464473248
+602,p_pn,It is the case that the queens confuse,any,0,8,0.0010328462813049555
+603,p_prel,The queens which I have studied confuse,any,0,7,0.001653500134125352
+604,p_prel,Many of the queens which I have studied confuse,any,0,9,0.0012746811844408512
+605,p_prel,It is the case that queens which I have studied confuse,any,0,11,0.0013166740536689758
+606,p_ppp,The queens in these places confuse,any,0,6,0.0013362186728045344
+607,p_ppp,Many of the queens in these places confuse,any,0,8,0.0009903289610520005
+608,p_ppp,It is the case that the queens in these places confuse,any,0,11,0.0011376295005902648
+609,p_nrel,The queens which I have not studied confuse,any,1,8,0.0011232106480747461
+610,p_nrel,Many of the queens which I have not studied confuse,any,1,10,0.0008427478605881333
+611,p_nrel,It is the case that the queens which I have not studied confuse,any,1,13,0.0012738421792164445
+612,p_npp,The queens in none of these places confuse,any,1,8,0.016782259568572044
+613,p_npp,Many of the queens in none of these places confuse,any,1,10,0.00795633066445589
+614,p_npp,It is the case that queens in none of these places confuse,any,1,12,0.0043088942766189575
+615,n_pn,No queens confuse,any,1,3,0.003634877037256956
+616,n_pn,None of the queens confuse,any,1,5,0.009180874563753605
+617,n_pn,It is not the case that the queens confuse,any,1,9,0.0045942263677716255
+618,n_prel,No queens which I have studied confuse,any,1,7,0.0020300408359616995
+619,n_prel,None of the queens which I have studied confuse,any,1,9,0.009205200709402561
+620,n_prel,It is not the case that the queens which I have studied confuse,any,1,13,0.007606257684528828
+621,n_ppp,No queens in these places confuse,any,1,6,0.0027381067629903555
+622,n_ppp,None of the queens in these places confuse,any,1,8,0.010811801999807358
+623,n_ppp,It is not the case that queens in these places confuse,any,1,11,0.0023534686770290136
+624,n_nrel,No queens which I have not studied confuse,any,1,8,0.001888834871351719
+625,n_nrel,None of the queens which I have not have studied confuse,any,1,11,0.004233683459460735
+626,n_nrel,It is not the case that the queens which I have not studied confuse,any,1,14,0.00770333269611001
+627,n_npp,No queens in none of these places confuse,any,1,8,0.010066784918308258
+628,n_npp,None of the queens in none of these places confuse,any,1,10,0.013701512478291988
+629,n_npp,It is not the case that queens in none of these places confuse,any,1,13,0.004551418125629425
+630,p_pn,The queens inspired,any,0,3,0.00020425242837518454
+631,p_pn,Many of the queens inspired,any,0,5,0.00013481811038218439
+632,p_pn,It is the case that the queens inspired,any,0,8,0.0006295163766480982
+633,p_prel,The queens which I have studied inspired,any,0,7,0.0003255813498981297
+634,p_prel,Many of the queens which I have studied inspired,any,0,9,0.00037205012631602585
+635,p_prel,It is the case that queens which I have studied inspired,any,0,11,0.0005063379649072886
+636,p_ppp,The queens in these places inspired,any,0,6,0.00019481479830574244
+637,p_ppp,Many of the queens in these places inspired,any,0,8,0.0002139674179488793
+638,p_ppp,It is the case that the queens in these places inspired,any,0,11,0.00047904433449730277
+639,p_nrel,The queens which I have not studied inspired,any,1,8,0.0010200769174844027
+640,p_nrel,Many of the queens which I have not studied inspired,any,1,10,0.0010748107451945543
+641,p_nrel,It is the case that the queens which I have not studied inspired,any,1,13,0.002373861614614725
+642,p_npp,The queens in none of these places inspired,any,1,8,0.06318414211273193
+643,p_npp,Many of the queens in none of these places inspired,any,1,10,0.054384730756282806
+644,p_npp,It is the case that queens in none of these places inspired,any,1,12,0.02905723638832569
+645,n_pn,No queens inspired,any,1,3,0.0029870884027332067
+646,n_pn,None of the queens inspired,any,1,5,0.015115267597138882
+647,n_pn,It is not the case that the queens inspired,any,1,9,0.016000689938664436
+648,n_prel,No queens which I have studied inspired,any,1,7,0.0025602509267628193
+649,n_prel,None of the queens which I have studied inspired,any,1,9,0.03771733120083809
+650,n_prel,It is not the case that the queens which I have studied inspired,any,1,13,0.020916858687996864
+651,n_ppp,No queens in these places inspired,any,1,6,0.005474235862493515
+652,n_ppp,None of the queens in these places inspired,any,1,8,0.03910849243402481
+653,n_ppp,It is not the case that queens in these places inspired,any,1,11,0.00889973621815443
+654,n_nrel,No queens which I have not studied inspired,any,1,8,0.00752874743193388
+655,n_nrel,None of the queens which I have not have studied inspired,any,1,11,0.04157882556319237
+656,n_nrel,It is not the case that the queens which I have not studied inspired,any,1,14,0.04165743291378021
+657,n_npp,No queens in none of these places inspired,any,1,8,0.024852342903614044
+658,n_npp,None of the queens in none of these places inspired,any,1,10,0.06064475327730179
+659,n_npp,It is not the case that queens in none of these places inspired,any,1,13,0.031489137560129166
+660,p_pn,The queens will change,any,0,4,0.0008708821842446923
+661,p_pn,Many of the queens will change,any,0,6,0.00038692427915520966
+662,p_pn,It is the case that the queens will change,any,0,9,0.0010923356749117374
+663,p_prel,The queens which I have studied will change,any,0,8,0.0016431356780231
+664,p_prel,Many of the queens which I have studied will change,any,0,10,0.0006869969074614346
+665,p_prel,It is the case that queens which I have studied will change,any,0,12,0.0006779172690585256
+666,p_ppp,The queens in these places will change,any,0,7,0.0006761524709872901
+667,p_ppp,Many of the queens in these places will change,any,0,9,0.00027357530780136585
+668,p_ppp,It is the case that the queens in these places will change,any,0,12,0.0005949803162366152
+669,p_nrel,The queens which I have not studied will change,any,1,9,0.0024358148220926523
+670,p_nrel,Many of the queens which I have not studied will change,any,1,11,0.0012205092934891582
+671,p_nrel,It is the case that the queens which I have not studied will change,any,1,14,0.0016908962279558182
+672,p_npp,The queens in none of these places will change,any,1,9,0.008805167861282825
+673,p_npp,Many of the queens in none of these places will change,any,1,11,0.004263461567461491
+674,p_npp,It is the case that queens in none of these places will change,any,1,13,0.00432572653517127
+675,n_pn,No queens will change,any,1,4,0.006509273312985897
+676,n_pn,None of the queens will change,any,1,6,0.005324451718479395
+677,n_pn,It is not the case that the queens will change,any,1,10,0.008450556546449661
+678,n_prel,No queens which I have studied will change,any,1,8,0.005858690943568945
+679,n_prel,None of the queens which I have studied will change,any,1,10,0.012675486505031586
+680,n_prel,It is not the case that the queens which I have studied will change,any,1,14,0.011676146648824215
+681,n_ppp,No queens in these places will change,any,1,7,0.0026386003009974957
+682,n_ppp,None of the queens in these places will change,any,1,9,0.0054174489341676235
+683,n_ppp,It is not the case that queens in these places will change,any,1,12,0.0029878830537199974
+684,n_nrel,No queens which I have not studied will change,any,1,9,0.011549131013453007
+685,n_nrel,None of the queens which I have not have studied will change,any,1,12,0.013006315566599369
+686,n_nrel,It is not the case that the queens which I have not studied will change,any,1,15,0.013212025165557861
+687,n_npp,No queens in none of these places will change,any,1,9,0.006009869277477264
+688,n_npp,None of the queens in none of these places will change,any,1,11,0.00503908284008503
+689,n_npp,It is not the case that queens in none of these places will change,any,1,14,0.003509263973683119
+690,p_pn,The queens impress,any,0,3,0.0006319060921669006
+691,p_pn,Many of the queens impress,any,0,5,0.0005462045082822442
+692,p_pn,It is the case that the queens impress,any,0,8,0.0007862399215810001
+693,p_prel,The queens which I have studied impress,any,0,7,0.00036604650085791945
+694,p_prel,Many of the queens which I have studied impress,any,0,9,0.000422040990088135
+695,p_prel,It is the case that queens which I have studied impress,any,0,11,0.0008571334765292704
+696,p_ppp,The queens in these places impress,any,0,6,0.0009690900915302336
+697,p_ppp,Many of the queens in these places impress,any,0,8,0.0008343554218299687
+698,p_ppp,It is the case that the queens in these places impress,any,0,11,0.0009142552735283971
+699,p_nrel,The queens which I have not studied impress,any,1,8,0.0006024626200087368
+700,p_nrel,Many of the queens which I have not studied impress,any,1,10,0.00066398672061041
+701,p_nrel,It is the case that the queens which I have not studied impress,any,1,13,0.001353234052658081
+702,p_npp,The queens in none of these places impress,any,1,8,0.020508896559476852
+703,p_npp,Many of the queens in none of these places impress,any,1,10,0.018350590020418167
+704,p_npp,It is the case that queens in none of these places impress,any,1,12,0.017628272995352745
+705,n_pn,No queens impress,any,1,3,0.004418601281940937
+706,n_pn,None of the queens impress,any,1,5,0.012886949814856052
+707,n_pn,It is not the case that the queens impress,any,1,9,0.01335774827748537
+708,n_prel,No queens which I have studied impress,any,1,7,0.0008359167841263115
+709,n_prel,None of the queens which I have studied impress,any,1,9,0.008814950473606586
+710,n_prel,It is not the case that the queens which I have studied impress,any,1,13,0.00744626484811306
+711,n_ppp,No queens in these places impress,any,1,6,0.0032739972230046988
+712,n_ppp,None of the queens in these places impress,any,1,8,0.01768815517425537
+713,n_ppp,It is not the case that queens in these places impress,any,1,11,0.011501149274408817
+714,n_nrel,No queens which I have not studied impress,any,1,8,0.002721842611208558
+715,n_nrel,None of the queens which I have not have studied impress,any,1,11,0.008202250115573406
+716,n_nrel,It is not the case that the queens which I have not studied impress,any,1,14,0.017574110999703407
+717,n_npp,No queens in none of these places impress,any,1,8,0.009917545132339
+718,n_npp,None of the queens in none of these places impress,any,1,10,0.021109485998749733
+719,n_npp,It is not the case that queens in none of these places impress,any,1,13,0.024200083687901497
+720,p_pn,The books have done,any,0,4,0.00014621355512645096
+721,p_pn,Many of the books have done,any,0,6,0.00016200097161345184
+722,p_pn,It is the case that the books have done,any,0,9,0.000259394379099831
+723,p_prel,The books which I have studied have done,any,0,8,0.00031337662949226797
+724,p_prel,Many of the books which I have studied have done,any,0,10,0.0004113276954740286
+725,p_prel,It is the case that books which I have studied have done,any,0,12,0.00037166327820159495
+726,p_ppp,The books in these places have done,any,0,7,0.00026200470165349543
+727,p_ppp,Many of the books in these places have done,any,0,9,0.00032950739841908216
+728,p_ppp,It is the case that the books in these places have done,any,0,12,0.00043805711902678013
+729,p_nrel,The books which I have not studied have done,any,1,9,0.000581868807785213
+730,p_nrel,Many of the books which I have not studied have done,any,1,11,0.0007675183587707579
+731,p_nrel,It is the case that the books which I have not studied have done,any,1,14,0.0014150765491649508
+732,p_npp,The books in none of these places have done,any,1,9,0.11313323676586151
+733,p_npp,Many of the books in none of these places have done,any,1,11,0.10244720429182053
+734,p_npp,It is the case that books in none of these places have done,any,1,13,0.06942752003669739
+735,n_pn,No books have done,any,1,4,0.025286341086030006
+736,n_pn,None of the books have done,any,1,6,0.1007479578256607
+737,n_pn,It is not the case that the books have done,any,1,10,0.08529549837112427
+738,n_prel,No books which I have studied have done,any,1,8,0.06279435753822327
+739,n_prel,None of the books which I have studied have done,any,1,10,0.09395479410886765
+740,n_prel,It is not the case that the books which I have studied have done,any,1,14,0.10738423466682434
+741,n_ppp,No books in these places have done,any,1,7,0.06616738438606262
+742,n_ppp,None of the books in these places have done,any,1,9,0.11520814150571823
+743,n_ppp,It is not the case that books in these places have done,any,1,12,0.04680965468287468
+744,n_nrel,No books which I have not studied have done,any,1,9,0.051523007452487946
+745,n_nrel,None of the books which I have not have studied have done,any,1,12,0.08970259875059128
+746,n_nrel,It is not the case that the books which I have not studied have done,any,1,15,0.12448212504386902
+747,n_npp,No books in none of these places have done,any,1,9,0.06098271906375885
+748,n_npp,None of the books in none of these places have done,any,1,11,0.10594767332077026
+749,n_npp,It is not the case that books in none of these places have done,any,1,14,0.06275907903909683
+750,p_pn,The books will impact,any,0,4,0.0020512158516794443
+751,p_pn,Many of the books will impact,any,0,6,0.0015753598418086767
+752,p_pn,It is the case that the books will impact,any,0,9,0.0020279684104025364
+753,p_prel,The books which I have studied will impact,any,0,8,0.00218927301466465
+754,p_prel,Many of the books which I have studied will impact,any,0,10,0.0020816277246922255
+755,p_prel,It is the case that books which I have studied will impact,any,0,12,0.0013907401589676738
+756,p_ppp,The books in these places will impact,any,0,7,0.0013398111332207918
+757,p_ppp,Many of the books in these places will impact,any,0,9,0.0015075602568686008
+758,p_ppp,It is the case that the books in these places will impact,any,0,12,0.0015177311142906547
+759,p_nrel,The books which I have not studied will impact,any,1,9,0.0042395517230033875
+760,p_nrel,Many of the books which I have not studied will impact,any,1,11,0.0031753263901919127
+761,p_nrel,It is the case that the books which I have not studied will impact,any,1,14,0.0036192957777529955
+762,p_npp,The books in none of these places will impact,any,1,9,0.024732323363423347
+763,p_npp,Many of the books in none of these places will impact,any,1,11,0.019928844645619392
+764,p_npp,It is the case that books in none of these places will impact,any,1,13,0.01906909979879856
+765,n_pn,No books will impact,any,1,4,0.007805099245160818
+766,n_pn,None of the books will impact,any,1,6,0.019853832200169563
+767,n_pn,It is not the case that the books will impact,any,1,10,0.023790795356035233
+768,n_prel,No books which I have studied will impact,any,1,8,0.007848052307963371
+769,n_prel,None of the books which I have studied will impact,any,1,10,0.02308744005858898
+770,n_prel,It is not the case that the books which I have studied will impact,any,1,14,0.026884911581873894
+771,n_ppp,No books in these places will impact,any,1,7,0.006988668814301491
+772,n_ppp,None of the books in these places will impact,any,1,9,0.018754396587610245
+773,n_ppp,It is not the case that books in these places will impact,any,1,12,0.01092375535517931
+774,n_nrel,No books which I have not studied will impact,any,1,9,0.010446733795106411
+775,n_nrel,None of the books which I have not have studied will impact,any,1,12,0.02094670757651329
+776,n_nrel,It is not the case that the books which I have not studied will impact,any,1,15,0.027196820825338364
+777,n_npp,No books in none of these places will impact,any,1,9,0.015167975798249245
+778,n_npp,None of the books in none of these places will impact,any,1,11,0.019697124138474464
+779,n_npp,It is not the case that books in none of these places will impact,any,1,14,0.01604287326335907
+780,p_pn,The books confuse,any,0,3,0.0015103929908946157
+781,p_pn,Many of the books confuse,any,0,5,0.0009357735980302095
+782,p_pn,It is the case that the books confuse,any,0,8,0.0011309902183711529
+783,p_prel,The books which I have studied confuse,any,0,7,0.0015346615109592676
+784,p_prel,Many of the books which I have studied confuse,any,0,9,0.0010203166166320443
+785,p_prel,It is the case that books which I have studied confuse,any,0,11,0.001325582037679851
+786,p_ppp,The books in these places confuse,any,0,6,0.0014069989556446671
+787,p_ppp,Many of the books in these places confuse,any,0,8,0.0010687129106372595
+788,p_ppp,It is the case that the books in these places confuse,any,0,11,0.001170836971141398
+789,p_nrel,The books which I have not studied confuse,any,1,8,0.0010341359302401543
+790,p_nrel,Many of the books which I have not studied confuse,any,1,10,0.0006817283574491739
+791,p_nrel,It is the case that the books which I have not studied confuse,any,1,13,0.0014022657414898276
+792,p_npp,The books in none of these places confuse,any,1,8,0.020419707521796227
+793,p_npp,Many of the books in none of these places confuse,any,1,10,0.009973789565265179
+794,p_npp,It is the case that books in none of these places confuse,any,1,12,0.006573783699423075
+795,n_pn,No books confuse,any,1,3,0.0027513294480741024
+796,n_pn,None of the books confuse,any,1,5,0.012858879752457142
+797,n_pn,It is not the case that the books confuse,any,1,9,0.00908020418137312
+798,n_prel,No books which I have studied confuse,any,1,7,0.0033537535928189754
+799,n_prel,None of the books which I have studied confuse,any,1,9,0.010267576202750206
+800,n_prel,It is not the case that the books which I have studied confuse,any,1,13,0.01247219368815422
+801,n_ppp,No books in these places confuse,any,1,6,0.0023420436773449183
+802,n_ppp,None of the books in these places confuse,any,1,8,0.012081658467650414
+803,n_ppp,It is not the case that books in these places confuse,any,1,11,0.0030299604404717684
+804,n_nrel,No books which I have not studied confuse,any,1,8,0.002509957877919078
+805,n_nrel,None of the books which I have not have studied confuse,any,1,11,0.005458473693579435
+806,n_nrel,It is not the case that the books which I have not studied confuse,any,1,14,0.011215904727578163
+807,n_npp,No books in none of these places confuse,any,1,8,0.008646178990602493
+808,n_npp,None of the books in none of these places confuse,any,1,10,0.01396549679338932
+809,n_npp,It is not the case that books in none of these places confuse,any,1,13,0.005401343107223511
+810,p_pn,The books inspired,any,0,3,0.00017591312644071877
+811,p_pn,Many of the books inspired,any,0,5,7.598185766255483e-05
+812,p_pn,It is the case that the books inspired,any,0,8,0.000569445313885808
+813,p_prel,The books which I have studied inspired,any,0,7,0.00029589838231913745
+814,p_prel,Many of the books which I have studied inspired,any,0,9,0.00028267642483115196
+815,p_prel,It is the case that books which I have studied inspired,any,0,11,0.00046343181747943163
+816,p_ppp,The books in these places inspired,any,0,6,0.0001927089033415541
+817,p_ppp,Many of the books in these places inspired,any,0,8,0.000201658986043185
+818,p_ppp,It is the case that the books in these places inspired,any,0,11,0.0005118168191984296
+819,p_nrel,The books which I have not studied inspired,any,1,8,0.000848021765705198
+820,p_nrel,Many of the books which I have not studied inspired,any,1,10,0.0007194189238362014
+821,p_nrel,It is the case that the books which I have not studied inspired,any,1,13,0.0020495743956416845
+822,p_npp,The books in none of these places inspired,any,1,8,0.09187866002321243
+823,p_npp,Many of the books in none of these places inspired,any,1,10,0.07065271586179733
+824,p_npp,It is the case that books in none of these places inspired,any,1,12,0.04784787818789482
+825,n_pn,No books inspired,any,1,3,0.0015024692984297872
+826,n_pn,None of the books inspired,any,1,5,0.014203926548361778
+827,n_pn,It is not the case that the books inspired,any,1,9,0.018580777570605278
+828,n_prel,No books which I have studied inspired,any,1,7,0.007310429587960243
+829,n_prel,None of the books which I have studied inspired,any,1,9,0.03160298615694046
+830,n_prel,It is not the case that the books which I have studied inspired,any,1,13,0.022043215110898018
+831,n_ppp,No books in these places inspired,any,1,6,0.010283254086971283
+832,n_ppp,None of the books in these places inspired,any,1,8,0.03772298991680145
+833,n_ppp,It is not the case that books in these places inspired,any,1,11,0.007795033045113087
+834,n_nrel,No books which I have not studied inspired,any,1,8,0.007567576132714748
+835,n_nrel,None of the books which I have not have studied inspired,any,1,11,0.035109978169202805
+836,n_nrel,It is not the case that the books which I have not studied inspired,any,1,14,0.044258229434490204
+837,n_npp,No books in none of these places inspired,any,1,8,0.037144750356674194
+838,n_npp,None of the books in none of these places inspired,any,1,10,0.06880774348974228
+839,n_npp,It is not the case that books in none of these places inspired,any,1,13,0.03917890414595604
+840,p_pn,The books will change,any,0,4,0.0006161804194562137
+841,p_pn,Many of the books will change,any,0,6,0.0006765868165530264
+842,p_pn,It is the case that the books will change,any,0,9,0.0006959502352401614
+843,p_prel,The books which I have studied will change,any,0,8,0.0012938472209498286
+844,p_prel,Many of the books which I have studied will change,any,0,10,0.0013007944216951728
+845,p_prel,It is the case that books which I have studied will change,any,0,12,0.0009055504342541099
+846,p_ppp,The books in these places will change,any,0,7,0.0006268182769417763
+847,p_ppp,Many of the books in these places will change,any,0,9,0.0006472275126725435
+848,p_ppp,It is the case that the books in these places will change,any,0,12,0.000662872742395848
+849,p_nrel,The books which I have not studied will change,any,1,9,0.0022000253666192293
+850,p_nrel,Many of the books which I have not studied will change,any,1,11,0.002173240063712001
+851,p_nrel,It is the case that the books which I have not studied will change,any,1,14,0.0020509129390120506
+852,p_npp,The books in none of these places will change,any,1,9,0.012758860364556313
+853,p_npp,Many of the books in none of these places will change,any,1,11,0.010438884608447552
+854,p_npp,It is the case that books in none of these places will change,any,1,13,0.00732965674251318
+855,n_pn,No books will change,any,1,4,0.0031307144090533257
+856,n_pn,None of the books will change,any,1,6,0.011188100092113018
+857,n_pn,It is not the case that the books will change,any,1,10,0.014730553142726421
+858,n_prel,No books which I have studied will change,any,1,8,0.005643476266413927
+859,n_prel,None of the books which I have studied will change,any,1,10,0.016502121463418007
+860,n_prel,It is not the case that the books which I have studied will change,any,1,14,0.021763604134321213
+861,n_ppp,No books in these places will change,any,1,7,0.002278645057231188
+862,n_ppp,None of the books in these places will change,any,1,9,0.010224186815321445
+863,n_ppp,It is not the case that books in these places will change,any,1,12,0.0043723974376916885
+864,n_nrel,No books which I have not studied will change,any,1,9,0.007712506223469973
+865,n_nrel,None of the books which I have not have studied will change,any,1,12,0.017958445474505424
+866,n_nrel,It is not the case that the books which I have not studied will change,any,1,15,0.02254175767302513
+867,n_npp,No books in none of these places will change,any,1,9,0.0051047103479504585
+868,n_npp,None of the books in none of these places will change,any,1,11,0.01006215251982212
+869,n_npp,It is not the case that books in none of these places will change,any,1,14,0.006384904030710459
+870,p_pn,The books impress,any,0,3,0.0009194596786983311
+871,p_pn,Many of the books impress,any,0,5,0.0005540779675357044
+872,p_pn,It is the case that the books impress,any,0,8,0.0010855516884475946
+873,p_prel,The books which I have studied impress,any,0,7,0.0005492466152645648
+874,p_prel,Many of the books which I have studied impress,any,0,9,0.0004773920518346131
+875,p_prel,It is the case that books which I have studied impress,any,0,11,0.0010530477156862617
+876,p_ppp,The books in these places impress,any,0,6,0.0009779819520190358
+877,p_ppp,Many of the books in these places impress,any,0,8,0.0007182295667007565
+878,p_ppp,It is the case that the books in these places impress,any,0,11,0.0011655156267806888
+879,p_nrel,The books which I have not studied impress,any,1,8,0.0009765262366272509
+880,p_nrel,Many of the books which I have not studied impress,any,1,10,0.0008111774805001915
+881,p_nrel,It is the case that the books which I have not studied impress,any,1,13,0.0018282063538208604
+882,p_npp,The books in none of these places impress,any,1,8,0.015946293249726295
+883,p_npp,Many of the books in none of these places impress,any,1,10,0.013052924536168575
+884,p_npp,It is the case that books in none of these places impress,any,1,12,0.025587648153305054
+885,n_pn,No books impress,any,1,3,0.0024304233957082033
+886,n_pn,None of the books impress,any,1,5,0.00839139148592949
+887,n_pn,It is not the case that the books impress,any,1,9,0.0160689540207386
+888,n_prel,No books which I have studied impress,any,1,7,0.0021091902162879705
+889,n_prel,None of the books which I have studied impress,any,1,9,0.007771434262394905
+890,n_prel,It is not the case that the books which I have studied impress,any,1,13,0.013644181191921234
+891,n_ppp,No books in these places impress,any,1,6,0.00417186738923192
+892,n_ppp,None of the books in these places impress,any,1,8,0.009915340691804886
+893,n_ppp,It is not the case that books in these places impress,any,1,11,0.01673034206032753
+894,n_nrel,No books which I have not studied impress,any,1,8,0.0031806076876819134
+895,n_nrel,None of the books which I have not have studied impress,any,1,11,0.006647546775639057
+896,n_nrel,It is not the case that the books which I have not studied impress,any,1,14,0.023090921342372894
+897,n_npp,No books in none of these places impress,any,1,8,0.01007817778736353
+898,n_npp,None of the books in none of these places impress,any,1,10,0.012375806458294392
+899,n_npp,It is not the case that books in none of these places impress,any,1,13,0.027952680364251137
+900,p_pn,The raccoons have done,any,0,4,0.00028429983649402857
+901,p_pn,Many of the raccoons have done,any,0,6,0.0002926038287114352
+902,p_pn,It is the case that the raccoons have done,any,0,9,0.0005078259273432195
+903,p_prel,The raccoons which I have studied have done,any,0,8,0.0002495635999366641
+904,p_prel,Many of the raccoons which I have studied have done,any,0,10,0.0003295337373856455
+905,p_prel,It is the case that raccoons which I have studied have done,any,0,12,0.00023660037550143898
+906,p_ppp,The raccoons in these places have done,any,0,7,0.00036718384944833815
+907,p_ppp,Many of the raccoons in these places have done,any,0,9,0.0003921586903743446
+908,p_ppp,It is the case that the raccoons in these places have done,any,0,12,0.0005038651870563626
+909,p_nrel,The raccoons which I have not studied have done,any,1,9,0.0004355901328381151
+910,p_nrel,Many of the raccoons which I have not studied have done,any,1,11,0.0005699667381122708
+911,p_nrel,It is the case that the raccoons which I have not studied have done,any,1,14,0.000803579983767122
+912,p_npp,The raccoons in none of these places have done,any,1,9,0.08245459198951721
+913,p_npp,Many of the raccoons in none of these places have done,any,1,11,0.1053677350282669
+914,p_npp,It is the case that raccoons in none of these places have done,any,1,13,0.1241297572851181
+915,n_pn,No raccoons have done,any,1,4,0.029155032709240913
+916,n_pn,None of the raccoons have done,any,1,6,0.09363707154989243
+917,n_pn,It is not the case that the raccoons have done,any,1,10,0.07216598838567734
+918,n_prel,No raccoons which I have studied have done,any,1,8,0.009100064635276794
+919,n_prel,None of the raccoons which I have studied have done,any,1,10,0.07433242350816727
+920,n_prel,It is not the case that the raccoons which I have studied have done,any,1,14,0.056215476244688034
+921,n_ppp,No raccoons in these places have done,any,1,7,0.031370922923088074
+922,n_ppp,None of the raccoons in these places have done,any,1,9,0.10538164526224136
+923,n_ppp,It is not the case that raccoons in these places have done,any,1,12,0.06915811449289322
+924,n_nrel,No raccoons which I have not studied have done,any,1,9,0.035924430936574936
+925,n_nrel,None of the raccoons which I have not have studied have done,any,1,12,0.07907601445913315
+926,n_nrel,It is not the case that the raccoons which I have not studied have done,any,1,15,0.07995109260082245
+927,n_npp,No raccoons in none of these places have done,any,1,9,0.054108377546072006
+928,n_npp,None of the raccoons in none of these places have done,any,1,11,0.09170446544885635
+929,n_npp,It is not the case that raccoons in none of these places have done,any,1,14,0.10089405626058578
+930,p_pn,The raccoons will impact,any,0,4,0.0033360542729496956
+931,p_pn,Many of the raccoons will impact,any,0,6,0.0024426989257335663
+932,p_pn,It is the case that the raccoons will impact,any,0,9,0.003517069621011615
+933,p_prel,The raccoons which I have studied will impact,any,0,8,0.0034678394440561533
+934,p_prel,Many of the raccoons which I have studied will impact,any,0,10,0.00266666105017066
+935,p_prel,It is the case that raccoons which I have studied will impact,any,0,12,0.00244098249822855
+936,p_ppp,The raccoons in these places will impact,any,0,7,0.0015810865443199873
+937,p_ppp,Many of the raccoons in these places will impact,any,0,9,0.0018028728663921356
+938,p_ppp,It is the case that the raccoons in these places will impact,any,0,12,0.0019234399078413844
+939,p_nrel,The raccoons which I have not studied will impact,any,1,9,0.00707991560921073
+940,p_nrel,Many of the raccoons which I have not studied will impact,any,1,11,0.004972262308001518
+941,p_nrel,It is the case that the raccoons which I have not studied will impact,any,1,14,0.005585193168371916
+942,p_npp,The raccoons in none of these places will impact,any,1,9,0.023808468133211136
+943,p_npp,Many of the raccoons in none of these places will impact,any,1,11,0.024477927014231682
+944,p_npp,It is the case that raccoons in none of these places will impact,any,1,13,0.01927095837891102
+945,n_pn,No raccoons will impact,any,1,4,0.014240901917219162
+946,n_pn,None of the raccoons will impact,any,1,6,0.033654265105724335
+947,n_pn,It is not the case that the raccoons will impact,any,1,10,0.028464892879128456
+948,n_prel,No raccoons which I have studied will impact,any,1,8,0.00807497650384903
+949,n_prel,None of the raccoons which I have studied will impact,any,1,10,0.019593525677919388
+950,n_prel,It is not the case that the raccoons which I have studied will impact,any,1,14,0.02524205669760704
+951,n_ppp,No raccoons in these places will impact,any,1,7,0.004579274915158749
+952,n_ppp,None of the raccoons in these places will impact,any,1,9,0.0222428347915411
+953,n_ppp,It is not the case that raccoons in these places will impact,any,1,12,0.011872467584908009
+954,n_nrel,No raccoons which I have not studied will impact,any,1,9,0.01577061042189598
+955,n_nrel,None of the raccoons which I have not have studied will impact,any,1,12,0.019183838739991188
+956,n_nrel,It is not the case that the raccoons which I have not studied will impact,any,1,15,0.02649933472275734
+957,n_npp,No raccoons in none of these places will impact,any,1,9,0.0172291062772274
+958,n_npp,None of the raccoons in none of these places will impact,any,1,11,0.02167973853647709
+959,n_npp,It is not the case that raccoons in none of these places will impact,any,1,14,0.01611415483057499
+960,p_pn,The raccoons confuse,any,0,3,0.002389659872278571
+961,p_pn,Many of the raccoons confuse,any,0,5,0.0010290167992934585
+962,p_pn,It is the case that the raccoons confuse,any,0,8,0.001469436101615429
+963,p_prel,The raccoons which I have studied confuse,any,0,7,0.0020837057381868362
+964,p_prel,Many of the raccoons which I have studied confuse,any,0,9,0.0016618998488411307
+965,p_prel,It is the case that raccoons which I have studied confuse,any,0,11,0.0016132687451317906
+966,p_ppp,The raccoons in these places confuse,any,0,6,0.0020803590305149555
+967,p_ppp,Many of the raccoons in these places confuse,any,0,8,0.0013702638680115342
+968,p_ppp,It is the case that the raccoons in these places confuse,any,0,11,0.0015203413786366582
+969,p_nrel,The raccoons which I have not studied confuse,any,1,8,0.0015238822670653462
+970,p_nrel,Many of the raccoons which I have not studied confuse,any,1,10,0.0011485327268019319
+971,p_nrel,It is the case that the raccoons which I have not studied confuse,any,1,13,0.001634421874769032
+972,p_npp,The raccoons in none of these places confuse,any,1,8,0.021454934030771255
+973,p_npp,Many of the raccoons in none of these places confuse,any,1,10,0.01290138904005289
+974,p_npp,It is the case that raccoons in none of these places confuse,any,1,12,0.009868408553302288
+975,n_pn,No raccoons confuse,any,1,3,0.0040985275991261005
+976,n_pn,None of the raccoons confuse,any,1,5,0.009172860532999039
+977,n_pn,It is not the case that the raccoons confuse,any,1,9,0.005967858713120222
+978,n_prel,No raccoons which I have studied confuse,any,1,7,0.0029145851731300354
+979,n_prel,None of the raccoons which I have studied confuse,any,1,9,0.00983969122171402
+980,n_prel,It is not the case that the raccoons which I have studied confuse,any,1,13,0.009733074344694614
+981,n_ppp,No raccoons in these places confuse,any,1,6,0.0038072422612458467
+982,n_ppp,None of the raccoons in these places confuse,any,1,8,0.013288023881614208
+983,n_ppp,It is not the case that raccoons in these places confuse,any,1,11,0.0036198971793055534
+984,n_nrel,No raccoons which I have not studied confuse,any,1,8,0.0027079086285084486
+985,n_nrel,None of the raccoons which I have not have studied confuse,any,1,11,0.006241907831281424
+986,n_nrel,It is not the case that the raccoons which I have not studied confuse,any,1,14,0.012194470502436161
+987,n_npp,No raccoons in none of these places confuse,any,1,8,0.013096936047077179
+988,n_npp,None of the raccoons in none of these places confuse,any,1,10,0.01787746138870716
+989,n_npp,It is not the case that raccoons in none of these places confuse,any,1,13,0.007426074706017971
+990,p_pn,The raccoons inspired,any,0,3,0.00017539330292493105
+991,p_pn,Many of the raccoons inspired,any,0,5,0.00011192215606570244
+992,p_pn,It is the case that the raccoons inspired,any,0,8,0.0006174370646476746
+993,p_prel,The raccoons which I have studied inspired,any,0,7,0.00025576906045898795
+994,p_prel,Many of the raccoons which I have studied inspired,any,0,9,0.00032056946656666696
+995,p_prel,It is the case that raccoons which I have studied inspired,any,0,11,0.0004543938266579062
+996,p_ppp,The raccoons in these places inspired,any,0,6,0.00018744489352684468
+997,p_ppp,Many of the raccoons in these places inspired,any,0,8,0.0001958519424078986
+998,p_ppp,It is the case that the raccoons in these places inspired,any,0,11,0.0005208947695791721
+999,p_nrel,The raccoons which I have not studied inspired,any,1,8,0.0008237494039349258
+1000,p_nrel,Many of the raccoons which I have not studied inspired,any,1,10,0.0012061315355822444
+1001,p_nrel,It is the case that the raccoons which I have not studied inspired,any,1,13,0.0023412571754306555
+1002,p_npp,The raccoons in none of these places inspired,any,1,8,0.07453328371047974
+1003,p_npp,Many of the raccoons in none of these places inspired,any,1,10,0.07131477445363998
+1004,p_npp,It is the case that raccoons in none of these places inspired,any,1,12,0.05685410648584366
+1005,n_pn,No raccoons inspired,any,1,3,0.0038012268487364054
+1006,n_pn,None of the raccoons inspired,any,1,5,0.013067328371107578
+1007,n_pn,It is not the case that the raccoons inspired,any,1,9,0.02000596933066845
+1008,n_prel,No raccoons which I have studied inspired,any,1,7,0.00147467281203717
+1009,n_prel,None of the raccoons which I have studied inspired,any,1,9,0.03150859475135803
+1010,n_prel,It is not the case that the raccoons which I have studied inspired,any,1,13,0.022617444396018982
+1011,n_ppp,No raccoons in these places inspired,any,1,6,0.0021906057372689247
+1012,n_ppp,None of the raccoons in these places inspired,any,1,8,0.04239490628242493
+1013,n_ppp,It is not the case that raccoons in these places inspired,any,1,11,0.01382911205291748
+1014,n_nrel,No raccoons which I have not studied inspired,any,1,8,0.011600788682699203
+1015,n_nrel,None of the raccoons which I have not have studied inspired,any,1,11,0.041295140981674194
+1016,n_nrel,It is not the case that the raccoons which I have not studied inspired,any,1,14,0.047846607863903046
+1017,n_npp,No raccoons in none of these places inspired,any,1,8,0.03477059677243233
+1018,n_npp,None of the raccoons in none of these places inspired,any,1,10,0.06932222843170166
+1019,n_npp,It is not the case that raccoons in none of these places inspired,any,1,13,0.04563145339488983
+1020,p_pn,The raccoons will change,any,0,4,0.0006443815655075014
+1021,p_pn,Many of the raccoons will change,any,0,6,0.00019609241280704737
+1022,p_pn,It is the case that the raccoons will change,any,0,9,0.0006851133075542748
+1023,p_prel,The raccoons which I have studied will change,any,0,8,0.0017618153942748904
+1024,p_prel,Many of the raccoons which I have studied will change,any,0,10,0.00046715664211660624
+1025,p_prel,It is the case that raccoons which I have studied will change,any,0,12,0.0006966441869735718
+1026,p_ppp,The raccoons in these places will change,any,0,7,0.000685778446495533
+1027,p_ppp,Many of the raccoons in these places will change,any,0,9,0.0002663440245669335
+1028,p_ppp,It is the case that the raccoons in these places will change,any,0,12,0.000631973787676543
+1029,p_nrel,The raccoons which I have not studied will change,any,1,9,0.003824535058811307
+1030,p_nrel,Many of the raccoons which I have not studied will change,any,1,11,0.0011859012302011251
+1031,p_nrel,It is the case that the raccoons which I have not studied will change,any,1,14,0.0024575344286859035
+1032,p_npp,The raccoons in none of these places will change,any,1,9,0.011144348420202732
+1033,p_npp,Many of the raccoons in none of these places will change,any,1,11,0.003882752498611808
+1034,p_npp,It is the case that raccoons in none of these places will change,any,1,13,0.004136056639254093
+1035,n_pn,No raccoons will change,any,1,4,0.00541714858263731
+1036,n_pn,None of the raccoons will change,any,1,6,0.003836696967482567
+1037,n_pn,It is not the case that the raccoons will change,any,1,10,0.0075913709588348866
+1038,n_prel,No raccoons which I have studied will change,any,1,8,0.005099837202578783
+1039,n_prel,None of the raccoons which I have studied will change,any,1,10,0.010620815679430962
+1040,n_prel,It is not the case that the raccoons which I have studied will change,any,1,14,0.014292986132204533
+1041,n_ppp,No raccoons in these places will change,any,1,7,0.002191832521930337
+1042,n_ppp,None of the raccoons in these places will change,any,1,9,0.005065211094915867
+1043,n_ppp,It is not the case that raccoons in these places will change,any,1,12,0.0038815008010715246
+1044,n_nrel,No raccoons which I have not studied will change,any,1,9,0.013323777355253696
+1045,n_nrel,None of the raccoons which I have not have studied will change,any,1,12,0.012201136909425259
+1046,n_nrel,It is not the case that the raccoons which I have not studied will change,any,1,15,0.015949327498674393
+1047,n_npp,No raccoons in none of these places will change,any,1,9,0.0067350175231695175
+1048,n_npp,None of the raccoons in none of these places will change,any,1,11,0.004758833907544613
+1049,n_npp,It is not the case that raccoons in none of these places will change,any,1,14,0.003393617458641529
+1050,p_pn,The raccoons impress,any,0,3,0.0010377869475632906
+1051,p_pn,Many of the raccoons impress,any,0,5,0.0006621407228522003
+1052,p_pn,It is the case that the raccoons impress,any,0,8,0.0009404594893567264
+1053,p_prel,The raccoons which I have studied impress,any,0,7,0.00035353173734620214
+1054,p_prel,Many of the raccoons which I have studied impress,any,0,9,0.0003547940286807716
+1055,p_prel,It is the case that raccoons which I have studied impress,any,0,11,0.0009795274818316102
+1056,p_ppp,The raccoons in these places impress,any,0,6,0.0013170598540455103
+1057,p_ppp,Many of the raccoons in these places impress,any,0,8,0.00106124731246382
+1058,p_ppp,It is the case that the raccoons in these places impress,any,0,11,0.0011536915553733706
+1059,p_nrel,The raccoons which I have not studied impress,any,1,8,0.0007011493435129523
+1060,p_nrel,Many of the raccoons which I have not studied impress,any,1,10,0.0006538210436701775
+1061,p_nrel,It is the case that the raccoons which I have not studied impress,any,1,13,0.0015135279390960932
+1062,p_npp,The raccoons in none of these places impress,any,1,8,0.014905353076756
+1063,p_npp,Many of the raccoons in none of these places impress,any,1,10,0.017541155219078064
+1064,p_npp,It is the case that raccoons in none of these places impress,any,1,12,0.03131831809878349
+1065,n_pn,No raccoons impress,any,1,3,0.0045837657526135445
+1066,n_pn,None of the raccoons impress,any,1,5,0.013747137039899826
+1067,n_pn,It is not the case that the raccoons impress,any,1,9,0.018732832744717598
+1068,n_prel,No raccoons which I have studied impress,any,1,7,0.0008619188447482884
+1069,n_prel,None of the raccoons which I have studied impress,any,1,9,0.007177871186286211
+1070,n_prel,It is not the case that the raccoons which I have studied impress,any,1,13,0.009082245640456676
+1071,n_ppp,No raccoons in these places impress,any,1,6,0.0024376383516937494
+1072,n_ppp,None of the raccoons in these places impress,any,1,8,0.017039690166711807
+1073,n_ppp,It is not the case that raccoons in these places impress,any,1,11,0.021649358794093132
+1074,n_nrel,No raccoons which I have not studied impress,any,1,8,0.00411556102335453
+1075,n_nrel,None of the raccoons which I have not have studied impress,any,1,11,0.008946339599788189
+1076,n_nrel,It is not the case that the raccoons which I have not studied impress,any,1,14,0.023064294829964638
+1077,n_npp,No raccoons in none of these places impress,any,1,8,0.009217442944645882
+1078,n_npp,None of the raccoons in none of these places impress,any,1,10,0.01578846201300621
+1079,n_npp,It is not the case that raccoons in none of these places impress,any,1,13,0.032849542796611786
+1080,p_pn,The mountaineers have done,any,0,4,0.0002457111550029367
+1081,p_pn,Many of the mountaineers have done,any,0,6,0.00036064916639588773
+1082,p_pn,It is the case that the mountaineers have done,any,0,9,0.0005232305848039687
+1083,p_prel,The mountaineers which I have studied have done,any,0,8,0.0003518185403663665
+1084,p_prel,Many of the mountaineers which I have studied have done,any,0,10,0.0005577903357334435
+1085,p_prel,It is the case that mountaineers which I have studied have done,any,0,12,0.00033029430778697133
+1086,p_ppp,The mountaineers in these places have done,any,0,7,0.0004217225359752774
+1087,p_ppp,Many of the mountaineers in these places have done,any,0,9,0.0005742532084695995
+1088,p_ppp,It is the case that the mountaineers in these places have done,any,0,12,0.0006652342854067683
+1089,p_nrel,The mountaineers which I have not studied have done,any,1,9,0.00047898993943817914
+1090,p_nrel,Many of the mountaineers which I have not studied have done,any,1,11,0.0007513665477745235
+1091,p_nrel,It is the case that the mountaineers which I have not studied have done,any,1,14,0.0009611703571863472
+1092,p_npp,The mountaineers in none of these places have done,any,1,9,0.07832179963588715
+1093,p_npp,Many of the mountaineers in none of these places have done,any,1,11,0.10174836963415146
+1094,p_npp,It is the case that mountaineers in none of these places have done,any,1,13,0.10150688141584396
+1095,n_pn,No mountaineers have done,any,1,4,0.0005252590053714812
+1096,n_pn,None of the mountaineers have done,any,1,6,0.07370294630527496
+1097,n_pn,It is not the case that the mountaineers have done,any,1,10,0.07000832259654999
+1098,n_prel,No mountaineers which I have studied have done,any,1,8,0.000710242020431906
+1099,n_prel,None of the mountaineers which I have studied have done,any,1,10,0.06947755813598633
+1100,n_prel,It is not the case that the mountaineers which I have studied have done,any,1,14,0.06096762418746948
+1101,n_ppp,No mountaineers in these places have done,any,1,7,0.0006998504977673292
+1102,n_ppp,None of the mountaineers in these places have done,any,1,9,0.10377350449562073
+1103,n_ppp,It is not the case that mountaineers in these places have done,any,1,12,0.06717841327190399
+1104,n_nrel,No mountaineers which I have not studied have done,any,1,9,0.002612414536997676
+1105,n_nrel,None of the mountaineers which I have not have studied have done,any,1,12,0.07037613540887833
+1106,n_nrel,It is not the case that the mountaineers which I have not studied have done,any,1,15,0.07177486270666122
+1107,n_npp,No mountaineers in none of these places have done,any,1,9,0.06012200936675072
+1108,n_npp,None of the mountaineers in none of these places have done,any,1,11,0.09733854234218597
+1109,n_npp,It is not the case that mountaineers in none of these places have done,any,1,14,0.09173799306154251
+1110,p_pn,The mountaineers will impact,any,0,4,0.003993540070950985
+1111,p_pn,Many of the mountaineers will impact,any,0,6,0.0037127812393009663
+1112,p_pn,It is the case that the mountaineers will impact,any,0,9,0.004109045024961233
+1113,p_prel,The mountaineers which I have studied will impact,any,0,8,0.004942284431308508
+1114,p_prel,Many of the mountaineers which I have studied will impact,any,0,10,0.0034631057642400265
+1115,p_prel,It is the case that mountaineers which I have studied will impact,any,0,12,0.0025261177215725183
+1116,p_ppp,The mountaineers in these places will impact,any,0,7,0.002143773715943098
+1117,p_ppp,Many of the mountaineers in these places will impact,any,0,9,0.002852777950465679
+1118,p_ppp,It is the case that the mountaineers in these places will impact,any,0,12,0.00290752318687737
+1119,p_nrel,The mountaineers which I have not studied will impact,any,1,9,0.006700936239212751
+1120,p_nrel,Many of the mountaineers which I have not studied will impact,any,1,11,0.005228492431342602
+1121,p_nrel,It is the case that the mountaineers which I have not studied will impact,any,1,14,0.005862341728061438
+1122,p_npp,The mountaineers in none of these places will impact,any,1,9,0.028388356789946556
+1123,p_npp,Many of the mountaineers in none of these places will impact,any,1,11,0.03390675038099289
+1124,p_npp,It is the case that mountaineers in none of these places will impact,any,1,13,0.029349548742175102
+1125,n_pn,No mountaineers will impact,any,1,4,0.0076405080035328865
+1126,n_pn,None of the mountaineers will impact,any,1,6,0.04202298820018768
+1127,n_pn,It is not the case that the mountaineers will impact,any,1,10,0.031475622206926346
+1128,n_prel,No mountaineers which I have studied will impact,any,1,8,0.007229407783597708
+1129,n_prel,None of the mountaineers which I have studied will impact,any,1,10,0.02615385875105858
+1130,n_prel,It is not the case that the mountaineers which I have studied will impact,any,1,14,0.025414859876036644
+1131,n_ppp,No mountaineers in these places will impact,any,1,7,0.002674192190170288
+1132,n_ppp,None of the mountaineers in these places will impact,any,1,9,0.036567337810993195
+1133,n_ppp,It is not the case that mountaineers in these places will impact,any,1,12,0.01674875058233738
+1134,n_nrel,No mountaineers which I have not studied will impact,any,1,9,0.01575169339776039
+1135,n_nrel,None of the mountaineers which I have not have studied will impact,any,1,12,0.024697057902812958
+1136,n_nrel,It is not the case that the mountaineers which I have not studied will impact,any,1,15,0.025266369804739952
+1137,n_npp,No mountaineers in none of these places will impact,any,1,9,0.02019183151423931
+1138,n_npp,None of the mountaineers in none of these places will impact,any,1,11,0.03132570907473564
+1139,n_npp,It is not the case that mountaineers in none of these places will impact,any,1,14,0.023515837267041206
+1140,p_pn,The mountaineers confuse,any,0,3,0.002311290241777897
+1141,p_pn,Many of the mountaineers confuse,any,0,5,0.0010147282155230641
+1142,p_pn,It is the case that the mountaineers confuse,any,0,8,0.0015395458322018385
+1143,p_prel,The mountaineers which I have studied confuse,any,0,7,0.0030289117712527514
+1144,p_prel,Many of the mountaineers which I have studied confuse,any,0,9,0.0015132520347833633
+1145,p_prel,It is the case that mountaineers which I have studied confuse,any,0,11,0.001745149726048112
+1146,p_ppp,The mountaineers in these places confuse,any,0,6,0.002351032104343176
+1147,p_ppp,Many of the mountaineers in these places confuse,any,0,8,0.0013168773148208857
+1148,p_ppp,It is the case that the mountaineers in these places confuse,any,0,11,0.0017544453730806708
+1149,p_nrel,The mountaineers which I have not studied confuse,any,1,8,0.001471188385039568
+1150,p_nrel,Many of the mountaineers which I have not studied confuse,any,1,10,0.0009305521380156279
+1151,p_nrel,It is the case that the mountaineers which I have not studied confuse,any,1,13,0.0016808640211820602
+1152,p_npp,The mountaineers in none of these places confuse,any,1,8,0.015647247433662415
+1153,p_npp,Many of the mountaineers in none of these places confuse,any,1,10,0.00985183846205473
+1154,p_npp,It is the case that mountaineers in none of these places confuse,any,1,12,0.007528537418693304
+1155,n_pn,No mountaineers confuse,any,1,3,0.0027788232546299696
+1156,n_pn,None of the mountaineers confuse,any,1,5,0.007460784167051315
+1157,n_pn,It is not the case that the mountaineers confuse,any,1,9,0.004945533815771341
+1158,n_prel,No mountaineers which I have studied confuse,any,1,7,0.0036014188081026077
+1159,n_prel,None of the mountaineers which I have studied confuse,any,1,9,0.008314370177686214
+1160,n_prel,It is not the case that the mountaineers which I have studied confuse,any,1,13,0.008627701550722122
+1161,n_ppp,No mountaineers in these places confuse,any,1,6,0.0025350272189825773
+1162,n_ppp,None of the mountaineers in these places confuse,any,1,8,0.010128971189260483
+1163,n_ppp,It is not the case that mountaineers in these places confuse,any,1,11,0.003638755762949586
+1164,n_nrel,No mountaineers which I have not studied confuse,any,1,8,0.0022846534848213196
+1165,n_nrel,None of the mountaineers which I have not have studied confuse,any,1,11,0.005515723954886198
+1166,n_nrel,It is not the case that the mountaineers which I have not studied confuse,any,1,14,0.008809861727058887
+1167,n_npp,No mountaineers in none of these places confuse,any,1,8,0.011466006748378277
+1168,n_npp,None of the mountaineers in none of these places confuse,any,1,10,0.01454191841185093
+1169,n_npp,It is not the case that mountaineers in none of these places confuse,any,1,13,0.0061140828765928745
+1170,p_pn,The mountaineers inspired,any,0,3,0.00014104697038419545
+1171,p_pn,Many of the mountaineers inspired,any,0,5,4.304441608837806e-05
+1172,p_pn,It is the case that the mountaineers inspired,any,0,8,0.0004846882657147944
+1173,p_prel,The mountaineers which I have studied inspired,any,0,7,0.00025053147692233324
+1174,p_prel,Many of the mountaineers which I have studied inspired,any,0,9,0.00021476154506672174
+1175,p_prel,It is the case that mountaineers which I have studied inspired,any,0,11,0.00044920045183971524
+1176,p_ppp,The mountaineers in these places inspired,any,0,6,0.0002055548393400386
+1177,p_ppp,Many of the mountaineers in these places inspired,any,0,8,0.00015293035539798439
+1178,p_ppp,It is the case that the mountaineers in these places inspired,any,0,11,0.0004608347953762859
+1179,p_nrel,The mountaineers which I have not studied inspired,any,1,8,0.0005163637106306851
+1180,p_nrel,Many of the mountaineers which I have not studied inspired,any,1,10,0.0005976574029773474
+1181,p_nrel,It is the case that the mountaineers which I have not studied inspired,any,1,13,0.0018408603500574827
+1182,p_npp,The mountaineers in none of these places inspired,any,1,8,0.06398280709981918
+1183,p_npp,Many of the mountaineers in none of these places inspired,any,1,10,0.05254046991467476
+1184,p_npp,It is the case that mountaineers in none of these places inspired,any,1,12,0.03482969105243683
+1185,n_pn,No mountaineers inspired,any,1,3,0.00033075010287575424
+1186,n_pn,None of the mountaineers inspired,any,1,5,0.008786151185631752
+1187,n_pn,It is not the case that the mountaineers inspired,any,1,9,0.01925082877278328
+1188,n_prel,No mountaineers which I have studied inspired,any,1,7,0.0005343579687178135
+1189,n_prel,None of the mountaineers which I have studied inspired,any,1,9,0.02757953107357025
+1190,n_prel,It is not the case that the mountaineers which I have studied inspired,any,1,13,0.024496981874108315
+1191,n_ppp,No mountaineers in these places inspired,any,1,6,0.0002592493547126651
+1192,n_ppp,None of the mountaineers in these places inspired,any,1,8,0.043607454746961594
+1193,n_ppp,It is not the case that mountaineers in these places inspired,any,1,11,0.011043003760278225
+1194,n_nrel,No mountaineers which I have not studied inspired,any,1,8,0.003190389135852456
+1195,n_nrel,None of the mountaineers which I have not have studied inspired,any,1,11,0.030824393033981323
+1196,n_nrel,It is not the case that the mountaineers which I have not studied inspired,any,1,14,0.0444585382938385
+1197,n_npp,No mountaineers in none of these places inspired,any,1,8,0.03356977179646492
+1198,n_npp,None of the mountaineers in none of these places inspired,any,1,10,0.06474009901285172
+1199,n_npp,It is not the case that mountaineers in none of these places inspired,any,1,13,0.03472375124692917
+1200,p_pn,The mountaineers will change,any,0,4,0.0008167684427462518
+1201,p_pn,Many of the mountaineers will change,any,0,6,0.0003185905225109309
+1202,p_pn,It is the case that the mountaineers will change,any,0,9,0.0010187120642513037
+1203,p_prel,The mountaineers which I have studied will change,any,0,8,0.0028723154682666063
+1204,p_prel,Many of the mountaineers which I have studied will change,any,0,10,0.0006159916520118713
+1205,p_prel,It is the case that mountaineers which I have studied will change,any,0,12,0.0008271640981547534
+1206,p_ppp,The mountaineers in these places will change,any,0,7,0.000763546850066632
+1207,p_ppp,Many of the mountaineers in these places will change,any,0,9,0.0003079417801927775
+1208,p_ppp,It is the case that the mountaineers in these places will change,any,0,12,0.0007577424985356629
+1209,p_nrel,The mountaineers which I have not studied will change,any,1,9,0.0038179371040314436
+1210,p_nrel,Many of the mountaineers which I have not studied will change,any,1,11,0.001265337341465056
+1211,p_nrel,It is the case that the mountaineers which I have not studied will change,any,1,14,0.0023275569546967745
+1212,p_npp,The mountaineers in none of these places will change,any,1,9,0.008666455745697021
+1213,p_npp,Many of the mountaineers in none of these places will change,any,1,11,0.00434776721522212
+1214,p_npp,It is the case that mountaineers in none of these places will change,any,1,13,0.0036867361050099134
+1215,n_pn,No mountaineers will change,any,1,4,0.0018907822668552399
+1216,n_pn,None of the mountaineers will change,any,1,6,0.004322899971157312
+1217,n_pn,It is not the case that the mountaineers will change,any,1,10,0.0068674697540700436
+1218,n_prel,No mountaineers which I have studied will change,any,1,8,0.003867683932185173
+1219,n_prel,None of the mountaineers which I have studied will change,any,1,10,0.012250181287527084
+1220,n_prel,It is not the case that the mountaineers which I have studied will change,any,1,14,0.013947428204119205
+1221,n_ppp,No mountaineers in these places will change,any,1,7,0.0010128570720553398
+1222,n_ppp,None of the mountaineers in these places will change,any,1,9,0.004525971133261919
+1223,n_ppp,It is not the case that mountaineers in these places will change,any,1,12,0.0026370701380074024
+1224,n_nrel,No mountaineers which I have not studied will change,any,1,9,0.008322188630700111
+1225,n_nrel,None of the mountaineers which I have not have studied will change,any,1,12,0.013380498625338078
+1226,n_nrel,It is not the case that the mountaineers which I have not studied will change,any,1,15,0.013997930102050304
+1227,n_npp,No mountaineers in none of these places will change,any,1,9,0.005278029944747686
+1228,n_npp,None of the mountaineers in none of these places will change,any,1,11,0.0044992901384830475
+1229,n_npp,It is not the case that mountaineers in none of these places will change,any,1,14,0.002371967537328601
+1230,p_pn,The mountaineers impress,any,0,3,0.0014291472034528852
+1231,p_pn,Many of the mountaineers impress,any,0,5,0.0006498193833976984
+1232,p_pn,It is the case that the mountaineers impress,any,0,8,0.0008374378667213023
+1233,p_prel,The mountaineers which I have studied impress,any,0,7,0.0006802497082389891
+1234,p_prel,Many of the mountaineers which I have studied impress,any,0,9,0.0006174679147079587
+1235,p_prel,It is the case that mountaineers which I have studied impress,any,0,11,0.0011441593524068594
+1236,p_ppp,The mountaineers in these places impress,any,0,6,0.0018068053759634495
+1237,p_ppp,Many of the mountaineers in these places impress,any,0,8,0.0009712877799756825
+1238,p_ppp,It is the case that the mountaineers in these places impress,any,0,11,0.0010180551325902343
+1239,p_nrel,The mountaineers which I have not studied impress,any,1,8,0.0013085277751088142
+1240,p_nrel,Many of the mountaineers which I have not studied impress,any,1,10,0.0011306219967082143
+1241,p_nrel,It is the case that the mountaineers which I have not studied impress,any,1,13,0.001930748694576323
+1242,p_npp,The mountaineers in none of these places impress,any,1,8,0.029185183346271515
+1243,p_npp,Many of the mountaineers in none of these places impress,any,1,10,0.02694704197347164
+1244,p_npp,It is the case that mountaineers in none of these places impress,any,1,12,0.02474399469792843
+1245,n_pn,No mountaineers impress,any,1,3,0.0012399996630847454
+1246,n_pn,None of the mountaineers impress,any,1,5,0.018137792125344276
+1247,n_pn,It is not the case that the mountaineers impress,any,1,9,0.015978805720806122
+1248,n_prel,No mountaineers which I have studied impress,any,1,7,0.0011930378386750817
+1249,n_prel,None of the mountaineers which I have studied impress,any,1,9,0.01469726487994194
+1250,n_prel,It is not the case that the mountaineers which I have studied impress,any,1,13,0.010054956190288067
+1251,n_ppp,No mountaineers in these places impress,any,1,6,0.002016455167904496
+1252,n_ppp,None of the mountaineers in these places impress,any,1,8,0.03401937335729599
+1253,n_ppp,It is not the case that mountaineers in these places impress,any,1,11,0.016824809834361076
+1254,n_nrel,No mountaineers which I have not studied impress,any,1,8,0.003420163644477725
+1255,n_nrel,None of the mountaineers which I have not have studied impress,any,1,11,0.015758518129587173
+1256,n_nrel,It is not the case that the mountaineers which I have not studied impress,any,1,14,0.023572487756609917
+1257,n_npp,No mountaineers in none of these places impress,any,1,8,0.01926417089998722
+1258,n_npp,None of the mountaineers in none of these places impress,any,1,10,0.03423398733139038
+1259,n_npp,It is not the case that mountaineers in none of these places impress,any,1,13,0.030350109562277794
+1260,p_pn,The planets have done,any,0,4,0.0002171172818634659
+1261,p_pn,Many of the planets have done,any,0,6,0.00032743942574597895
+1262,p_pn,It is the case that the planets have done,any,0,9,0.0003052009269595146
+1263,p_prel,The planets which I have studied have done,any,0,8,0.00042703453800641
+1264,p_prel,Many of the planets which I have studied have done,any,0,10,0.0004374865966383368
+1265,p_prel,It is the case that planets which I have studied have done,any,0,12,0.00034202923416160047
+1266,p_ppp,The planets in these places have done,any,0,7,0.00031262781703844666
+1267,p_ppp,Many of the planets in these places have done,any,0,9,0.0003959536843467504
+1268,p_ppp,It is the case that the planets in these places have done,any,0,12,0.00033877219539135695
+1269,p_nrel,The planets which I have not studied have done,any,1,9,0.0008130915812216699
+1270,p_nrel,Many of the planets which I have not studied have done,any,1,11,0.0008393637835979462
+1271,p_nrel,It is the case that the planets which I have not studied have done,any,1,14,0.0012018970446661115
+1272,p_npp,The planets in none of these places have done,any,1,9,0.0861222967505455
+1273,p_npp,Many of the planets in none of these places have done,any,1,11,0.0758686289191246
+1274,p_npp,It is the case that planets in none of these places have done,any,1,13,0.08444137871265411
+1275,n_pn,No planets have done,any,1,4,0.021786244586110115
+1276,n_pn,None of the planets have done,any,1,6,0.06173544004559517
+1277,n_pn,It is not the case that the planets have done,any,1,10,0.042608682066202164
+1278,n_prel,No planets which I have studied have done,any,1,8,0.014500254765152931
+1279,n_prel,None of the planets which I have studied have done,any,1,10,0.05159566551446915
+1280,n_prel,It is not the case that the planets which I have studied have done,any,1,14,0.046433430165052414
+1281,n_ppp,No planets in these places have done,any,1,7,0.03519309684634209
+1282,n_ppp,None of the planets in these places have done,any,1,9,0.08487251400947571
+1283,n_ppp,It is not the case that planets in these places have done,any,1,12,0.03971431776881218
+1284,n_nrel,No planets which I have not studied have done,any,1,9,0.02742699161171913
+1285,n_nrel,None of the planets which I have not have studied have done,any,1,12,0.05132817104458809
+1286,n_nrel,It is not the case that the planets which I have not studied have done,any,1,15,0.06750353425741196
+1287,n_npp,No planets in none of these places have done,any,1,9,0.0524158775806427
+1288,n_npp,None of the planets in none of these places have done,any,1,11,0.07580424100160599
+1289,n_npp,It is not the case that planets in none of these places have done,any,1,14,0.06552068144083023
+1290,p_pn,The planets will impact,any,0,4,0.0010761653538793325
+1291,p_pn,Many of the planets will impact,any,0,6,0.0013583785621449351
+1292,p_pn,It is the case that the planets will impact,any,0,9,0.0019800113514065742
+1293,p_prel,The planets which I have studied will impact,any,0,8,0.00234218779951334
+1294,p_prel,Many of the planets which I have studied will impact,any,0,10,0.0032262620516121387
+1295,p_prel,It is the case that planets which I have studied will impact,any,0,12,0.0019684715662151575
+1296,p_ppp,The planets in these places will impact,any,0,7,0.001083909417502582
+1297,p_ppp,Many of the planets in these places will impact,any,0,9,0.0016019019531086087
+1298,p_ppp,It is the case that the planets in these places will impact,any,0,12,0.0014144533779472113
+1299,p_nrel,The planets which I have not studied will impact,any,1,9,0.005335117224603891
+1300,p_nrel,Many of the planets which I have not studied will impact,any,1,11,0.005719573702663183
+1301,p_nrel,It is the case that the planets which I have not studied will impact,any,1,14,0.005559076555073261
+1302,p_npp,The planets in none of these places will impact,any,1,9,0.028728174045681953
+1303,p_npp,Many of the planets in none of these places will impact,any,1,11,0.02544921636581421
+1304,p_npp,It is the case that planets in none of these places will impact,any,1,13,0.014994367025792599
+1305,n_pn,No planets will impact,any,1,4,0.010795537382364273
+1306,n_pn,None of the planets will impact,any,1,6,0.027594609186053276
+1307,n_pn,It is not the case that the planets will impact,any,1,10,0.017932234331965446
+1308,n_prel,No planets which I have studied will impact,any,1,8,0.01446744054555893
+1309,n_prel,None of the planets which I have studied will impact,any,1,10,0.03412260487675667
+1310,n_prel,It is not the case that the planets which I have studied will impact,any,1,14,0.025079727172851562
+1311,n_ppp,No planets in these places will impact,any,1,7,0.011425996199250221
+1312,n_ppp,None of the planets in these places will impact,any,1,9,0.0419011227786541
+1313,n_ppp,It is not the case that planets in these places will impact,any,1,12,0.009791423566639423
+1314,n_nrel,No planets which I have not studied will impact,any,1,9,0.015238359570503235
+1315,n_nrel,None of the planets which I have not have studied will impact,any,1,12,0.029067743569612503
+1316,n_nrel,It is not the case that the planets which I have not studied will impact,any,1,15,0.027108144015073776
+1317,n_npp,No planets in none of these places will impact,any,1,9,0.020811675116419792
+1318,n_npp,None of the planets in none of these places will impact,any,1,11,0.030674664303660393
+1319,n_npp,It is not the case that planets in none of these places will impact,any,1,14,0.012062274850904942
+1320,p_pn,The planets confuse,any,0,3,0.0005688562523573637
+1321,p_pn,Many of the planets confuse,any,0,5,0.0006040381849743426
+1322,p_pn,It is the case that the planets confuse,any,0,8,0.0006325346766971052
+1323,p_prel,The planets which I have studied confuse,any,0,7,0.0012404348235577345
+1324,p_prel,Many of the planets which I have studied confuse,any,0,9,0.0012307272991165519
+1325,p_prel,It is the case that planets which I have studied confuse,any,0,11,0.001080952468328178
+1326,p_ppp,The planets in these places confuse,any,0,6,0.0008758516050875187
+1327,p_ppp,Many of the planets in these places confuse,any,0,8,0.0009043004247359931
+1328,p_ppp,It is the case that the planets in these places confuse,any,0,11,0.0007444580551236868
+1329,p_nrel,The planets which I have not studied confuse,any,1,8,0.0011371102882549167
+1330,p_nrel,Many of the planets which I have not studied confuse,any,1,10,0.001008196035400033
+1331,p_nrel,It is the case that the planets which I have not studied confuse,any,1,13,0.0011846377747133374
+1332,p_npp,The planets in none of these places confuse,any,1,8,0.01723991520702839
+1333,p_npp,Many of the planets in none of these places confuse,any,1,10,0.009014400653541088
+1334,p_npp,It is the case that planets in none of these places confuse,any,1,12,0.005906152073293924
+1335,n_pn,No planets confuse,any,1,3,0.002527265576645732
+1336,n_pn,None of the planets confuse,any,1,5,0.007411202881485224
+1337,n_pn,It is not the case that the planets confuse,any,1,9,0.0033440839033573866
+1338,n_prel,No planets which I have studied confuse,any,1,7,0.002391856862232089
+1339,n_prel,None of the planets which I have studied confuse,any,1,9,0.011731738224625587
+1340,n_prel,It is not the case that the planets which I have studied confuse,any,1,13,0.009067803621292114
+1341,n_ppp,No planets in these places confuse,any,1,6,0.002104394370689988
+1342,n_ppp,None of the planets in these places confuse,any,1,8,0.013631325215101242
+1343,n_ppp,It is not the case that planets in these places confuse,any,1,11,0.0034285960718989372
+1344,n_nrel,No planets which I have not studied confuse,any,1,8,0.0022593424655497074
+1345,n_nrel,None of the planets which I have not have studied confuse,any,1,11,0.007590234279632568
+1346,n_nrel,It is not the case that the planets which I have not studied confuse,any,1,14,0.008948498405516148
+1347,n_npp,No planets in none of these places confuse,any,1,8,0.010370018891990185
+1348,n_npp,None of the planets in none of these places confuse,any,1,10,0.016685251146554947
+1349,n_npp,It is not the case that planets in none of these places confuse,any,1,13,0.005877018440514803
+1350,p_pn,The planets inspired,any,0,3,0.00012254188186489046
+1351,p_pn,Many of the planets inspired,any,0,5,4.764788172906265e-05
+1352,p_pn,It is the case that the planets inspired,any,0,8,0.0003279540687799454
+1353,p_prel,The planets which I have studied inspired,any,0,7,0.0003509686212055385
+1354,p_prel,Many of the planets which I have studied inspired,any,0,9,0.00035633862717077136
+1355,p_prel,It is the case that planets which I have studied inspired,any,0,11,0.0005185698973946273
+1356,p_ppp,The planets in these places inspired,any,0,6,0.0002333312586415559
+1357,p_ppp,Many of the planets in these places inspired,any,0,8,0.00023711725953035057
+1358,p_ppp,It is the case that the planets in these places inspired,any,0,11,0.0005011986359022558
+1359,p_nrel,The planets which I have not studied inspired,any,1,8,0.0009235533070750535
+1360,p_nrel,Many of the planets which I have not studied inspired,any,1,10,0.000852863653562963
+1361,p_nrel,It is the case that the planets which I have not studied inspired,any,1,13,0.0018667693948373199
+1362,p_npp,The planets in none of these places inspired,any,1,8,0.0726182758808136
+1363,p_npp,Many of the planets in none of these places inspired,any,1,10,0.05006890743970871
+1364,p_npp,It is the case that planets in none of these places inspired,any,1,12,0.029082944616675377
+1365,n_pn,No planets inspired,any,1,3,0.0014997541438788176
+1366,n_pn,None of the planets inspired,any,1,5,0.006386761087924242
+1367,n_pn,It is not the case that the planets inspired,any,1,9,0.004845690913498402
+1368,n_prel,No planets which I have studied inspired,any,1,7,0.0027260249480605125
+1369,n_prel,None of the planets which I have studied inspired,any,1,9,0.03255091607570648
+1370,n_prel,It is not the case that the planets which I have studied inspired,any,1,13,0.017650820314884186
+1371,n_ppp,No planets in these places inspired,any,1,6,0.00447614723816514
+1372,n_ppp,None of the planets in these places inspired,any,1,8,0.04298967868089676
+1373,n_ppp,It is not the case that planets in these places inspired,any,1,11,0.006375580560415983
+1374,n_nrel,No planets which I have not studied inspired,any,1,8,0.005364263895899057
+1375,n_nrel,None of the planets which I have not have studied inspired,any,1,11,0.034492481499910355
+1376,n_nrel,It is not the case that the planets which I have not studied inspired,any,1,14,0.031601179391145706
+1377,n_npp,No planets in none of these places inspired,any,1,8,0.033067669719457626
+1378,n_npp,None of the planets in none of these places inspired,any,1,10,0.05809113010764122
+1379,n_npp,It is not the case that planets in none of these places inspired,any,1,13,0.02444894053041935
+1380,p_pn,The planets will change,any,0,4,0.00013499913620762527
+1381,p_pn,Many of the planets will change,any,0,6,6.68411303195171e-05
+1382,p_pn,It is the case that the planets will change,any,0,9,0.00016428485105279833
+1383,p_prel,The planets which I have studied will change,any,0,8,0.0006238118512555957
+1384,p_prel,Many of the planets which I have studied will change,any,0,10,0.00020720067550428212
+1385,p_prel,It is the case that planets which I have studied will change,any,0,12,0.00020462277461774647
+1386,p_ppp,The planets in these places will change,any,0,7,0.00016087513358797878
+1387,p_ppp,Many of the planets in these places will change,any,0,9,8.849977166391909e-05
+1388,p_ppp,It is the case that the planets in these places will change,any,0,12,0.00012945836351718754
+1389,p_nrel,The planets which I have not studied will change,any,1,9,0.0012574148131534457
+1390,p_nrel,Many of the planets which I have not studied will change,any,1,11,0.00042516892426647246
+1391,p_nrel,It is the case that the planets which I have not studied will change,any,1,14,0.0006617299513891339
+1392,p_npp,The planets in none of these places will change,any,1,9,0.0034644899424165487
+1393,p_npp,Many of the planets in none of these places will change,any,1,11,0.001897240523248911
+1394,p_npp,It is the case that planets in none of these places will change,any,1,13,0.0008992881048470736
+1395,n_pn,No planets will change,any,1,4,0.0019420358585193753
+1396,n_pn,None of the planets will change,any,1,6,0.0021162768825888634
+1397,n_pn,It is not the case that the planets will change,any,1,10,0.0016149843577295542
+1398,n_prel,No planets which I have studied will change,any,1,8,0.0036734596360474825
+1399,n_prel,None of the planets which I have studied will change,any,1,10,0.005455111153423786
+1400,n_prel,It is not the case that the planets which I have studied will change,any,1,14,0.0032085648272186518
+1401,n_ppp,No planets in these places will change,any,1,7,0.0011297839228063822
+1402,n_ppp,None of the planets in these places will change,any,1,9,0.0028399908915162086
+1403,n_ppp,It is not the case that planets in these places will change,any,1,12,0.0007530802977271378
+1404,n_nrel,No planets which I have not studied will change,any,1,9,0.006445187143981457
+1405,n_nrel,None of the planets which I have not have studied will change,any,1,12,0.006224538665264845
+1406,n_nrel,It is not the case that the planets which I have not studied will change,any,1,15,0.003499245271086693
+1407,n_npp,No planets in none of these places will change,any,1,9,0.0036806766875088215
+1408,n_npp,None of the planets in none of these places will change,any,1,11,0.002710089087486267
+1409,n_npp,It is not the case that planets in none of these places will change,any,1,14,0.0008109092595987022
+1410,p_pn,The planets impress,any,0,3,0.0008749009575694799
+1411,p_pn,Many of the planets impress,any,0,5,0.0006754495552740991
+1412,p_pn,It is the case that the planets impress,any,0,8,0.001278916490264237
+1413,p_prel,The planets which I have studied impress,any,0,7,0.000370619585737586
+1414,p_prel,Many of the planets which I have studied impress,any,0,9,0.00037554497248493135
+1415,p_prel,It is the case that planets which I have studied impress,any,0,11,0.00095375906676054
+1416,p_ppp,The planets in these places impress,any,0,6,0.0011080204276368022
+1417,p_ppp,Many of the planets in these places impress,any,0,8,0.000974944035988301
+1418,p_ppp,It is the case that the planets in these places impress,any,0,11,0.0012350024189800024
+1419,p_nrel,The planets which I have not studied impress,any,1,8,0.000618469959590584
+1420,p_nrel,Many of the planets which I have not studied impress,any,1,10,0.0005919620743952692
+1421,p_nrel,It is the case that the planets which I have not studied impress,any,1,13,0.001655533560551703
+1422,p_npp,The planets in none of these places impress,any,1,8,0.03413872793316841
+1423,p_npp,Many of the planets in none of these places impress,any,1,10,0.026166891679167747
+1424,p_npp,It is the case that planets in none of these places impress,any,1,12,0.034200623631477356
+1425,n_pn,No planets impress,any,1,3,0.003998580388724804
+1426,n_pn,None of the planets impress,any,1,5,0.01615678332746029
+1427,n_pn,It is not the case that the planets impress,any,1,9,0.020346298813819885
+1428,n_prel,No planets which I have studied impress,any,1,7,0.0009652168373577297
+1429,n_prel,None of the planets which I have studied impress,any,1,9,0.010521859861910343
+1430,n_prel,It is not the case that the planets which I have studied impress,any,1,13,0.015394805930554867
+1431,n_ppp,No planets in these places impress,any,1,6,0.0037944382056593895
+1432,n_ppp,None of the planets in these places impress,any,1,8,0.031483445316553116
+1433,n_ppp,It is not the case that planets in these places impress,any,1,11,0.02538350038230419
+1434,n_nrel,No planets which I have not studied impress,any,1,8,0.002154882065951824
+1435,n_nrel,None of the planets which I have not have studied impress,any,1,11,0.009948516264557838
+1436,n_nrel,It is not the case that the planets which I have not studied impress,any,1,14,0.02610914595425129
+1437,n_npp,No planets in none of these places impress,any,1,8,0.019569259136915207
+1438,n_npp,None of the planets in none of these places impress,any,1,10,0.0325540155172348
+1439,n_npp,It is not the case that planets in none of these places impress,any,1,13,0.0394783541560173
+1440,p_pn,The cabinets have done,any,0,4,0.00014485688006971031
+1441,p_pn,Many of the cabinets have done,any,0,6,0.00019340137077961117
+1442,p_pn,It is the case that the cabinets have done,any,0,9,0.00024248487898148596
+1443,p_prel,The cabinets which I have studied have done,any,0,8,0.00022731025819666684
+1444,p_prel,Many of the cabinets which I have studied have done,any,0,10,0.0002885654685087502
+1445,p_prel,It is the case that cabinets which I have studied have done,any,0,12,0.00017944900901056826
+1446,p_ppp,The cabinets in these places have done,any,0,7,0.00022517083561979234
+1447,p_ppp,Many of the cabinets in these places have done,any,0,9,0.0002610652591101825
+1448,p_ppp,It is the case that the cabinets in these places have done,any,0,12,0.0002931925992015749
+1449,p_nrel,The cabinets which I have not studied have done,any,1,9,0.0004923174274154007
+1450,p_nrel,Many of the cabinets which I have not studied have done,any,1,11,0.0005997549160383642
+1451,p_nrel,It is the case that the cabinets which I have not studied have done,any,1,14,0.0009881923906505108
+1452,p_npp,The cabinets in none of these places have done,any,1,9,0.08938334137201309
+1453,p_npp,Many of the cabinets in none of these places have done,any,1,11,0.09330689907073975
+1454,p_npp,It is the case that cabinets in none of these places have done,any,1,13,0.0785917416214943
+1455,n_pn,No cabinets have done,any,1,4,0.0019550228025764227
+1456,n_pn,None of the cabinets have done,any,1,6,0.1052095964550972
+1457,n_pn,It is not the case that the cabinets have done,any,1,10,0.07089832425117493
+1458,n_prel,No cabinets which I have studied have done,any,1,8,0.0011430156882852316
+1459,n_prel,None of the cabinets which I have studied have done,any,1,10,0.08536409586668015
+1460,n_prel,It is not the case that the cabinets which I have studied have done,any,1,14,0.08312316238880157
+1461,n_ppp,No cabinets in these places have done,any,1,7,0.001649159356020391
+1462,n_ppp,None of the cabinets in these places have done,any,1,9,0.10886599868535995
+1463,n_ppp,It is not the case that cabinets in these places have done,any,1,12,0.049413591623306274
+1464,n_nrel,No cabinets which I have not studied have done,any,1,9,0.011484695598483086
+1465,n_nrel,None of the cabinets which I have not have studied have done,any,1,12,0.08713539689779282
+1466,n_nrel,It is not the case that the cabinets which I have not studied have done,any,1,15,0.09654061496257782
+1467,n_npp,No cabinets in none of these places have done,any,1,9,0.05301488935947418
+1468,n_npp,None of the cabinets in none of these places have done,any,1,11,0.09240302443504333
+1469,n_npp,It is not the case that cabinets in none of these places have done,any,1,14,0.066472128033638
+1470,p_pn,The cabinets will impact,any,0,4,0.0030501822475343943
+1471,p_pn,Many of the cabinets will impact,any,0,6,0.0021469604689627886
+1472,p_pn,It is the case that the cabinets will impact,any,0,9,0.0022070452105253935
+1473,p_prel,The cabinets which I have studied will impact,any,0,8,0.0034745330922305584
+1474,p_prel,Many of the cabinets which I have studied will impact,any,0,10,0.0025193174369633198
+1475,p_prel,It is the case that cabinets which I have studied will impact,any,0,12,0.0018833456560969353
+1476,p_ppp,The cabinets in these places will impact,any,0,7,0.0019331744406372309
+1477,p_ppp,Many of the cabinets in these places will impact,any,0,9,0.0019463772187009454
+1478,p_ppp,It is the case that the cabinets in these places will impact,any,0,12,0.0017331260023638606
+1479,p_nrel,The cabinets which I have not studied will impact,any,1,9,0.0076820133253932
+1480,p_nrel,Many of the cabinets which I have not studied will impact,any,1,11,0.004573729354888201
+1481,p_nrel,It is the case that the cabinets which I have not studied will impact,any,1,14,0.005103325936943293
+1482,p_npp,The cabinets in none of these places will impact,any,1,9,0.023987585678696632
+1483,p_npp,Many of the cabinets in none of these places will impact,any,1,11,0.020554151386022568
+1484,p_npp,It is the case that cabinets in none of these places will impact,any,1,13,0.016317907720804214
+1485,n_pn,No cabinets will impact,any,1,4,0.00344721507281065
+1486,n_pn,None of the cabinets will impact,any,1,6,0.02293463423848152
+1487,n_pn,It is not the case that the cabinets will impact,any,1,10,0.016398491337895393
+1488,n_prel,No cabinets which I have studied will impact,any,1,8,0.004244867246598005
+1489,n_prel,None of the cabinets which I have studied will impact,any,1,10,0.021193495020270348
+1490,n_prel,It is not the case that the cabinets which I have studied will impact,any,1,14,0.020912012085318565
+1491,n_ppp,No cabinets in these places will impact,any,1,7,0.0027738409116864204
+1492,n_ppp,None of the cabinets in these places will impact,any,1,9,0.021144328638911247
+1493,n_ppp,It is not the case that cabinets in these places will impact,any,1,12,0.009336208924651146
+1494,n_nrel,No cabinets which I have not studied will impact,any,1,9,0.011246335692703724
+1495,n_nrel,None of the cabinets which I have not have studied will impact,any,1,12,0.021541934460401535
+1496,n_nrel,It is not the case that the cabinets which I have not studied will impact,any,1,15,0.021437788382172585
+1497,n_npp,No cabinets in none of these places will impact,any,1,9,0.014437468722462654
+1498,n_npp,None of the cabinets in none of these places will impact,any,1,11,0.019150886684656143
+1499,n_npp,It is not the case that cabinets in none of these places will impact,any,1,14,0.012698507867753506
+1500,p_pn,The cabinets confuse,any,0,3,0.0015740450471639633
+1501,p_pn,Many of the cabinets confuse,any,0,5,0.000933597213588655
+1502,p_pn,It is the case that the cabinets confuse,any,0,8,0.0013018865138292313
+1503,p_prel,The cabinets which I have studied confuse,any,0,7,0.001692604972049594
+1504,p_prel,Many of the cabinets which I have studied confuse,any,0,9,0.001445482368580997
+1505,p_prel,It is the case that cabinets which I have studied confuse,any,0,11,0.0015255423495545983
+1506,p_ppp,The cabinets in these places confuse,any,0,6,0.001624168362468481
+1507,p_ppp,Many of the cabinets in these places confuse,any,0,8,0.0011760067427530885
+1508,p_ppp,It is the case that the cabinets in these places confuse,any,0,11,0.0015227802796289325
+1509,p_nrel,The cabinets which I have not studied confuse,any,1,8,0.0019285731250420213
+1510,p_nrel,Many of the cabinets which I have not studied confuse,any,1,10,0.001373198232613504
+1511,p_nrel,It is the case that the cabinets which I have not studied confuse,any,1,13,0.002195873064920306
+1512,p_npp,The cabinets in none of these places confuse,any,1,8,0.018709523603320122
+1513,p_npp,Many of the cabinets in none of these places confuse,any,1,10,0.010334540158510208
+1514,p_npp,It is the case that cabinets in none of these places confuse,any,1,12,0.008757639676332474
+1515,n_pn,No cabinets confuse,any,1,3,0.0017987266182899475
+1516,n_pn,None of the cabinets confuse,any,1,5,0.009703417308628559
+1517,n_pn,It is not the case that the cabinets confuse,any,1,9,0.009026187472045422
+1518,n_prel,No cabinets which I have studied confuse,any,1,7,0.0024435475934296846
+1519,n_prel,None of the cabinets which I have studied confuse,any,1,9,0.020269270986318588
+1520,n_prel,It is not the case that the cabinets which I have studied confuse,any,1,13,0.020757364109158516
+1521,n_ppp,No cabinets in these places confuse,any,1,6,0.0016745754983276129
+1522,n_ppp,None of the cabinets in these places confuse,any,1,8,0.012435045093297958
+1523,n_ppp,It is not the case that cabinets in these places confuse,any,1,11,0.004980266094207764
+1524,n_nrel,No cabinets which I have not studied confuse,any,1,8,0.002998292911797762
+1525,n_nrel,None of the cabinets which I have not have studied confuse,any,1,11,0.016856078058481216
+1526,n_nrel,It is not the case that the cabinets which I have not studied confuse,any,1,14,0.02222205325961113
+1527,n_npp,No cabinets in none of these places confuse,any,1,8,0.00906109157949686
+1528,n_npp,None of the cabinets in none of these places confuse,any,1,10,0.014317508786916733
+1529,n_npp,It is not the case that cabinets in none of these places confuse,any,1,13,0.008643067441880703
+1530,p_pn,The cabinets inspired,any,0,3,9.644769306760281e-05
+1531,p_pn,Many of the cabinets inspired,any,0,5,5.932851854595356e-05
+1532,p_pn,It is the case that the cabinets inspired,any,0,8,0.0003637709014583379
+1533,p_prel,The cabinets which I have studied inspired,any,0,7,0.0003588940016925335
+1534,p_prel,Many of the cabinets which I have studied inspired,any,0,9,0.0003866510232910514
+1535,p_prel,It is the case that cabinets which I have studied inspired,any,0,11,0.0005495200748555362
+1536,p_ppp,The cabinets in these places inspired,any,0,6,0.0002260247856611386
+1537,p_ppp,Many of the cabinets in these places inspired,any,0,8,0.00019978260388597846
+1538,p_ppp,It is the case that the cabinets in these places inspired,any,0,11,0.0004947367124259472
+1539,p_nrel,The cabinets which I have not studied inspired,any,1,8,0.0009052679524756968
+1540,p_nrel,Many of the cabinets which I have not studied inspired,any,1,10,0.001219402882270515
+1541,p_nrel,It is the case that the cabinets which I have not studied inspired,any,1,13,0.0027442884165793657
+1542,p_npp,The cabinets in none of these places inspired,any,1,8,0.07947974652051926
+1543,p_npp,Many of the cabinets in none of these places inspired,any,1,10,0.06216402351856232
+1544,p_npp,It is the case that cabinets in none of these places inspired,any,1,12,0.04846147820353508
+1545,n_pn,No cabinets inspired,any,1,3,0.0006663633976131678
+1546,n_pn,None of the cabinets inspired,any,1,5,0.011548419483006
+1547,n_pn,It is not the case that the cabinets inspired,any,1,9,0.006305369082838297
+1548,n_prel,No cabinets which I have studied inspired,any,1,7,0.0008029736927710474
+1549,n_prel,None of the cabinets which I have studied inspired,any,1,9,0.04827558994293213
+1550,n_prel,It is not the case that the cabinets which I have studied inspired,any,1,13,0.03373594582080841
+1551,n_ppp,No cabinets in these places inspired,any,1,6,0.00048379856161773205
+1552,n_ppp,None of the cabinets in these places inspired,any,1,8,0.05002303048968315
+1553,n_ppp,It is not the case that cabinets in these places inspired,any,1,11,0.007734696846455336
+1554,n_nrel,No cabinets which I have not studied inspired,any,1,8,0.005366635508835316
+1555,n_nrel,None of the cabinets which I have not have studied inspired,any,1,11,0.062200263142585754
+1556,n_nrel,It is not the case that the cabinets which I have not studied inspired,any,1,14,0.0670614168047905
+1557,n_npp,No cabinets in none of these places inspired,any,1,8,0.0354427844285965
+1558,n_npp,None of the cabinets in none of these places inspired,any,1,10,0.0662776380777359
+1559,n_npp,It is not the case that cabinets in none of these places inspired,any,1,13,0.038629304617643356
+1560,p_pn,The cabinets will change,any,0,4,0.0006167380488477647
+1561,p_pn,Many of the cabinets will change,any,0,6,0.0003249032306484878
+1562,p_pn,It is the case that the cabinets will change,any,0,9,0.0007422679918818176
+1563,p_prel,The cabinets which I have studied will change,any,0,8,0.0016718724509701133
+1564,p_prel,Many of the cabinets which I have studied will change,any,0,10,0.0007535545155405998
+1565,p_prel,It is the case that cabinets which I have studied will change,any,0,12,0.0009076320566236973
+1566,p_ppp,The cabinets in these places will change,any,0,7,0.0007210908806882799
+1567,p_ppp,Many of the cabinets in these places will change,any,0,9,0.0004180531541351229
+1568,p_ppp,It is the case that the cabinets in these places will change,any,0,12,0.0006508106598630548
+1569,p_nrel,The cabinets which I have not studied will change,any,1,9,0.0030764902476221323
+1570,p_nrel,Many of the cabinets which I have not studied will change,any,1,11,0.0014292391715571284
+1571,p_nrel,It is the case that the cabinets which I have not studied will change,any,1,14,0.0023278433363884687
+1572,p_npp,The cabinets in none of these places will change,any,1,9,0.011509126052260399
+1573,p_npp,Many of the cabinets in none of these places will change,any,1,11,0.00680948281660676
+1574,p_npp,It is the case that cabinets in none of these places will change,any,1,13,0.005981873720884323
+1575,n_pn,No cabinets will change,any,1,4,0.0016674255020916462
+1576,n_pn,None of the cabinets will change,any,1,6,0.006197121925652027
+1577,n_pn,It is not the case that the cabinets will change,any,1,10,0.012208241969347
+1578,n_prel,No cabinets which I have studied will change,any,1,8,0.0028340427670627832
+1579,n_prel,None of the cabinets which I have studied will change,any,1,10,0.013832622207701206
+1580,n_prel,It is not the case that the cabinets which I have studied will change,any,1,14,0.015952061861753464
+1581,n_ppp,No cabinets in these places will change,any,1,7,0.0013174222549423575
+1582,n_ppp,None of the cabinets in these places will change,any,1,9,0.007741417270153761
+1583,n_ppp,It is not the case that cabinets in these places will change,any,1,12,0.004977549891918898
+1584,n_nrel,No cabinets which I have not studied will change,any,1,9,0.007903452962636948
+1585,n_nrel,None of the cabinets which I have not have studied will change,any,1,12,0.016420749947428703
+1586,n_nrel,It is not the case that the cabinets which I have not studied will change,any,1,15,0.017791178077459335
+1587,n_npp,No cabinets in none of these places will change,any,1,9,0.006565717048943043
+1588,n_npp,None of the cabinets in none of these places will change,any,1,11,0.007908625528216362
+1589,n_npp,It is not the case that cabinets in none of these places will change,any,1,14,0.005685525014996529
+1590,p_pn,The cabinets impress,any,0,3,0.0010061442153528333
+1591,p_pn,Many of the cabinets impress,any,0,5,0.0006570146069861948
+1592,p_pn,It is the case that the cabinets impress,any,0,8,0.0012903260067105293
+1593,p_prel,The cabinets which I have studied impress,any,0,7,0.00036708885454572737
+1594,p_prel,Many of the cabinets which I have studied impress,any,0,9,0.00030108753708191216
+1595,p_prel,It is the case that cabinets which I have studied impress,any,0,11,0.001133521436713636
+1596,p_ppp,The cabinets in these places impress,any,0,6,0.0012393458746373653
+1597,p_ppp,Many of the cabinets in these places impress,any,0,8,0.0008757220348343253
+1598,p_ppp,It is the case that the cabinets in these places impress,any,0,11,0.0014942841371521354
+1599,p_nrel,The cabinets which I have not studied impress,any,1,8,0.0007361244061030447
+1600,p_nrel,Many of the cabinets which I have not studied impress,any,1,10,0.000546072144061327
+1601,p_nrel,It is the case that the cabinets which I have not studied impress,any,1,13,0.0020929870661348104
+1602,p_npp,The cabinets in none of these places impress,any,1,8,0.014534464105963707
+1603,p_npp,Many of the cabinets in none of these places impress,any,1,10,0.011728554964065552
+1604,p_npp,It is the case that cabinets in none of these places impress,any,1,12,0.026863478124141693
+1605,n_pn,No cabinets impress,any,1,3,0.0010856403969228268
+1606,n_pn,None of the cabinets impress,any,1,5,0.007303857244551182
+1607,n_pn,It is not the case that the cabinets impress,any,1,9,0.015207410790026188
+1608,n_prel,No cabinets which I have studied impress,any,1,7,0.0004805948701687157
+1609,n_prel,None of the cabinets which I have studied impress,any,1,9,0.0052343737334012985
+1610,n_prel,It is not the case that the cabinets which I have studied impress,any,1,13,0.014478029683232307
+1611,n_ppp,No cabinets in these places impress,any,1,6,0.001269255648367107
+1612,n_ppp,None of the cabinets in these places impress,any,1,8,0.009145500138401985
+1613,n_ppp,It is not the case that cabinets in these places impress,any,1,11,0.019072171300649643
+1614,n_nrel,No cabinets which I have not studied impress,any,1,8,0.0017921184189617634
+1615,n_nrel,None of the cabinets which I have not have studied impress,any,1,11,0.00658394256606698
+1616,n_nrel,It is not the case that the cabinets which I have not studied impress,any,1,14,0.02427688054740429
+1617,n_npp,No cabinets in none of these places impress,any,1,8,0.007775646634399891
+1618,n_npp,None of the cabinets in none of these places impress,any,1,10,0.01109837181866169
+1619,n_npp,It is not the case that cabinets in none of these places impress,any,1,13,0.029537111520767212
+1620,p_pn,The philosophers have done,any,0,4,0.0002724201767705381
+1621,p_pn,Many of the philosophers have done,any,0,6,0.00031137806945480406
+1622,p_pn,It is the case that the philosophers have done,any,0,9,0.00046030920930206776
+1623,p_prel,The philosophers which I have studied have done,any,0,8,0.0005388129502534866
+1624,p_prel,Many of the philosophers which I have studied have done,any,0,10,0.0006179593037813902
+1625,p_prel,It is the case that philosophers which I have studied have done,any,0,12,0.000645662599708885
+1626,p_ppp,The philosophers in these places have done,any,0,7,0.0005089286132715642
+1627,p_ppp,Many of the philosophers in these places have done,any,0,9,0.0005668774247169495
+1628,p_ppp,It is the case that the philosophers in these places have done,any,0,12,0.0006298841326497495
+1629,p_nrel,The philosophers which I have not studied have done,any,1,9,0.0009010499343276024
+1630,p_nrel,Many of the philosophers which I have not studied have done,any,1,11,0.0009568769601173699
+1631,p_nrel,It is the case that the philosophers which I have not studied have done,any,1,14,0.001132005825638771
+1632,p_npp,The philosophers in none of these places have done,any,1,9,0.12120357155799866
+1633,p_npp,Many of the philosophers in none of these places have done,any,1,11,0.11415718495845795
+1634,p_npp,It is the case that philosophers in none of these places have done,any,1,13,0.1252414584159851
+1635,n_pn,No philosophers have done,any,1,4,0.07165517657995224
+1636,n_pn,None of the philosophers have done,any,1,6,0.10293038189411163
+1637,n_pn,It is not the case that the philosophers have done,any,1,10,0.0729808658361435
+1638,n_prel,No philosophers which I have studied have done,any,1,8,0.06469732522964478
+1639,n_prel,None of the philosophers which I have studied have done,any,1,10,0.11879965662956238
+1640,n_prel,It is not the case that the philosophers which I have studied have done,any,1,14,0.08454062789678574
+1641,n_ppp,No philosophers in these places have done,any,1,7,0.08746086806058884
+1642,n_ppp,None of the philosophers in these places have done,any,1,9,0.13400648534297943
+1643,n_ppp,It is not the case that philosophers in these places have done,any,1,12,0.07738836109638214
+1644,n_nrel,No philosophers which I have not studied have done,any,1,9,0.06298819184303284
+1645,n_nrel,None of the philosophers which I have not have studied have done,any,1,12,0.11946209520101547
+1646,n_nrel,It is not the case that the philosophers which I have not studied have done,any,1,15,0.10349438339471817
+1647,n_npp,No philosophers in none of these places have done,any,1,9,0.10245586186647415
+1648,n_npp,None of the philosophers in none of these places have done,any,1,11,0.13281278312206268
+1649,n_npp,It is not the case that philosophers in none of these places have done,any,1,14,0.12104880064725876
+1650,p_pn,The philosophers will impact,any,0,4,0.0031810584478080273
+1651,p_pn,Many of the philosophers will impact,any,0,6,0.003247737418860197
+1652,p_pn,It is the case that the philosophers will impact,any,0,9,0.002939819125458598
+1653,p_prel,The philosophers which I have studied will impact,any,0,8,0.0019464865326881409
+1654,p_prel,Many of the philosophers which I have studied will impact,any,0,10,0.0023261902388185263
+1655,p_prel,It is the case that philosophers which I have studied will impact,any,0,12,0.0016303156735375524
+1656,p_ppp,The philosophers in these places will impact,any,0,7,0.0015202014474198222
+1657,p_ppp,Many of the philosophers in these places will impact,any,0,9,0.0020389596465975046
+1658,p_ppp,It is the case that the philosophers in these places will impact,any,0,12,0.0016317878616973758
+1659,p_nrel,The philosophers which I have not studied will impact,any,1,9,0.002833255333825946
+1660,p_nrel,Many of the philosophers which I have not studied will impact,any,1,11,0.0034038492012768984
+1661,p_nrel,It is the case that the philosophers which I have not studied will impact,any,1,14,0.003185963723808527
+1662,p_npp,The philosophers in none of these places will impact,any,1,9,0.029128551483154297
+1663,p_npp,Many of the philosophers in none of these places will impact,any,1,11,0.03022637777030468
+1664,p_npp,It is the case that philosophers in none of these places will impact,any,1,13,0.03206053376197815
+1665,n_pn,No philosophers will impact,any,1,4,0.024258870631456375
+1666,n_pn,None of the philosophers will impact,any,1,6,0.02428457699716091
+1667,n_pn,It is not the case that the philosophers will impact,any,1,10,0.023846380412578583
+1668,n_prel,No philosophers which I have studied will impact,any,1,8,0.010044613853096962
+1669,n_prel,None of the philosophers which I have studied will impact,any,1,10,0.02509676106274128
+1670,n_prel,It is not the case that the philosophers which I have studied will impact,any,1,14,0.02731732651591301
+1671,n_ppp,No philosophers in these places will impact,any,1,7,0.016041483730077744
+1672,n_ppp,None of the philosophers in these places will impact,any,1,9,0.024997860193252563
+1673,n_ppp,It is not the case that philosophers in these places will impact,any,1,12,0.01890137977898121
+1674,n_nrel,No philosophers which I have not studied will impact,any,1,9,0.015755515545606613
+1675,n_nrel,None of the philosophers which I have not have studied will impact,any,1,12,0.024614689871668816
+1676,n_nrel,It is not the case that the philosophers which I have not studied will impact,any,1,15,0.03043457865715027
+1677,n_npp,No philosophers in none of these places will impact,any,1,9,0.029490351676940918
+1678,n_npp,None of the philosophers in none of these places will impact,any,1,11,0.02554161101579666
+1679,n_npp,It is not the case that philosophers in none of these places will impact,any,1,14,0.02697841264307499
+1680,p_pn,The philosophers confuse,any,0,3,0.0009974334388971329
+1681,p_pn,Many of the philosophers confuse,any,0,5,0.00058272440219298
+1682,p_pn,It is the case that the philosophers confuse,any,0,8,0.000859233841765672
+1683,p_prel,The philosophers which I have studied confuse,any,0,7,0.0010427312226966023
+1684,p_prel,Many of the philosophers which I have studied confuse,any,0,9,0.0008110376656986773
+1685,p_prel,It is the case that philosophers which I have studied confuse,any,0,11,0.0010204823920503259
+1686,p_ppp,The philosophers in these places confuse,any,0,6,0.001250971807166934
+1687,p_ppp,Many of the philosophers in these places confuse,any,0,8,0.000976125942543149
+1688,p_ppp,It is the case that the philosophers in these places confuse,any,0,11,0.0011351851280778646
+1689,p_nrel,The philosophers which I have not studied confuse,any,1,8,0.0008978368132375181
+1690,p_nrel,Many of the philosophers which I have not studied confuse,any,1,10,0.0006643134984187782
+1691,p_nrel,It is the case that the philosophers which I have not studied confuse,any,1,13,0.0010672620264813304
+1692,p_npp,The philosophers in none of these places confuse,any,1,8,0.015026357024908066
+1693,p_npp,Many of the philosophers in none of these places confuse,any,1,10,0.008404726162552834
+1694,p_npp,It is the case that philosophers in none of these places confuse,any,1,12,0.006364649627357721
+1695,n_pn,No philosophers confuse,any,1,3,0.004061410669237375
+1696,n_pn,None of the philosophers confuse,any,1,5,0.00421281810849905
+1697,n_pn,It is not the case that the philosophers confuse,any,1,9,0.0026610149070620537
+1698,n_prel,No philosophers which I have studied confuse,any,1,7,0.0021083608735352755
+1699,n_prel,None of the philosophers which I have studied confuse,any,1,9,0.004077717661857605
+1700,n_prel,It is not the case that the philosophers which I have studied confuse,any,1,13,0.003764950204640627
+1701,n_ppp,No philosophers in these places confuse,any,1,6,0.004186267498880625
+1702,n_ppp,None of the philosophers in these places confuse,any,1,8,0.00746537372469902
+1703,n_ppp,It is not the case that philosophers in these places confuse,any,1,11,0.0029679120052605867
+1704,n_nrel,No philosophers which I have not studied confuse,any,1,8,0.0017083886777982116
+1705,n_nrel,None of the philosophers which I have not have studied confuse,any,1,11,0.0031603341922163963
+1706,n_nrel,It is not the case that the philosophers which I have not studied confuse,any,1,14,0.0039567286148667336
+1707,n_npp,No philosophers in none of these places confuse,any,1,8,0.010834460146725178
+1708,n_npp,None of the philosophers in none of these places confuse,any,1,10,0.012515257112681866
+1709,n_npp,It is not the case that philosophers in none of these places confuse,any,1,13,0.005772733595222235
+1710,p_pn,The philosophers inspired,any,0,3,8.10651617939584e-05
+1711,p_pn,Many of the philosophers inspired,any,0,5,2.6102896299562417e-05
+1712,p_pn,It is the case that the philosophers inspired,any,0,8,0.00027623368077911437
+1713,p_prel,The philosophers which I have studied inspired,any,0,7,0.0002503333962522447
+1714,p_prel,Many of the philosophers which I have studied inspired,any,0,9,0.0002685690997168422
+1715,p_prel,It is the case that philosophers which I have studied inspired,any,0,11,0.0006548166857101023
+1716,p_ppp,The philosophers in these places inspired,any,0,6,0.0002620438754092902
+1717,p_ppp,Many of the philosophers in these places inspired,any,0,8,0.00021695077884942293
+1718,p_ppp,It is the case that the philosophers in these places inspired,any,0,11,0.0005899097886867821
+1719,p_nrel,The philosophers which I have not studied inspired,any,1,8,0.0005025103455409408
+1720,p_nrel,Many of the philosophers which I have not studied inspired,any,1,10,0.0005040824762545526
+1721,p_nrel,It is the case that the philosophers which I have not studied inspired,any,1,13,0.0010934119345620275
+1722,p_npp,The philosophers in none of these places inspired,any,1,8,0.05233033373951912
+1723,p_npp,Many of the philosophers in none of these places inspired,any,1,10,0.044309213757514954
+1724,p_npp,It is the case that philosophers in none of these places inspired,any,1,12,0.039565183222293854
+1725,n_pn,No philosophers inspired,any,1,3,0.002995225368067622
+1726,n_pn,None of the philosophers inspired,any,1,5,0.0024062898010015488
+1727,n_pn,It is not the case that the philosophers inspired,any,1,9,0.0036148596554994583
+1728,n_prel,No philosophers which I have studied inspired,any,1,7,0.00269099953584373
+1729,n_prel,None of the philosophers which I have studied inspired,any,1,9,0.02092471532523632
+1730,n_prel,It is not the case that the philosophers which I have studied inspired,any,1,13,0.009395565837621689
+1731,n_ppp,No philosophers in these places inspired,any,1,6,0.011707939207553864
+1732,n_ppp,None of the philosophers in these places inspired,any,1,8,0.025318631902337074
+1733,n_ppp,It is not the case that philosophers in these places inspired,any,1,11,0.005568654276430607
+1734,n_nrel,No philosophers which I have not studied inspired,any,1,8,0.003032189328223467
+1735,n_nrel,None of the philosophers which I have not have studied inspired,any,1,11,0.020728176459670067
+1736,n_nrel,It is not the case that the philosophers which I have not studied inspired,any,1,14,0.015740981325507164
+1737,n_npp,No philosophers in none of these places inspired,any,1,8,0.038247644901275635
+1738,n_npp,None of the philosophers in none of these places inspired,any,1,10,0.054135531187057495
+1739,n_npp,It is not the case that philosophers in none of these places inspired,any,1,13,0.03160926699638367
+1740,p_pn,The philosophers will change,any,0,4,0.000852544151712209
+1741,p_pn,Many of the philosophers will change,any,0,6,0.00028960203053429723
+1742,p_pn,It is the case that the philosophers will change,any,0,9,0.0005588218336924911
+1743,p_prel,The philosophers which I have studied will change,any,0,8,0.001374205225147307
+1744,p_prel,Many of the philosophers which I have studied will change,any,0,10,0.0007184764253906906
+1745,p_prel,It is the case that philosophers which I have studied will change,any,0,12,0.0007251500501297414
+1746,p_ppp,The philosophers in these places will change,any,0,7,0.00047987792640924454
+1747,p_ppp,Many of the philosophers in these places will change,any,0,9,0.00028295681113377213
+1748,p_ppp,It is the case that the philosophers in these places will change,any,0,12,0.00033233899739570916
+1749,p_nrel,The philosophers which I have not studied will change,any,1,9,0.001719745108857751
+1750,p_nrel,Many of the philosophers which I have not studied will change,any,1,11,0.0010633106576278806
+1751,p_nrel,It is the case that the philosophers which I have not studied will change,any,1,14,0.000972640875261277
+1752,p_npp,The philosophers in none of these places will change,any,1,9,0.010074280202388763
+1753,p_npp,Many of the philosophers in none of these places will change,any,1,11,0.00727427564561367
+1754,p_npp,It is the case that philosophers in none of these places will change,any,1,13,0.008786875754594803
+1755,n_pn,No philosophers will change,any,1,4,0.006866033188998699
+1756,n_pn,None of the philosophers will change,any,1,6,0.004300139378756285
+1757,n_pn,It is not the case that the philosophers will change,any,1,10,0.005003442522138357
+1758,n_prel,No philosophers which I have studied will change,any,1,8,0.005376765970140696
+1759,n_prel,None of the philosophers which I have studied will change,any,1,10,0.01233960222452879
+1760,n_prel,It is not the case that the philosophers which I have studied will change,any,1,14,0.00994441844522953
+1761,n_ppp,No philosophers in these places will change,any,1,7,0.003670541336759925
+1762,n_ppp,None of the philosophers in these places will change,any,1,9,0.0055566951632499695
+1763,n_ppp,It is not the case that philosophers in these places will change,any,1,12,0.0033588700462132692
+1764,n_nrel,No philosophers which I have not studied will change,any,1,9,0.008104074746370316
+1765,n_nrel,None of the philosophers which I have not have studied will change,any,1,12,0.012225361540913582
+1766,n_nrel,It is not the case that the philosophers which I have not studied will change,any,1,15,0.01000260654836893
+1767,n_npp,No philosophers in none of these places will change,any,1,9,0.007854900322854519
+1768,n_npp,None of the philosophers in none of these places will change,any,1,11,0.006994085852056742
+1769,n_npp,It is not the case that philosophers in none of these places will change,any,1,14,0.006376058328896761
+1770,p_pn,The philosophers impress,any,0,3,0.0005070554907433689
+1771,p_pn,Many of the philosophers impress,any,0,5,0.00042569256038405
+1772,p_pn,It is the case that the philosophers impress,any,0,8,0.0004935395554639399
+1773,p_prel,The philosophers which I have studied impress,any,0,7,0.0008467250154353678
+1774,p_prel,Many of the philosophers which I have studied impress,any,0,9,0.0007071613799780607
+1775,p_prel,It is the case that philosophers which I have studied impress,any,0,11,0.0013373179826885462
+1776,p_ppp,The philosophers in these places impress,any,0,6,0.0008272584527730942
+1777,p_ppp,Many of the philosophers in these places impress,any,0,8,0.0006656795740127563
+1778,p_ppp,It is the case that the philosophers in these places impress,any,0,11,0.000868317554704845
+1779,p_nrel,The philosophers which I have not studied impress,any,1,8,0.001446646056137979
+1780,p_nrel,Many of the philosophers which I have not studied impress,any,1,10,0.0012088334187865257
+1781,p_nrel,It is the case that the philosophers which I have not studied impress,any,1,13,0.0018904861062765121
+1782,p_npp,The philosophers in none of these places impress,any,1,8,0.0492403618991375
+1783,p_npp,Many of the philosophers in none of these places impress,any,1,10,0.038590267300605774
+1784,p_npp,It is the case that philosophers in none of these places impress,any,1,12,0.038638800382614136
+1785,n_pn,No philosophers impress,any,1,3,0.008244759403169155
+1786,n_pn,None of the philosophers impress,any,1,5,0.028516225516796112
+1787,n_pn,It is not the case that the philosophers impress,any,1,9,0.006499767303466797
+1788,n_prel,No philosophers which I have studied impress,any,1,7,0.004058686085045338
+1789,n_prel,None of the philosophers which I have studied impress,any,1,9,0.023205533623695374
+1790,n_prel,It is not the case that the philosophers which I have studied impress,any,1,13,0.005372930783778429
+1791,n_ppp,No philosophers in these places impress,any,1,6,0.014835909940302372
+1792,n_ppp,None of the philosophers in these places impress,any,1,8,0.04848652705550194
+1793,n_ppp,It is not the case that philosophers in these places impress,any,1,11,0.007359074894338846
+1794,n_nrel,No philosophers which I have not studied impress,any,1,8,0.008497628383338451
+1795,n_nrel,None of the philosophers which I have not have studied impress,any,1,11,0.01909574493765831
+1796,n_nrel,It is not the case that the philosophers which I have not studied impress,any,1,14,0.014740978367626667
+1797,n_npp,No philosophers in none of these places impress,any,1,8,0.04115666076540947
+1798,n_npp,None of the philosophers in none of these places impress,any,1,10,0.058180294930934906
+1799,n_npp,It is not the case that philosophers in none of these places impress,any,1,13,0.04047231003642082
+1800,p_pn,The passengers have done,any,0,4,0.0002451887703500688
+1801,p_pn,Many of the passengers have done,any,0,6,0.00034439461887814105
+1802,p_pn,It is the case that the passengers have done,any,0,9,0.0005662274779751897
+1803,p_prel,The passengers which I have studied have done,any,0,8,0.00040313450153917074
+1804,p_prel,Many of the passengers which I have studied have done,any,0,10,0.0005684220232069492
+1805,p_prel,It is the case that passengers which I have studied have done,any,0,12,0.00044954611803404987
+1806,p_ppp,The passengers in these places have done,any,0,7,0.0004853223799727857
+1807,p_ppp,Many of the passengers in these places have done,any,0,9,0.0006283702678047121
+1808,p_ppp,It is the case that the passengers in these places have done,any,0,12,0.0007496264879591763
+1809,p_nrel,The passengers which I have not studied have done,any,1,9,0.000715149799361825
+1810,p_nrel,Many of the passengers which I have not studied have done,any,1,11,0.0009630128624849021
+1811,p_nrel,It is the case that the passengers which I have not studied have done,any,1,14,0.0014502565609291196
+1812,p_npp,The passengers in none of these places have done,any,1,9,0.11177630722522736
+1813,p_npp,Many of the passengers in none of these places have done,any,1,11,0.12822289764881134
+1814,p_npp,It is the case that passengers in none of these places have done,any,1,13,0.11805260926485062
+1815,n_pn,No passengers have done,any,1,4,0.04129054769873619
+1816,n_pn,None of the passengers have done,any,1,6,0.12267772853374481
+1817,n_pn,It is not the case that the passengers have done,any,1,10,0.07315167039632797
+1818,n_prel,No passengers which I have studied have done,any,1,8,0.0192779041826725
+1819,n_prel,None of the passengers which I have studied have done,any,1,10,0.09456368535757065
+1820,n_prel,It is not the case that the passengers which I have studied have done,any,1,14,0.06320693343877792
+1821,n_ppp,No passengers in these places have done,any,1,7,0.028071323409676552
+1822,n_ppp,None of the passengers in these places have done,any,1,9,0.1263342797756195
+1823,n_ppp,It is not the case that passengers in these places have done,any,1,12,0.06477776169776917
+1824,n_nrel,No passengers which I have not studied have done,any,1,9,0.03231552615761757
+1825,n_nrel,None of the passengers which I have not have studied have done,any,1,12,0.09673602879047394
+1826,n_nrel,It is not the case that the passengers which I have not studied have done,any,1,15,0.0921541079878807
+1827,n_npp,No passengers in none of these places have done,any,1,9,0.07371991127729416
+1828,n_npp,None of the passengers in none of these places have done,any,1,11,0.11874651908874512
+1829,n_npp,It is not the case that passengers in none of these places have done,any,1,14,0.10456085205078125
+1830,p_pn,The passengers will impact,any,0,4,0.00155574269592762
+1831,p_pn,Many of the passengers will impact,any,0,6,0.0016429813113063574
+1832,p_pn,It is the case that the passengers will impact,any,0,9,0.0020696267019957304
+1833,p_prel,The passengers which I have studied will impact,any,0,8,0.002001403598114848
+1834,p_prel,Many of the passengers which I have studied will impact,any,0,10,0.002023018430918455
+1835,p_prel,It is the case that passengers which I have studied will impact,any,0,12,0.0013985988916829228
+1836,p_ppp,The passengers in these places will impact,any,0,7,0.0009035409893840551
+1837,p_ppp,Many of the passengers in these places will impact,any,0,9,0.0012972758850082755
+1838,p_ppp,It is the case that the passengers in these places will impact,any,0,12,0.0012146689696237445
+1839,p_nrel,The passengers which I have not studied will impact,any,1,9,0.00444586668163538
+1840,p_nrel,Many of the passengers which I have not studied will impact,any,1,11,0.00379549665376544
+1841,p_nrel,It is the case that the passengers which I have not studied will impact,any,1,14,0.0034820965956896544
+1842,p_npp,The passengers in none of these places will impact,any,1,9,0.03773597627878189
+1843,p_npp,Many of the passengers in none of these places will impact,any,1,11,0.02999003976583481
+1844,p_npp,It is the case that passengers in none of these places will impact,any,1,13,0.024890847504138947
+1845,n_pn,No passengers will impact,any,1,4,0.023476218804717064
+1846,n_pn,None of the passengers will impact,any,1,6,0.03846849501132965
+1847,n_pn,It is not the case that the passengers will impact,any,1,10,0.028753355145454407
+1848,n_prel,No passengers which I have studied will impact,any,1,8,0.006459625903517008
+1849,n_prel,None of the passengers which I have studied will impact,any,1,10,0.021445907652378082
+1850,n_prel,It is not the case that the passengers which I have studied will impact,any,1,14,0.021983392536640167
+1851,n_ppp,No passengers in these places will impact,any,1,7,0.0035836740862578154
+1852,n_ppp,None of the passengers in these places will impact,any,1,9,0.03248664364218712
+1853,n_ppp,It is not the case that passengers in these places will impact,any,1,12,0.014406166970729828
+1854,n_nrel,No passengers which I have not studied will impact,any,1,9,0.014095013029873371
+1855,n_nrel,None of the passengers which I have not have studied will impact,any,1,12,0.020956218242645264
+1856,n_nrel,It is not the case that the passengers which I have not studied will impact,any,1,15,0.022491388022899628
+1857,n_npp,No passengers in none of these places will impact,any,1,9,0.024795709177851677
+1858,n_npp,None of the passengers in none of these places will impact,any,1,11,0.029998259618878365
+1859,n_npp,It is not the case that passengers in none of these places will impact,any,1,14,0.020218076184391975
+1860,p_pn,The passengers confuse,any,0,3,0.0006812153733335435
+1861,p_pn,Many of the passengers confuse,any,0,5,0.0007526245899498463
+1862,p_pn,It is the case that the passengers confuse,any,0,8,0.0011176549596711993
+1863,p_prel,The passengers which I have studied confuse,any,0,7,0.0015763991978019476
+1864,p_prel,Many of the passengers which I have studied confuse,any,0,9,0.001091284560970962
+1865,p_prel,It is the case that passengers which I have studied confuse,any,0,11,0.0013921406352892518
+1866,p_ppp,The passengers in these places confuse,any,0,6,0.0012637806357815862
+1867,p_ppp,Many of the passengers in these places confuse,any,0,8,0.0009922112803906202
+1868,p_ppp,It is the case that the passengers in these places confuse,any,0,11,0.0011922531994059682
+1869,p_nrel,The passengers which I have not studied confuse,any,1,8,0.001303626922890544
+1870,p_nrel,Many of the passengers which I have not studied confuse,any,1,10,0.0008964724838733673
+1871,p_nrel,It is the case that the passengers which I have not studied confuse,any,1,13,0.0015112810069695115
+1872,p_npp,The passengers in none of these places confuse,any,1,8,0.016119878739118576
+1873,p_npp,Many of the passengers in none of these places confuse,any,1,10,0.007472310680896044
+1874,p_npp,It is the case that passengers in none of these places confuse,any,1,12,0.005659902468323708
+1875,n_pn,No passengers confuse,any,1,3,0.0031799853313714266
+1876,n_pn,None of the passengers confuse,any,1,5,0.0074950107373297215
+1877,n_pn,It is not the case that the passengers confuse,any,1,9,0.00467991316691041
+1878,n_prel,No passengers which I have studied confuse,any,1,7,0.00274044182151556
+1879,n_prel,None of the passengers which I have studied confuse,any,1,9,0.008777821436524391
+1880,n_prel,It is not the case that the passengers which I have studied confuse,any,1,13,0.007583546452224255
+1881,n_ppp,No passengers in these places confuse,any,1,6,0.0028484589420259
+1882,n_ppp,None of the passengers in these places confuse,any,1,8,0.009992738254368305
+1883,n_ppp,It is not the case that passengers in these places confuse,any,1,11,0.003259712364524603
+1884,n_nrel,No passengers which I have not studied confuse,any,1,8,0.0023255932610481977
+1885,n_nrel,None of the passengers which I have not have studied confuse,any,1,11,0.005453384947031736
+1886,n_nrel,It is not the case that the passengers which I have not studied confuse,any,1,14,0.007476356346160173
+1887,n_npp,No passengers in none of these places confuse,any,1,8,0.010540352202951908
+1888,n_npp,None of the passengers in none of these places confuse,any,1,10,0.013562491163611412
+1889,n_npp,It is not the case that passengers in none of these places confuse,any,1,13,0.005453836638480425
+1890,p_pn,The passengers inspired,any,0,3,0.0001370196114294231
+1891,p_pn,Many of the passengers inspired,any,0,5,9.188104013446718e-05
+1892,p_pn,It is the case that the passengers inspired,any,0,8,0.0005896720103919506
+1893,p_prel,The passengers which I have studied inspired,any,0,7,0.00032947983709163964
+1894,p_prel,Many of the passengers which I have studied inspired,any,0,9,0.0004366856883279979
+1895,p_prel,It is the case that passengers which I have studied inspired,any,0,11,0.0008048826130107045
+1896,p_ppp,The passengers in these places inspired,any,0,6,0.00018410556367598474
+1897,p_ppp,Many of the passengers in these places inspired,any,0,8,0.00021294146426953375
+1898,p_ppp,It is the case that the passengers in these places inspired,any,0,11,0.0006352223572321236
+1899,p_nrel,The passengers which I have not studied inspired,any,1,8,0.0007911826833151281
+1900,p_nrel,Many of the passengers which I have not studied inspired,any,1,10,0.001210432848893106
+1901,p_nrel,It is the case that the passengers which I have not studied inspired,any,1,13,0.0022874476853758097
+1902,p_npp,The passengers in none of these places inspired,any,1,8,0.06461242586374283
+1903,p_npp,Many of the passengers in none of these places inspired,any,1,10,0.060823794454336166
+1904,p_npp,It is the case that passengers in none of these places inspired,any,1,12,0.03525729849934578
+1905,n_pn,No passengers inspired,any,1,3,0.001585784601047635
+1906,n_pn,None of the passengers inspired,any,1,5,0.014488142915070057
+1907,n_pn,It is not the case that the passengers inspired,any,1,9,0.014876787550747395
+1908,n_prel,No passengers which I have studied inspired,any,1,7,0.0014212983660399914
+1909,n_prel,None of the passengers which I have studied inspired,any,1,9,0.049484867602586746
+1910,n_prel,It is not the case that the passengers which I have studied inspired,any,1,13,0.03134806454181671
+1911,n_ppp,No passengers in these places inspired,any,1,6,0.001386982505209744
+1912,n_ppp,None of the passengers in these places inspired,any,1,8,0.04258912801742554
+1913,n_ppp,It is not the case that passengers in these places inspired,any,1,11,0.01358046568930149
+1914,n_nrel,No passengers which I have not studied inspired,any,1,8,0.006670139264315367
+1915,n_nrel,None of the passengers which I have not have studied inspired,any,1,11,0.05534343793988228
+1916,n_nrel,It is not the case that the passengers which I have not studied inspired,any,1,14,0.051233939826488495
+1917,n_npp,No passengers in none of these places inspired,any,1,8,0.030758081004023552
+1918,n_npp,None of the passengers in none of these places inspired,any,1,10,0.070598304271698
+1919,n_npp,It is not the case that passengers in none of these places inspired,any,1,13,0.037779148668050766
+1920,p_pn,The passengers will change,any,0,4,0.00040535678272135556
+1921,p_pn,Many of the passengers will change,any,0,6,0.00016962648078333586
+1922,p_pn,It is the case that the passengers will change,any,0,9,0.0008588504861108959
+1923,p_prel,The passengers which I have studied will change,any,0,8,0.0013202534755691886
+1924,p_prel,Many of the passengers which I have studied will change,any,0,10,0.0004789536469615996
+1925,p_prel,It is the case that passengers which I have studied will change,any,0,12,0.0005726984818466008
+1926,p_ppp,The passengers in these places will change,any,0,7,0.0005562930600717664
+1927,p_ppp,Many of the passengers in these places will change,any,0,9,0.00021039402054157108
+1928,p_ppp,It is the case that the passengers in these places will change,any,0,12,0.0005514217773452401
+1929,p_nrel,The passengers which I have not studied will change,any,1,9,0.0024269837886095047
+1930,p_nrel,Many of the passengers which I have not studied will change,any,1,11,0.001023627002723515
+1931,p_nrel,It is the case that the passengers which I have not studied will change,any,1,14,0.0014528424944728613
+1932,p_npp,The passengers in none of these places will change,any,1,9,0.008144416846334934
+1933,p_npp,Many of the passengers in none of these places will change,any,1,11,0.003135035978630185
+1934,p_npp,It is the case that passengers in none of these places will change,any,1,13,0.0035678399726748466
+1935,n_pn,No passengers will change,any,1,4,0.0043320851400494576
+1936,n_pn,None of the passengers will change,any,1,6,0.0037586281541734934
+1937,n_pn,It is not the case that the passengers will change,any,1,10,0.005924590863287449
+1938,n_prel,No passengers which I have studied will change,any,1,8,0.004591543693095446
+1939,n_prel,None of the passengers which I have studied will change,any,1,10,0.012534371577203274
+1940,n_prel,It is not the case that the passengers which I have studied will change,any,1,14,0.00994715467095375
+1941,n_ppp,No passengers in these places will change,any,1,7,0.0015596984885632992
+1942,n_ppp,None of the passengers in these places will change,any,1,9,0.004389840178191662
+1943,n_ppp,It is not the case that passengers in these places will change,any,1,12,0.003218879224732518
+1944,n_nrel,No passengers which I have not studied will change,any,1,9,0.01135322917252779
+1945,n_nrel,None of the passengers which I have not have studied will change,any,1,12,0.013417263515293598
+1946,n_nrel,It is not the case that the passengers which I have not studied will change,any,1,15,0.01047341339290142
+1947,n_npp,No passengers in none of these places will change,any,1,9,0.004071683157235384
+1948,n_npp,None of the passengers in none of these places will change,any,1,11,0.003725843969732523
+1949,n_npp,It is not the case that passengers in none of these places will change,any,1,14,0.0027133061084896326
+1950,p_pn,The passengers impress,any,0,3,0.0006361482664942741
+1951,p_pn,Many of the passengers impress,any,0,5,0.00048161836457438767
+1952,p_pn,It is the case that the passengers impress,any,0,8,0.0010289583588019013
+1953,p_prel,The passengers which I have studied impress,any,0,7,0.00034642318496480584
+1954,p_prel,Many of the passengers which I have studied impress,any,0,9,0.000363064551493153
+1955,p_prel,It is the case that passengers which I have studied impress,any,0,11,0.001085471361875534
+1956,p_ppp,The passengers in these places impress,any,0,6,0.0012265807017683983
+1957,p_ppp,Many of the passengers in these places impress,any,0,8,0.0009089316008612514
+1958,p_ppp,It is the case that the passengers in these places impress,any,0,11,0.0013288104673847556
+1959,p_nrel,The passengers which I have not studied impress,any,1,8,0.00051381706725806
+1960,p_nrel,Many of the passengers which I have not studied impress,any,1,10,0.0005225226050242782
+1961,p_nrel,It is the case that the passengers which I have not studied impress,any,1,13,0.001347578363493085
+1962,p_npp,The passengers in none of these places impress,any,1,8,0.028249036520719528
+1963,p_npp,Many of the passengers in none of these places impress,any,1,10,0.022088974714279175
+1964,p_npp,It is the case that passengers in none of these places impress,any,1,12,0.033867087215185165
+1965,n_pn,No passengers impress,any,1,3,0.006098857615143061
+1966,n_pn,None of the passengers impress,any,1,5,0.015318373218178749
+1967,n_pn,It is not the case that the passengers impress,any,1,9,0.021004391834139824
+1968,n_prel,No passengers which I have studied impress,any,1,7,0.0006376321543939412
+1969,n_prel,None of the passengers which I have studied impress,any,1,9,0.00785481370985508
+1970,n_prel,It is not the case that the passengers which I have studied impress,any,1,13,0.009505615569651127
+1971,n_ppp,No passengers in these places impress,any,1,6,0.0031357579864561558
+1972,n_ppp,None of the passengers in these places impress,any,1,8,0.027224663645029068
+1973,n_ppp,It is not the case that passengers in these places impress,any,1,11,0.018643712624907494
+1974,n_nrel,No passengers which I have not studied impress,any,1,8,0.0017214927356690168
+1975,n_nrel,None of the passengers which I have not have studied impress,any,1,11,0.006390165537595749
+1976,n_nrel,It is not the case that the passengers which I have not studied impress,any,1,14,0.02165924571454525
+1977,n_npp,No passengers in none of these places impress,any,1,8,0.015087711624801159
+1978,n_npp,None of the passengers in none of these places impress,any,1,10,0.02571900561451912
+1979,n_npp,It is not the case that passengers in none of these places impress,any,1,13,0.04291204735636711

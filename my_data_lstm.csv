@@ -1,0 +1,1981 @@
+number,construction,sentence,item,grammaticality
+0,p_pn,the laws have done,any,0
+1,p_pn,many of the laws have done,any,0
+2,p_pn,it is the case that the laws have done,any,0
+3,p_prel,the laws which I have studied have done,any,0
+4,p_prel,many of the laws which I have studied have done,any,0
+5,p_prel,it is the case that laws which I have studied have done,any,0
+6,p_ppp,the laws in these places have done,any,0
+7,p_ppp,many of the laws in these places have done,any,0
+8,p_ppp,it is the case that the laws in these places have done,any,0
+9,p_nrel,the laws which I have not studied have done,any,1
+10,p_nrel,many of the laws which I have not studied have done,any,1
+11,p_nrel,it is the case that the laws which I have not studied have done,any,1
+12,p_npp,the laws in none of these places have done,any,1
+13,p_npp,many of the laws in none of these places have done,any,1
+14,p_npp,it is the case that laws in none of these places have done,any,1
+15,n_pn,no laws have done,any,1
+16,n_pn,none of the laws have done,any,1
+17,n_pn,it is not the case that the laws have done,any,1
+18,n_prel,no laws which I have studied have done,any,1
+19,n_prel,none of the laws which I have studied have done,any,1
+20,n_prel,it is not the case that the laws which I have studied have done,any,1
+21,n_ppp,no laws in these places have done,any,1
+22,n_ppp,none of the laws in these places have done,any,1
+23,n_ppp,it is not the case that laws in these places have done,any,1
+24,n_nrel,no laws which I have not studied have done,any,1
+25,n_nrel,none of the laws which I have not have studied have done,any,1
+26,n_nrel,it is not the case that the laws which I have not studied have done,any,1
+27,n_npp,no laws in none of these places have done,any,1
+28,n_npp,none of the laws in none of these places have done,any,1
+29,n_npp,it is not the case that laws in none of these places have done,any,1
+30,p_pn,the laws will impact,any,0
+31,p_pn,many of the laws will impact,any,0
+32,p_pn,it is the case that the laws will impact,any,0
+33,p_prel,the laws which I have studied will impact,any,0
+34,p_prel,many of the laws which I have studied will impact,any,0
+35,p_prel,it is the case that laws which I have studied will impact,any,0
+36,p_ppp,the laws in these places will impact,any,0
+37,p_ppp,many of the laws in these places will impact,any,0
+38,p_ppp,it is the case that the laws in these places will impact,any,0
+39,p_nrel,the laws which I have not studied will impact,any,1
+40,p_nrel,many of the laws which I have not studied will impact,any,1
+41,p_nrel,it is the case that the laws which I have not studied will impact,any,1
+42,p_npp,the laws in none of these places will impact,any,1
+43,p_npp,many of the laws in none of these places will impact,any,1
+44,p_npp,it is the case that laws in none of these places will impact,any,1
+45,n_pn,no laws will impact,any,1
+46,n_pn,none of the laws will impact,any,1
+47,n_pn,it is not the case that the laws will impact,any,1
+48,n_prel,no laws which I have studied will impact,any,1
+49,n_prel,none of the laws which I have studied will impact,any,1
+50,n_prel,it is not the case that the laws which I have studied will impact,any,1
+51,n_ppp,no laws in these places will impact,any,1
+52,n_ppp,none of the laws in these places will impact,any,1
+53,n_ppp,it is not the case that laws in these places will impact,any,1
+54,n_nrel,no laws which I have not studied will impact,any,1
+55,n_nrel,none of the laws which I have not have studied will impact,any,1
+56,n_nrel,it is not the case that the laws which I have not studied will impact,any,1
+57,n_npp,no laws in none of these places will impact,any,1
+58,n_npp,none of the laws in none of these places will impact,any,1
+59,n_npp,it is not the case that laws in none of these places will impact,any,1
+60,p_pn,the laws confuse,any,0
+61,p_pn,many of the laws confuse,any,0
+62,p_pn,it is the case that the laws confuse,any,0
+63,p_prel,the laws which I have studied confuse,any,0
+64,p_prel,many of the laws which I have studied confuse,any,0
+65,p_prel,it is the case that laws which I have studied confuse,any,0
+66,p_ppp,the laws in these places confuse,any,0
+67,p_ppp,many of the laws in these places confuse,any,0
+68,p_ppp,it is the case that the laws in these places confuse,any,0
+69,p_nrel,the laws which I have not studied confuse,any,1
+70,p_nrel,many of the laws which I have not studied confuse,any,1
+71,p_nrel,it is the case that the laws which I have not studied confuse,any,1
+72,p_npp,the laws in none of these places confuse,any,1
+73,p_npp,many of the laws in none of these places confuse,any,1
+74,p_npp,it is the case that laws in none of these places confuse,any,1
+75,n_pn,no laws confuse,any,1
+76,n_pn,none of the laws confuse,any,1
+77,n_pn,it is not the case that the laws confuse,any,1
+78,n_prel,no laws which I have studied confuse,any,1
+79,n_prel,none of the laws which I have studied confuse,any,1
+80,n_prel,it is not the case that the laws which I have studied confuse,any,1
+81,n_ppp,no laws in these places confuse,any,1
+82,n_ppp,none of the laws in these places confuse,any,1
+83,n_ppp,it is not the case that laws in these places confuse,any,1
+84,n_nrel,no laws which I have not studied confuse,any,1
+85,n_nrel,none of the laws which I have not have studied confuse,any,1
+86,n_nrel,it is not the case that the laws which I have not studied confuse,any,1
+87,n_npp,no laws in none of these places confuse,any,1
+88,n_npp,none of the laws in none of these places confuse,any,1
+89,n_npp,it is not the case that laws in none of these places confuse,any,1
+90,p_pn,the laws inspired,any,0
+91,p_pn,many of the laws inspired,any,0
+92,p_pn,it is the case that the laws inspired,any,0
+93,p_prel,the laws which I have studied inspired,any,0
+94,p_prel,many of the laws which I have studied inspired,any,0
+95,p_prel,it is the case that laws which I have studied inspired,any,0
+96,p_ppp,the laws in these places inspired,any,0
+97,p_ppp,many of the laws in these places inspired,any,0
+98,p_ppp,it is the case that the laws in these places inspired,any,0
+99,p_nrel,the laws which I have not studied inspired,any,1
+100,p_nrel,many of the laws which I have not studied inspired,any,1
+101,p_nrel,it is the case that the laws which I have not studied inspired,any,1
+102,p_npp,the laws in none of these places inspired,any,1
+103,p_npp,many of the laws in none of these places inspired,any,1
+104,p_npp,it is the case that laws in none of these places inspired,any,1
+105,n_pn,no laws inspired,any,1
+106,n_pn,none of the laws inspired,any,1
+107,n_pn,it is not the case that the laws inspired,any,1
+108,n_prel,no laws which I have studied inspired,any,1
+109,n_prel,none of the laws which I have studied inspired,any,1
+110,n_prel,it is not the case that the laws which I have studied inspired,any,1
+111,n_ppp,no laws in these places inspired,any,1
+112,n_ppp,none of the laws in these places inspired,any,1
+113,n_ppp,it is not the case that laws in these places inspired,any,1
+114,n_nrel,no laws which I have not studied inspired,any,1
+115,n_nrel,none of the laws which I have not have studied inspired,any,1
+116,n_nrel,it is not the case that the laws which I have not studied inspired,any,1
+117,n_npp,no laws in none of these places inspired,any,1
+118,n_npp,none of the laws in none of these places inspired,any,1
+119,n_npp,it is not the case that laws in none of these places inspired,any,1
+120,p_pn,the laws will change,any,0
+121,p_pn,many of the laws will change,any,0
+122,p_pn,it is the case that the laws will change,any,0
+123,p_prel,the laws which I have studied will change,any,0
+124,p_prel,many of the laws which I have studied will change,any,0
+125,p_prel,it is the case that laws which I have studied will change,any,0
+126,p_ppp,the laws in these places will change,any,0
+127,p_ppp,many of the laws in these places will change,any,0
+128,p_ppp,it is the case that the laws in these places will change,any,0
+129,p_nrel,the laws which I have not studied will change,any,1
+130,p_nrel,many of the laws which I have not studied will change,any,1
+131,p_nrel,it is the case that the laws which I have not studied will change,any,1
+132,p_npp,the laws in none of these places will change,any,1
+133,p_npp,many of the laws in none of these places will change,any,1
+134,p_npp,it is the case that laws in none of these places will change,any,1
+135,n_pn,no laws will change,any,1
+136,n_pn,none of the laws will change,any,1
+137,n_pn,it is not the case that the laws will change,any,1
+138,n_prel,no laws which I have studied will change,any,1
+139,n_prel,none of the laws which I have studied will change,any,1
+140,n_prel,it is not the case that the laws which I have studied will change,any,1
+141,n_ppp,no laws in these places will change,any,1
+142,n_ppp,none of the laws in these places will change,any,1
+143,n_ppp,it is not the case that laws in these places will change,any,1
+144,n_nrel,no laws which I have not studied will change,any,1
+145,n_nrel,none of the laws which I have not have studied will change,any,1
+146,n_nrel,it is not the case that the laws which I have not studied will change,any,1
+147,n_npp,no laws in none of these places will change,any,1
+148,n_npp,none of the laws in none of these places will change,any,1
+149,n_npp,it is not the case that laws in none of these places will change,any,1
+150,p_pn,the laws impress,any,0
+151,p_pn,many of the laws impress,any,0
+152,p_pn,it is the case that the laws impress,any,0
+153,p_prel,the laws which I have studied impress,any,0
+154,p_prel,many of the laws which I have studied impress,any,0
+155,p_prel,it is the case that laws which I have studied impress,any,0
+156,p_ppp,the laws in these places impress,any,0
+157,p_ppp,many of the laws in these places impress,any,0
+158,p_ppp,it is the case that the laws in these places impress,any,0
+159,p_nrel,the laws which I have not studied impress,any,1
+160,p_nrel,many of the laws which I have not studied impress,any,1
+161,p_nrel,it is the case that the laws which I have not studied impress,any,1
+162,p_npp,the laws in none of these places impress,any,1
+163,p_npp,many of the laws in none of these places impress,any,1
+164,p_npp,it is the case that laws in none of these places impress,any,1
+165,n_pn,no laws impress,any,1
+166,n_pn,none of the laws impress,any,1
+167,n_pn,it is not the case that the laws impress,any,1
+168,n_prel,no laws which I have studied impress,any,1
+169,n_prel,none of the laws which I have studied impress,any,1
+170,n_prel,it is not the case that the laws which I have studied impress,any,1
+171,n_ppp,no laws in these places impress,any,1
+172,n_ppp,none of the laws in these places impress,any,1
+173,n_ppp,it is not the case that laws in these places impress,any,1
+174,n_nrel,no laws which I have not studied impress,any,1
+175,n_nrel,none of the laws which I have not have studied impress,any,1
+176,n_nrel,it is not the case that the laws which I have not studied impress,any,1
+177,n_npp,no laws in none of these places impress,any,1
+178,n_npp,none of the laws in none of these places impress,any,1
+179,n_npp,it is not the case that laws in none of these places impress,any,1
+180,p_pn,the theories have done,any,0
+181,p_pn,many of the theories have done,any,0
+182,p_pn,it is the case that the theories have done,any,0
+183,p_prel,the theories which I have studied have done,any,0
+184,p_prel,many of the theories which I have studied have done,any,0
+185,p_prel,it is the case that theories which I have studied have done,any,0
+186,p_ppp,the theories in these places have done,any,0
+187,p_ppp,many of the theories in these places have done,any,0
+188,p_ppp,it is the case that the theories in these places have done,any,0
+189,p_nrel,the theories which I have not studied have done,any,1
+190,p_nrel,many of the theories which I have not studied have done,any,1
+191,p_nrel,it is the case that the theories which I have not studied have done,any,1
+192,p_npp,the theories in none of these places have done,any,1
+193,p_npp,many of the theories in none of these places have done,any,1
+194,p_npp,it is the case that theories in none of these places have done,any,1
+195,n_pn,no theories have done,any,1
+196,n_pn,none of the theories have done,any,1
+197,n_pn,it is not the case that the theories have done,any,1
+198,n_prel,no theories which I have studied have done,any,1
+199,n_prel,none of the theories which I have studied have done,any,1
+200,n_prel,it is not the case that the theories which I have studied have done,any,1
+201,n_ppp,no theories in these places have done,any,1
+202,n_ppp,none of the theories in these places have done,any,1
+203,n_ppp,it is not the case that theories in these places have done,any,1
+204,n_nrel,no theories which I have not studied have done,any,1
+205,n_nrel,none of the theories which I have not have studied have done,any,1
+206,n_nrel,it is not the case that the theories which I have not studied have done,any,1
+207,n_npp,no theories in none of these places have done,any,1
+208,n_npp,none of the theories in none of these places have done,any,1
+209,n_npp,it is not the case that theories in none of these places have done,any,1
+210,p_pn,the theories will impact,any,0
+211,p_pn,many of the theories will impact,any,0
+212,p_pn,it is the case that the theories will impact,any,0
+213,p_prel,the theories which I have studied will impact,any,0
+214,p_prel,many of the theories which I have studied will impact,any,0
+215,p_prel,it is the case that theories which I have studied will impact,any,0
+216,p_ppp,the theories in these places will impact,any,0
+217,p_ppp,many of the theories in these places will impact,any,0
+218,p_ppp,it is the case that the theories in these places will impact,any,0
+219,p_nrel,the theories which I have not studied will impact,any,1
+220,p_nrel,many of the theories which I have not studied will impact,any,1
+221,p_nrel,it is the case that the theories which I have not studied will impact,any,1
+222,p_npp,the theories in none of these places will impact,any,1
+223,p_npp,many of the theories in none of these places will impact,any,1
+224,p_npp,it is the case that theories in none of these places will impact,any,1
+225,n_pn,no theories will impact,any,1
+226,n_pn,none of the theories will impact,any,1
+227,n_pn,it is not the case that the theories will impact,any,1
+228,n_prel,no theories which I have studied will impact,any,1
+229,n_prel,none of the theories which I have studied will impact,any,1
+230,n_prel,it is not the case that the theories which I have studied will impact,any,1
+231,n_ppp,no theories in these places will impact,any,1
+232,n_ppp,none of the theories in these places will impact,any,1
+233,n_ppp,it is not the case that theories in these places will impact,any,1
+234,n_nrel,no theories which I have not studied will impact,any,1
+235,n_nrel,none of the theories which I have not have studied will impact,any,1
+236,n_nrel,it is not the case that the theories which I have not studied will impact,any,1
+237,n_npp,no theories in none of these places will impact,any,1
+238,n_npp,none of the theories in none of these places will impact,any,1
+239,n_npp,it is not the case that theories in none of these places will impact,any,1
+240,p_pn,the theories confuse,any,0
+241,p_pn,many of the theories confuse,any,0
+242,p_pn,it is the case that the theories confuse,any,0
+243,p_prel,the theories which I have studied confuse,any,0
+244,p_prel,many of the theories which I have studied confuse,any,0
+245,p_prel,it is the case that theories which I have studied confuse,any,0
+246,p_ppp,the theories in these places confuse,any,0
+247,p_ppp,many of the theories in these places confuse,any,0
+248,p_ppp,it is the case that the theories in these places confuse,any,0
+249,p_nrel,the theories which I have not studied confuse,any,1
+250,p_nrel,many of the theories which I have not studied confuse,any,1
+251,p_nrel,it is the case that the theories which I have not studied confuse,any,1
+252,p_npp,the theories in none of these places confuse,any,1
+253,p_npp,many of the theories in none of these places confuse,any,1
+254,p_npp,it is the case that theories in none of these places confuse,any,1
+255,n_pn,no theories confuse,any,1
+256,n_pn,none of the theories confuse,any,1
+257,n_pn,it is not the case that the theories confuse,any,1
+258,n_prel,no theories which I have studied confuse,any,1
+259,n_prel,none of the theories which I have studied confuse,any,1
+260,n_prel,it is not the case that the theories which I have studied confuse,any,1
+261,n_ppp,no theories in these places confuse,any,1
+262,n_ppp,none of the theories in these places confuse,any,1
+263,n_ppp,it is not the case that theories in these places confuse,any,1
+264,n_nrel,no theories which I have not studied confuse,any,1
+265,n_nrel,none of the theories which I have not have studied confuse,any,1
+266,n_nrel,it is not the case that the theories which I have not studied confuse,any,1
+267,n_npp,no theories in none of these places confuse,any,1
+268,n_npp,none of the theories in none of these places confuse,any,1
+269,n_npp,it is not the case that theories in none of these places confuse,any,1
+270,p_pn,the theories inspired,any,0
+271,p_pn,many of the theories inspired,any,0
+272,p_pn,it is the case that the theories inspired,any,0
+273,p_prel,the theories which I have studied inspired,any,0
+274,p_prel,many of the theories which I have studied inspired,any,0
+275,p_prel,it is the case that theories which I have studied inspired,any,0
+276,p_ppp,the theories in these places inspired,any,0
+277,p_ppp,many of the theories in these places inspired,any,0
+278,p_ppp,it is the case that the theories in these places inspired,any,0
+279,p_nrel,the theories which I have not studied inspired,any,1
+280,p_nrel,many of the theories which I have not studied inspired,any,1
+281,p_nrel,it is the case that the theories which I have not studied inspired,any,1
+282,p_npp,the theories in none of these places inspired,any,1
+283,p_npp,many of the theories in none of these places inspired,any,1
+284,p_npp,it is the case that theories in none of these places inspired,any,1
+285,n_pn,no theories inspired,any,1
+286,n_pn,none of the theories inspired,any,1
+287,n_pn,it is not the case that the theories inspired,any,1
+288,n_prel,no theories which I have studied inspired,any,1
+289,n_prel,none of the theories which I have studied inspired,any,1
+290,n_prel,it is not the case that the theories which I have studied inspired,any,1
+291,n_ppp,no theories in these places inspired,any,1
+292,n_ppp,none of the theories in these places inspired,any,1
+293,n_ppp,it is not the case that theories in these places inspired,any,1
+294,n_nrel,no theories which I have not studied inspired,any,1
+295,n_nrel,none of the theories which I have not have studied inspired,any,1
+296,n_nrel,it is not the case that the theories which I have not studied inspired,any,1
+297,n_npp,no theories in none of these places inspired,any,1
+298,n_npp,none of the theories in none of these places inspired,any,1
+299,n_npp,it is not the case that theories in none of these places inspired,any,1
+300,p_pn,the theories will change,any,0
+301,p_pn,many of the theories will change,any,0
+302,p_pn,it is the case that the theories will change,any,0
+303,p_prel,the theories which I have studied will change,any,0
+304,p_prel,many of the theories which I have studied will change,any,0
+305,p_prel,it is the case that theories which I have studied will change,any,0
+306,p_ppp,the theories in these places will change,any,0
+307,p_ppp,many of the theories in these places will change,any,0
+308,p_ppp,it is the case that the theories in these places will change,any,0
+309,p_nrel,the theories which I have not studied will change,any,1
+310,p_nrel,many of the theories which I have not studied will change,any,1
+311,p_nrel,it is the case that the theories which I have not studied will change,any,1
+312,p_npp,the theories in none of these places will change,any,1
+313,p_npp,many of the theories in none of these places will change,any,1
+314,p_npp,it is the case that theories in none of these places will change,any,1
+315,n_pn,no theories will change,any,1
+316,n_pn,none of the theories will change,any,1
+317,n_pn,it is not the case that the theories will change,any,1
+318,n_prel,no theories which I have studied will change,any,1
+319,n_prel,none of the theories which I have studied will change,any,1
+320,n_prel,it is not the case that the theories which I have studied will change,any,1
+321,n_ppp,no theories in these places will change,any,1
+322,n_ppp,none of the theories in these places will change,any,1
+323,n_ppp,it is not the case that theories in these places will change,any,1
+324,n_nrel,no theories which I have not studied will change,any,1
+325,n_nrel,none of the theories which I have not have studied will change,any,1
+326,n_nrel,it is not the case that the theories which I have not studied will change,any,1
+327,n_npp,no theories in none of these places will change,any,1
+328,n_npp,none of the theories in none of these places will change,any,1
+329,n_npp,it is not the case that theories in none of these places will change,any,1
+330,p_pn,the theories impress,any,0
+331,p_pn,many of the theories impress,any,0
+332,p_pn,it is the case that the theories impress,any,0
+333,p_prel,the theories which I have studied impress,any,0
+334,p_prel,many of the theories which I have studied impress,any,0
+335,p_prel,it is the case that theories which I have studied impress,any,0
+336,p_ppp,the theories in these places impress,any,0
+337,p_ppp,many of the theories in these places impress,any,0
+338,p_ppp,it is the case that the theories in these places impress,any,0
+339,p_nrel,the theories which I have not studied impress,any,1
+340,p_nrel,many of the theories which I have not studied impress,any,1
+341,p_nrel,it is the case that the theories which I have not studied impress,any,1
+342,p_npp,the theories in none of these places impress,any,1
+343,p_npp,many of the theories in none of these places impress,any,1
+344,p_npp,it is the case that theories in none of these places impress,any,1
+345,n_pn,no theories impress,any,1
+346,n_pn,none of the theories impress,any,1
+347,n_pn,it is not the case that the theories impress,any,1
+348,n_prel,no theories which I have studied impress,any,1
+349,n_prel,none of the theories which I have studied impress,any,1
+350,n_prel,it is not the case that the theories which I have studied impress,any,1
+351,n_ppp,no theories in these places impress,any,1
+352,n_ppp,none of the theories in these places impress,any,1
+353,n_ppp,it is not the case that theories in these places impress,any,1
+354,n_nrel,no theories which I have not studied impress,any,1
+355,n_nrel,none of the theories which I have not have studied impress,any,1
+356,n_nrel,it is not the case that the theories which I have not studied impress,any,1
+357,n_npp,no theories in none of these places impress,any,1
+358,n_npp,none of the theories in none of these places impress,any,1
+359,n_npp,it is not the case that theories in none of these places impress,any,1
+360,p_pn,the cats have done,any,0
+361,p_pn,many of the cats have done,any,0
+362,p_pn,it is the case that the cats have done,any,0
+363,p_prel,the cats which I have studied have done,any,0
+364,p_prel,many of the cats which I have studied have done,any,0
+365,p_prel,it is the case that cats which I have studied have done,any,0
+366,p_ppp,the cats in these places have done,any,0
+367,p_ppp,many of the cats in these places have done,any,0
+368,p_ppp,it is the case that the cats in these places have done,any,0
+369,p_nrel,the cats which I have not studied have done,any,1
+370,p_nrel,many of the cats which I have not studied have done,any,1
+371,p_nrel,it is the case that the cats which I have not studied have done,any,1
+372,p_npp,the cats in none of these places have done,any,1
+373,p_npp,many of the cats in none of these places have done,any,1
+374,p_npp,it is the case that cats in none of these places have done,any,1
+375,n_pn,no cats have done,any,1
+376,n_pn,none of the cats have done,any,1
+377,n_pn,it is not the case that the cats have done,any,1
+378,n_prel,no cats which I have studied have done,any,1
+379,n_prel,none of the cats which I have studied have done,any,1
+380,n_prel,it is not the case that the cats which I have studied have done,any,1
+381,n_ppp,no cats in these places have done,any,1
+382,n_ppp,none of the cats in these places have done,any,1
+383,n_ppp,it is not the case that cats in these places have done,any,1
+384,n_nrel,no cats which I have not studied have done,any,1
+385,n_nrel,none of the cats which I have not have studied have done,any,1
+386,n_nrel,it is not the case that the cats which I have not studied have done,any,1
+387,n_npp,no cats in none of these places have done,any,1
+388,n_npp,none of the cats in none of these places have done,any,1
+389,n_npp,it is not the case that cats in none of these places have done,any,1
+390,p_pn,the cats will impact,any,0
+391,p_pn,many of the cats will impact,any,0
+392,p_pn,it is the case that the cats will impact,any,0
+393,p_prel,the cats which I have studied will impact,any,0
+394,p_prel,many of the cats which I have studied will impact,any,0
+395,p_prel,it is the case that cats which I have studied will impact,any,0
+396,p_ppp,the cats in these places will impact,any,0
+397,p_ppp,many of the cats in these places will impact,any,0
+398,p_ppp,it is the case that the cats in these places will impact,any,0
+399,p_nrel,the cats which I have not studied will impact,any,1
+400,p_nrel,many of the cats which I have not studied will impact,any,1
+401,p_nrel,it is the case that the cats which I have not studied will impact,any,1
+402,p_npp,the cats in none of these places will impact,any,1
+403,p_npp,many of the cats in none of these places will impact,any,1
+404,p_npp,it is the case that cats in none of these places will impact,any,1
+405,n_pn,no cats will impact,any,1
+406,n_pn,none of the cats will impact,any,1
+407,n_pn,it is not the case that the cats will impact,any,1
+408,n_prel,no cats which I have studied will impact,any,1
+409,n_prel,none of the cats which I have studied will impact,any,1
+410,n_prel,it is not the case that the cats which I have studied will impact,any,1
+411,n_ppp,no cats in these places will impact,any,1
+412,n_ppp,none of the cats in these places will impact,any,1
+413,n_ppp,it is not the case that cats in these places will impact,any,1
+414,n_nrel,no cats which I have not studied will impact,any,1
+415,n_nrel,none of the cats which I have not have studied will impact,any,1
+416,n_nrel,it is not the case that the cats which I have not studied will impact,any,1
+417,n_npp,no cats in none of these places will impact,any,1
+418,n_npp,none of the cats in none of these places will impact,any,1
+419,n_npp,it is not the case that cats in none of these places will impact,any,1
+420,p_pn,the cats confuse,any,0
+421,p_pn,many of the cats confuse,any,0
+422,p_pn,it is the case that the cats confuse,any,0
+423,p_prel,the cats which I have studied confuse,any,0
+424,p_prel,many of the cats which I have studied confuse,any,0
+425,p_prel,it is the case that cats which I have studied confuse,any,0
+426,p_ppp,the cats in these places confuse,any,0
+427,p_ppp,many of the cats in these places confuse,any,0
+428,p_ppp,it is the case that the cats in these places confuse,any,0
+429,p_nrel,the cats which I have not studied confuse,any,1
+430,p_nrel,many of the cats which I have not studied confuse,any,1
+431,p_nrel,it is the case that the cats which I have not studied confuse,any,1
+432,p_npp,the cats in none of these places confuse,any,1
+433,p_npp,many of the cats in none of these places confuse,any,1
+434,p_npp,it is the case that cats in none of these places confuse,any,1
+435,n_pn,no cats confuse,any,1
+436,n_pn,none of the cats confuse,any,1
+437,n_pn,it is not the case that the cats confuse,any,1
+438,n_prel,no cats which I have studied confuse,any,1
+439,n_prel,none of the cats which I have studied confuse,any,1
+440,n_prel,it is not the case that the cats which I have studied confuse,any,1
+441,n_ppp,no cats in these places confuse,any,1
+442,n_ppp,none of the cats in these places confuse,any,1
+443,n_ppp,it is not the case that cats in these places confuse,any,1
+444,n_nrel,no cats which I have not studied confuse,any,1
+445,n_nrel,none of the cats which I have not have studied confuse,any,1
+446,n_nrel,it is not the case that the cats which I have not studied confuse,any,1
+447,n_npp,no cats in none of these places confuse,any,1
+448,n_npp,none of the cats in none of these places confuse,any,1
+449,n_npp,it is not the case that cats in none of these places confuse,any,1
+450,p_pn,the cats inspired,any,0
+451,p_pn,many of the cats inspired,any,0
+452,p_pn,it is the case that the cats inspired,any,0
+453,p_prel,the cats which I have studied inspired,any,0
+454,p_prel,many of the cats which I have studied inspired,any,0
+455,p_prel,it is the case that cats which I have studied inspired,any,0
+456,p_ppp,the cats in these places inspired,any,0
+457,p_ppp,many of the cats in these places inspired,any,0
+458,p_ppp,it is the case that the cats in these places inspired,any,0
+459,p_nrel,the cats which I have not studied inspired,any,1
+460,p_nrel,many of the cats which I have not studied inspired,any,1
+461,p_nrel,it is the case that the cats which I have not studied inspired,any,1
+462,p_npp,the cats in none of these places inspired,any,1
+463,p_npp,many of the cats in none of these places inspired,any,1
+464,p_npp,it is the case that cats in none of these places inspired,any,1
+465,n_pn,no cats inspired,any,1
+466,n_pn,none of the cats inspired,any,1
+467,n_pn,it is not the case that the cats inspired,any,1
+468,n_prel,no cats which I have studied inspired,any,1
+469,n_prel,none of the cats which I have studied inspired,any,1
+470,n_prel,it is not the case that the cats which I have studied inspired,any,1
+471,n_ppp,no cats in these places inspired,any,1
+472,n_ppp,none of the cats in these places inspired,any,1
+473,n_ppp,it is not the case that cats in these places inspired,any,1
+474,n_nrel,no cats which I have not studied inspired,any,1
+475,n_nrel,none of the cats which I have not have studied inspired,any,1
+476,n_nrel,it is not the case that the cats which I have not studied inspired,any,1
+477,n_npp,no cats in none of these places inspired,any,1
+478,n_npp,none of the cats in none of these places inspired,any,1
+479,n_npp,it is not the case that cats in none of these places inspired,any,1
+480,p_pn,the cats will change,any,0
+481,p_pn,many of the cats will change,any,0
+482,p_pn,it is the case that the cats will change,any,0
+483,p_prel,the cats which I have studied will change,any,0
+484,p_prel,many of the cats which I have studied will change,any,0
+485,p_prel,it is the case that cats which I have studied will change,any,0
+486,p_ppp,the cats in these places will change,any,0
+487,p_ppp,many of the cats in these places will change,any,0
+488,p_ppp,it is the case that the cats in these places will change,any,0
+489,p_nrel,the cats which I have not studied will change,any,1
+490,p_nrel,many of the cats which I have not studied will change,any,1
+491,p_nrel,it is the case that the cats which I have not studied will change,any,1
+492,p_npp,the cats in none of these places will change,any,1
+493,p_npp,many of the cats in none of these places will change,any,1
+494,p_npp,it is the case that cats in none of these places will change,any,1
+495,n_pn,no cats will change,any,1
+496,n_pn,none of the cats will change,any,1
+497,n_pn,it is not the case that the cats will change,any,1
+498,n_prel,no cats which I have studied will change,any,1
+499,n_prel,none of the cats which I have studied will change,any,1
+500,n_prel,it is not the case that the cats which I have studied will change,any,1
+501,n_ppp,no cats in these places will change,any,1
+502,n_ppp,none of the cats in these places will change,any,1
+503,n_ppp,it is not the case that cats in these places will change,any,1
+504,n_nrel,no cats which I have not studied will change,any,1
+505,n_nrel,none of the cats which I have not have studied will change,any,1
+506,n_nrel,it is not the case that the cats which I have not studied will change,any,1
+507,n_npp,no cats in none of these places will change,any,1
+508,n_npp,none of the cats in none of these places will change,any,1
+509,n_npp,it is not the case that cats in none of these places will change,any,1
+510,p_pn,the cats impress,any,0
+511,p_pn,many of the cats impress,any,0
+512,p_pn,it is the case that the cats impress,any,0
+513,p_prel,the cats which I have studied impress,any,0
+514,p_prel,many of the cats which I have studied impress,any,0
+515,p_prel,it is the case that cats which I have studied impress,any,0
+516,p_ppp,the cats in these places impress,any,0
+517,p_ppp,many of the cats in these places impress,any,0
+518,p_ppp,it is the case that the cats in these places impress,any,0
+519,p_nrel,the cats which I have not studied impress,any,1
+520,p_nrel,many of the cats which I have not studied impress,any,1
+521,p_nrel,it is the case that the cats which I have not studied impress,any,1
+522,p_npp,the cats in none of these places impress,any,1
+523,p_npp,many of the cats in none of these places impress,any,1
+524,p_npp,it is the case that cats in none of these places impress,any,1
+525,n_pn,no cats impress,any,1
+526,n_pn,none of the cats impress,any,1
+527,n_pn,it is not the case that the cats impress,any,1
+528,n_prel,no cats which I have studied impress,any,1
+529,n_prel,none of the cats which I have studied impress,any,1
+530,n_prel,it is not the case that the cats which I have studied impress,any,1
+531,n_ppp,no cats in these places impress,any,1
+532,n_ppp,none of the cats in these places impress,any,1
+533,n_ppp,it is not the case that cats in these places impress,any,1
+534,n_nrel,no cats which I have not studied impress,any,1
+535,n_nrel,none of the cats which I have not have studied impress,any,1
+536,n_nrel,it is not the case that the cats which I have not studied impress,any,1
+537,n_npp,no cats in none of these places impress,any,1
+538,n_npp,none of the cats in none of these places impress,any,1
+539,n_npp,it is not the case that cats in none of these places impress,any,1
+540,p_pn,the queens have done,any,0
+541,p_pn,many of the queens have done,any,0
+542,p_pn,it is the case that the queens have done,any,0
+543,p_prel,the queens which I have studied have done,any,0
+544,p_prel,many of the queens which I have studied have done,any,0
+545,p_prel,it is the case that queens which I have studied have done,any,0
+546,p_ppp,the queens in these places have done,any,0
+547,p_ppp,many of the queens in these places have done,any,0
+548,p_ppp,it is the case that the queens in these places have done,any,0
+549,p_nrel,the queens which I have not studied have done,any,1
+550,p_nrel,many of the queens which I have not studied have done,any,1
+551,p_nrel,it is the case that the queens which I have not studied have done,any,1
+552,p_npp,the queens in none of these places have done,any,1
+553,p_npp,many of the queens in none of these places have done,any,1
+554,p_npp,it is the case that queens in none of these places have done,any,1
+555,n_pn,no queens have done,any,1
+556,n_pn,none of the queens have done,any,1
+557,n_pn,it is not the case that the queens have done,any,1
+558,n_prel,no queens which I have studied have done,any,1
+559,n_prel,none of the queens which I have studied have done,any,1
+560,n_prel,it is not the case that the queens which I have studied have done,any,1
+561,n_ppp,no queens in these places have done,any,1
+562,n_ppp,none of the queens in these places have done,any,1
+563,n_ppp,it is not the case that queens in these places have done,any,1
+564,n_nrel,no queens which I have not studied have done,any,1
+565,n_nrel,none of the queens which I have not have studied have done,any,1
+566,n_nrel,it is not the case that the queens which I have not studied have done,any,1
+567,n_npp,no queens in none of these places have done,any,1
+568,n_npp,none of the queens in none of these places have done,any,1
+569,n_npp,it is not the case that queens in none of these places have done,any,1
+570,p_pn,the queens will impact,any,0
+571,p_pn,many of the queens will impact,any,0
+572,p_pn,it is the case that the queens will impact,any,0
+573,p_prel,the queens which I have studied will impact,any,0
+574,p_prel,many of the queens which I have studied will impact,any,0
+575,p_prel,it is the case that queens which I have studied will impact,any,0
+576,p_ppp,the queens in these places will impact,any,0
+577,p_ppp,many of the queens in these places will impact,any,0
+578,p_ppp,it is the case that the queens in these places will impact,any,0
+579,p_nrel,the queens which I have not studied will impact,any,1
+580,p_nrel,many of the queens which I have not studied will impact,any,1
+581,p_nrel,it is the case that the queens which I have not studied will impact,any,1
+582,p_npp,the queens in none of these places will impact,any,1
+583,p_npp,many of the queens in none of these places will impact,any,1
+584,p_npp,it is the case that queens in none of these places will impact,any,1
+585,n_pn,no queens will impact,any,1
+586,n_pn,none of the queens will impact,any,1
+587,n_pn,it is not the case that the queens will impact,any,1
+588,n_prel,no queens which I have studied will impact,any,1
+589,n_prel,none of the queens which I have studied will impact,any,1
+590,n_prel,it is not the case that the queens which I have studied will impact,any,1
+591,n_ppp,no queens in these places will impact,any,1
+592,n_ppp,none of the queens in these places will impact,any,1
+593,n_ppp,it is not the case that queens in these places will impact,any,1
+594,n_nrel,no queens which I have not studied will impact,any,1
+595,n_nrel,none of the queens which I have not have studied will impact,any,1
+596,n_nrel,it is not the case that the queens which I have not studied will impact,any,1
+597,n_npp,no queens in none of these places will impact,any,1
+598,n_npp,none of the queens in none of these places will impact,any,1
+599,n_npp,it is not the case that queens in none of these places will impact,any,1
+600,p_pn,the queens confuse,any,0
+601,p_pn,many of the queens confuse,any,0
+602,p_pn,it is the case that the queens confuse,any,0
+603,p_prel,the queens which I have studied confuse,any,0
+604,p_prel,many of the queens which I have studied confuse,any,0
+605,p_prel,it is the case that queens which I have studied confuse,any,0
+606,p_ppp,the queens in these places confuse,any,0
+607,p_ppp,many of the queens in these places confuse,any,0
+608,p_ppp,it is the case that the queens in these places confuse,any,0
+609,p_nrel,the queens which I have not studied confuse,any,1
+610,p_nrel,many of the queens which I have not studied confuse,any,1
+611,p_nrel,it is the case that the queens which I have not studied confuse,any,1
+612,p_npp,the queens in none of these places confuse,any,1
+613,p_npp,many of the queens in none of these places confuse,any,1
+614,p_npp,it is the case that queens in none of these places confuse,any,1
+615,n_pn,no queens confuse,any,1
+616,n_pn,none of the queens confuse,any,1
+617,n_pn,it is not the case that the queens confuse,any,1
+618,n_prel,no queens which I have studied confuse,any,1
+619,n_prel,none of the queens which I have studied confuse,any,1
+620,n_prel,it is not the case that the queens which I have studied confuse,any,1
+621,n_ppp,no queens in these places confuse,any,1
+622,n_ppp,none of the queens in these places confuse,any,1
+623,n_ppp,it is not the case that queens in these places confuse,any,1
+624,n_nrel,no queens which I have not studied confuse,any,1
+625,n_nrel,none of the queens which I have not have studied confuse,any,1
+626,n_nrel,it is not the case that the queens which I have not studied confuse,any,1
+627,n_npp,no queens in none of these places confuse,any,1
+628,n_npp,none of the queens in none of these places confuse,any,1
+629,n_npp,it is not the case that queens in none of these places confuse,any,1
+630,p_pn,the queens inspired,any,0
+631,p_pn,many of the queens inspired,any,0
+632,p_pn,it is the case that the queens inspired,any,0
+633,p_prel,the queens which I have studied inspired,any,0
+634,p_prel,many of the queens which I have studied inspired,any,0
+635,p_prel,it is the case that queens which I have studied inspired,any,0
+636,p_ppp,the queens in these places inspired,any,0
+637,p_ppp,many of the queens in these places inspired,any,0
+638,p_ppp,it is the case that the queens in these places inspired,any,0
+639,p_nrel,the queens which I have not studied inspired,any,1
+640,p_nrel,many of the queens which I have not studied inspired,any,1
+641,p_nrel,it is the case that the queens which I have not studied inspired,any,1
+642,p_npp,the queens in none of these places inspired,any,1
+643,p_npp,many of the queens in none of these places inspired,any,1
+644,p_npp,it is the case that queens in none of these places inspired,any,1
+645,n_pn,no queens inspired,any,1
+646,n_pn,none of the queens inspired,any,1
+647,n_pn,it is not the case that the queens inspired,any,1
+648,n_prel,no queens which I have studied inspired,any,1
+649,n_prel,none of the queens which I have studied inspired,any,1
+650,n_prel,it is not the case that the queens which I have studied inspired,any,1
+651,n_ppp,no queens in these places inspired,any,1
+652,n_ppp,none of the queens in these places inspired,any,1
+653,n_ppp,it is not the case that queens in these places inspired,any,1
+654,n_nrel,no queens which I have not studied inspired,any,1
+655,n_nrel,none of the queens which I have not have studied inspired,any,1
+656,n_nrel,it is not the case that the queens which I have not studied inspired,any,1
+657,n_npp,no queens in none of these places inspired,any,1
+658,n_npp,none of the queens in none of these places inspired,any,1
+659,n_npp,it is not the case that queens in none of these places inspired,any,1
+660,p_pn,the queens will change,any,0
+661,p_pn,many of the queens will change,any,0
+662,p_pn,it is the case that the queens will change,any,0
+663,p_prel,the queens which I have studied will change,any,0
+664,p_prel,many of the queens which I have studied will change,any,0
+665,p_prel,it is the case that queens which I have studied will change,any,0
+666,p_ppp,the queens in these places will change,any,0
+667,p_ppp,many of the queens in these places will change,any,0
+668,p_ppp,it is the case that the queens in these places will change,any,0
+669,p_nrel,the queens which I have not studied will change,any,1
+670,p_nrel,many of the queens which I have not studied will change,any,1
+671,p_nrel,it is the case that the queens which I have not studied will change,any,1
+672,p_npp,the queens in none of these places will change,any,1
+673,p_npp,many of the queens in none of these places will change,any,1
+674,p_npp,it is the case that queens in none of these places will change,any,1
+675,n_pn,no queens will change,any,1
+676,n_pn,none of the queens will change,any,1
+677,n_pn,it is not the case that the queens will change,any,1
+678,n_prel,no queens which I have studied will change,any,1
+679,n_prel,none of the queens which I have studied will change,any,1
+680,n_prel,it is not the case that the queens which I have studied will change,any,1
+681,n_ppp,no queens in these places will change,any,1
+682,n_ppp,none of the queens in these places will change,any,1
+683,n_ppp,it is not the case that queens in these places will change,any,1
+684,n_nrel,no queens which I have not studied will change,any,1
+685,n_nrel,none of the queens which I have not have studied will change,any,1
+686,n_nrel,it is not the case that the queens which I have not studied will change,any,1
+687,n_npp,no queens in none of these places will change,any,1
+688,n_npp,none of the queens in none of these places will change,any,1
+689,n_npp,it is not the case that queens in none of these places will change,any,1
+690,p_pn,the queens impress,any,0
+691,p_pn,many of the queens impress,any,0
+692,p_pn,it is the case that the queens impress,any,0
+693,p_prel,the queens which I have studied impress,any,0
+694,p_prel,many of the queens which I have studied impress,any,0
+695,p_prel,it is the case that queens which I have studied impress,any,0
+696,p_ppp,the queens in these places impress,any,0
+697,p_ppp,many of the queens in these places impress,any,0
+698,p_ppp,it is the case that the queens in these places impress,any,0
+699,p_nrel,the queens which I have not studied impress,any,1
+700,p_nrel,many of the queens which I have not studied impress,any,1
+701,p_nrel,it is the case that the queens which I have not studied impress,any,1
+702,p_npp,the queens in none of these places impress,any,1
+703,p_npp,many of the queens in none of these places impress,any,1
+704,p_npp,it is the case that queens in none of these places impress,any,1
+705,n_pn,no queens impress,any,1
+706,n_pn,none of the queens impress,any,1
+707,n_pn,it is not the case that the queens impress,any,1
+708,n_prel,no queens which I have studied impress,any,1
+709,n_prel,none of the queens which I have studied impress,any,1
+710,n_prel,it is not the case that the queens which I have studied impress,any,1
+711,n_ppp,no queens in these places impress,any,1
+712,n_ppp,none of the queens in these places impress,any,1
+713,n_ppp,it is not the case that queens in these places impress,any,1
+714,n_nrel,no queens which I have not studied impress,any,1
+715,n_nrel,none of the queens which I have not have studied impress,any,1
+716,n_nrel,it is not the case that the queens which I have not studied impress,any,1
+717,n_npp,no queens in none of these places impress,any,1
+718,n_npp,none of the queens in none of these places impress,any,1
+719,n_npp,it is not the case that queens in none of these places impress,any,1
+720,p_pn,the books have done,any,0
+721,p_pn,many of the books have done,any,0
+722,p_pn,it is the case that the books have done,any,0
+723,p_prel,the books which I have studied have done,any,0
+724,p_prel,many of the books which I have studied have done,any,0
+725,p_prel,it is the case that books which I have studied have done,any,0
+726,p_ppp,the books in these places have done,any,0
+727,p_ppp,many of the books in these places have done,any,0
+728,p_ppp,it is the case that the books in these places have done,any,0
+729,p_nrel,the books which I have not studied have done,any,1
+730,p_nrel,many of the books which I have not studied have done,any,1
+731,p_nrel,it is the case that the books which I have not studied have done,any,1
+732,p_npp,the books in none of these places have done,any,1
+733,p_npp,many of the books in none of these places have done,any,1
+734,p_npp,it is the case that books in none of these places have done,any,1
+735,n_pn,no books have done,any,1
+736,n_pn,none of the books have done,any,1
+737,n_pn,it is not the case that the books have done,any,1
+738,n_prel,no books which I have studied have done,any,1
+739,n_prel,none of the books which I have studied have done,any,1
+740,n_prel,it is not the case that the books which I have studied have done,any,1
+741,n_ppp,no books in these places have done,any,1
+742,n_ppp,none of the books in these places have done,any,1
+743,n_ppp,it is not the case that books in these places have done,any,1
+744,n_nrel,no books which I have not studied have done,any,1
+745,n_nrel,none of the books which I have not have studied have done,any,1
+746,n_nrel,it is not the case that the books which I have not studied have done,any,1
+747,n_npp,no books in none of these places have done,any,1
+748,n_npp,none of the books in none of these places have done,any,1
+749,n_npp,it is not the case that books in none of these places have done,any,1
+750,p_pn,the books will impact,any,0
+751,p_pn,many of the books will impact,any,0
+752,p_pn,it is the case that the books will impact,any,0
+753,p_prel,the books which I have studied will impact,any,0
+754,p_prel,many of the books which I have studied will impact,any,0
+755,p_prel,it is the case that books which I have studied will impact,any,0
+756,p_ppp,the books in these places will impact,any,0
+757,p_ppp,many of the books in these places will impact,any,0
+758,p_ppp,it is the case that the books in these places will impact,any,0
+759,p_nrel,the books which I have not studied will impact,any,1
+760,p_nrel,many of the books which I have not studied will impact,any,1
+761,p_nrel,it is the case that the books which I have not studied will impact,any,1
+762,p_npp,the books in none of these places will impact,any,1
+763,p_npp,many of the books in none of these places will impact,any,1
+764,p_npp,it is the case that books in none of these places will impact,any,1
+765,n_pn,no books will impact,any,1
+766,n_pn,none of the books will impact,any,1
+767,n_pn,it is not the case that the books will impact,any,1
+768,n_prel,no books which I have studied will impact,any,1
+769,n_prel,none of the books which I have studied will impact,any,1
+770,n_prel,it is not the case that the books which I have studied will impact,any,1
+771,n_ppp,no books in these places will impact,any,1
+772,n_ppp,none of the books in these places will impact,any,1
+773,n_ppp,it is not the case that books in these places will impact,any,1
+774,n_nrel,no books which I have not studied will impact,any,1
+775,n_nrel,none of the books which I have not have studied will impact,any,1
+776,n_nrel,it is not the case that the books which I have not studied will impact,any,1
+777,n_npp,no books in none of these places will impact,any,1
+778,n_npp,none of the books in none of these places will impact,any,1
+779,n_npp,it is not the case that books in none of these places will impact,any,1
+780,p_pn,the books confuse,any,0
+781,p_pn,many of the books confuse,any,0
+782,p_pn,it is the case that the books confuse,any,0
+783,p_prel,the books which I have studied confuse,any,0
+784,p_prel,many of the books which I have studied confuse,any,0
+785,p_prel,it is the case that books which I have studied confuse,any,0
+786,p_ppp,the books in these places confuse,any,0
+787,p_ppp,many of the books in these places confuse,any,0
+788,p_ppp,it is the case that the books in these places confuse,any,0
+789,p_nrel,the books which I have not studied confuse,any,1
+790,p_nrel,many of the books which I have not studied confuse,any,1
+791,p_nrel,it is the case that the books which I have not studied confuse,any,1
+792,p_npp,the books in none of these places confuse,any,1
+793,p_npp,many of the books in none of these places confuse,any,1
+794,p_npp,it is the case that books in none of these places confuse,any,1
+795,n_pn,no books confuse,any,1
+796,n_pn,none of the books confuse,any,1
+797,n_pn,it is not the case that the books confuse,any,1
+798,n_prel,no books which I have studied confuse,any,1
+799,n_prel,none of the books which I have studied confuse,any,1
+800,n_prel,it is not the case that the books which I have studied confuse,any,1
+801,n_ppp,no books in these places confuse,any,1
+802,n_ppp,none of the books in these places confuse,any,1
+803,n_ppp,it is not the case that books in these places confuse,any,1
+804,n_nrel,no books which I have not studied confuse,any,1
+805,n_nrel,none of the books which I have not have studied confuse,any,1
+806,n_nrel,it is not the case that the books which I have not studied confuse,any,1
+807,n_npp,no books in none of these places confuse,any,1
+808,n_npp,none of the books in none of these places confuse,any,1
+809,n_npp,it is not the case that books in none of these places confuse,any,1
+810,p_pn,the books inspired,any,0
+811,p_pn,many of the books inspired,any,0
+812,p_pn,it is the case that the books inspired,any,0
+813,p_prel,the books which I have studied inspired,any,0
+814,p_prel,many of the books which I have studied inspired,any,0
+815,p_prel,it is the case that books which I have studied inspired,any,0
+816,p_ppp,the books in these places inspired,any,0
+817,p_ppp,many of the books in these places inspired,any,0
+818,p_ppp,it is the case that the books in these places inspired,any,0
+819,p_nrel,the books which I have not studied inspired,any,1
+820,p_nrel,many of the books which I have not studied inspired,any,1
+821,p_nrel,it is the case that the books which I have not studied inspired,any,1
+822,p_npp,the books in none of these places inspired,any,1
+823,p_npp,many of the books in none of these places inspired,any,1
+824,p_npp,it is the case that books in none of these places inspired,any,1
+825,n_pn,no books inspired,any,1
+826,n_pn,none of the books inspired,any,1
+827,n_pn,it is not the case that the books inspired,any,1
+828,n_prel,no books which I have studied inspired,any,1
+829,n_prel,none of the books which I have studied inspired,any,1
+830,n_prel,it is not the case that the books which I have studied inspired,any,1
+831,n_ppp,no books in these places inspired,any,1
+832,n_ppp,none of the books in these places inspired,any,1
+833,n_ppp,it is not the case that books in these places inspired,any,1
+834,n_nrel,no books which I have not studied inspired,any,1
+835,n_nrel,none of the books which I have not have studied inspired,any,1
+836,n_nrel,it is not the case that the books which I have not studied inspired,any,1
+837,n_npp,no books in none of these places inspired,any,1
+838,n_npp,none of the books in none of these places inspired,any,1
+839,n_npp,it is not the case that books in none of these places inspired,any,1
+840,p_pn,the books will change,any,0
+841,p_pn,many of the books will change,any,0
+842,p_pn,it is the case that the books will change,any,0
+843,p_prel,the books which I have studied will change,any,0
+844,p_prel,many of the books which I have studied will change,any,0
+845,p_prel,it is the case that books which I have studied will change,any,0
+846,p_ppp,the books in these places will change,any,0
+847,p_ppp,many of the books in these places will change,any,0
+848,p_ppp,it is the case that the books in these places will change,any,0
+849,p_nrel,the books which I have not studied will change,any,1
+850,p_nrel,many of the books which I have not studied will change,any,1
+851,p_nrel,it is the case that the books which I have not studied will change,any,1
+852,p_npp,the books in none of these places will change,any,1
+853,p_npp,many of the books in none of these places will change,any,1
+854,p_npp,it is the case that books in none of these places will change,any,1
+855,n_pn,no books will change,any,1
+856,n_pn,none of the books will change,any,1
+857,n_pn,it is not the case that the books will change,any,1
+858,n_prel,no books which I have studied will change,any,1
+859,n_prel,none of the books which I have studied will change,any,1
+860,n_prel,it is not the case that the books which I have studied will change,any,1
+861,n_ppp,no books in these places will change,any,1
+862,n_ppp,none of the books in these places will change,any,1
+863,n_ppp,it is not the case that books in these places will change,any,1
+864,n_nrel,no books which I have not studied will change,any,1
+865,n_nrel,none of the books which I have not have studied will change,any,1
+866,n_nrel,it is not the case that the books which I have not studied will change,any,1
+867,n_npp,no books in none of these places will change,any,1
+868,n_npp,none of the books in none of these places will change,any,1
+869,n_npp,it is not the case that books in none of these places will change,any,1
+870,p_pn,the books impress,any,0
+871,p_pn,many of the books impress,any,0
+872,p_pn,it is the case that the books impress,any,0
+873,p_prel,the books which I have studied impress,any,0
+874,p_prel,many of the books which I have studied impress,any,0
+875,p_prel,it is the case that books which I have studied impress,any,0
+876,p_ppp,the books in these places impress,any,0
+877,p_ppp,many of the books in these places impress,any,0
+878,p_ppp,it is the case that the books in these places impress,any,0
+879,p_nrel,the books which I have not studied impress,any,1
+880,p_nrel,many of the books which I have not studied impress,any,1
+881,p_nrel,it is the case that the books which I have not studied impress,any,1
+882,p_npp,the books in none of these places impress,any,1
+883,p_npp,many of the books in none of these places impress,any,1
+884,p_npp,it is the case that books in none of these places impress,any,1
+885,n_pn,no books impress,any,1
+886,n_pn,none of the books impress,any,1
+887,n_pn,it is not the case that the books impress,any,1
+888,n_prel,no books which I have studied impress,any,1
+889,n_prel,none of the books which I have studied impress,any,1
+890,n_prel,it is not the case that the books which I have studied impress,any,1
+891,n_ppp,no books in these places impress,any,1
+892,n_ppp,none of the books in these places impress,any,1
+893,n_ppp,it is not the case that books in these places impress,any,1
+894,n_nrel,no books which I have not studied impress,any,1
+895,n_nrel,none of the books which I have not have studied impress,any,1
+896,n_nrel,it is not the case that the books which I have not studied impress,any,1
+897,n_npp,no books in none of these places impress,any,1
+898,n_npp,none of the books in none of these places impress,any,1
+899,n_npp,it is not the case that books in none of these places impress,any,1
+900,p_pn,the raccoons have done,any,0
+901,p_pn,many of the raccoons have done,any,0
+902,p_pn,it is the case that the raccoons have done,any,0
+903,p_prel,the raccoons which I have studied have done,any,0
+904,p_prel,many of the raccoons which I have studied have done,any,0
+905,p_prel,it is the case that raccoons which I have studied have done,any,0
+906,p_ppp,the raccoons in these places have done,any,0
+907,p_ppp,many of the raccoons in these places have done,any,0
+908,p_ppp,it is the case that the raccoons in these places have done,any,0
+909,p_nrel,the raccoons which I have not studied have done,any,1
+910,p_nrel,many of the raccoons which I have not studied have done,any,1
+911,p_nrel,it is the case that the raccoons which I have not studied have done,any,1
+912,p_npp,the raccoons in none of these places have done,any,1
+913,p_npp,many of the raccoons in none of these places have done,any,1
+914,p_npp,it is the case that raccoons in none of these places have done,any,1
+915,n_pn,no raccoons have done,any,1
+916,n_pn,none of the raccoons have done,any,1
+917,n_pn,it is not the case that the raccoons have done,any,1
+918,n_prel,no raccoons which I have studied have done,any,1
+919,n_prel,none of the raccoons which I have studied have done,any,1
+920,n_prel,it is not the case that the raccoons which I have studied have done,any,1
+921,n_ppp,no raccoons in these places have done,any,1
+922,n_ppp,none of the raccoons in these places have done,any,1
+923,n_ppp,it is not the case that raccoons in these places have done,any,1
+924,n_nrel,no raccoons which I have not studied have done,any,1
+925,n_nrel,none of the raccoons which I have not have studied have done,any,1
+926,n_nrel,it is not the case that the raccoons which I have not studied have done,any,1
+927,n_npp,no raccoons in none of these places have done,any,1
+928,n_npp,none of the raccoons in none of these places have done,any,1
+929,n_npp,it is not the case that raccoons in none of these places have done,any,1
+930,p_pn,the raccoons will impact,any,0
+931,p_pn,many of the raccoons will impact,any,0
+932,p_pn,it is the case that the raccoons will impact,any,0
+933,p_prel,the raccoons which I have studied will impact,any,0
+934,p_prel,many of the raccoons which I have studied will impact,any,0
+935,p_prel,it is the case that raccoons which I have studied will impact,any,0
+936,p_ppp,the raccoons in these places will impact,any,0
+937,p_ppp,many of the raccoons in these places will impact,any,0
+938,p_ppp,it is the case that the raccoons in these places will impact,any,0
+939,p_nrel,the raccoons which I have not studied will impact,any,1
+940,p_nrel,many of the raccoons which I have not studied will impact,any,1
+941,p_nrel,it is the case that the raccoons which I have not studied will impact,any,1
+942,p_npp,the raccoons in none of these places will impact,any,1
+943,p_npp,many of the raccoons in none of these places will impact,any,1
+944,p_npp,it is the case that raccoons in none of these places will impact,any,1
+945,n_pn,no raccoons will impact,any,1
+946,n_pn,none of the raccoons will impact,any,1
+947,n_pn,it is not the case that the raccoons will impact,any,1
+948,n_prel,no raccoons which I have studied will impact,any,1
+949,n_prel,none of the raccoons which I have studied will impact,any,1
+950,n_prel,it is not the case that the raccoons which I have studied will impact,any,1
+951,n_ppp,no raccoons in these places will impact,any,1
+952,n_ppp,none of the raccoons in these places will impact,any,1
+953,n_ppp,it is not the case that raccoons in these places will impact,any,1
+954,n_nrel,no raccoons which I have not studied will impact,any,1
+955,n_nrel,none of the raccoons which I have not have studied will impact,any,1
+956,n_nrel,it is not the case that the raccoons which I have not studied will impact,any,1
+957,n_npp,no raccoons in none of these places will impact,any,1
+958,n_npp,none of the raccoons in none of these places will impact,any,1
+959,n_npp,it is not the case that raccoons in none of these places will impact,any,1
+960,p_pn,the raccoons confuse,any,0
+961,p_pn,many of the raccoons confuse,any,0
+962,p_pn,it is the case that the raccoons confuse,any,0
+963,p_prel,the raccoons which I have studied confuse,any,0
+964,p_prel,many of the raccoons which I have studied confuse,any,0
+965,p_prel,it is the case that raccoons which I have studied confuse,any,0
+966,p_ppp,the raccoons in these places confuse,any,0
+967,p_ppp,many of the raccoons in these places confuse,any,0
+968,p_ppp,it is the case that the raccoons in these places confuse,any,0
+969,p_nrel,the raccoons which I have not studied confuse,any,1
+970,p_nrel,many of the raccoons which I have not studied confuse,any,1
+971,p_nrel,it is the case that the raccoons which I have not studied confuse,any,1
+972,p_npp,the raccoons in none of these places confuse,any,1
+973,p_npp,many of the raccoons in none of these places confuse,any,1
+974,p_npp,it is the case that raccoons in none of these places confuse,any,1
+975,n_pn,no raccoons confuse,any,1
+976,n_pn,none of the raccoons confuse,any,1
+977,n_pn,it is not the case that the raccoons confuse,any,1
+978,n_prel,no raccoons which I have studied confuse,any,1
+979,n_prel,none of the raccoons which I have studied confuse,any,1
+980,n_prel,it is not the case that the raccoons which I have studied confuse,any,1
+981,n_ppp,no raccoons in these places confuse,any,1
+982,n_ppp,none of the raccoons in these places confuse,any,1
+983,n_ppp,it is not the case that raccoons in these places confuse,any,1
+984,n_nrel,no raccoons which I have not studied confuse,any,1
+985,n_nrel,none of the raccoons which I have not have studied confuse,any,1
+986,n_nrel,it is not the case that the raccoons which I have not studied confuse,any,1
+987,n_npp,no raccoons in none of these places confuse,any,1
+988,n_npp,none of the raccoons in none of these places confuse,any,1
+989,n_npp,it is not the case that raccoons in none of these places confuse,any,1
+990,p_pn,the raccoons inspired,any,0
+991,p_pn,many of the raccoons inspired,any,0
+992,p_pn,it is the case that the raccoons inspired,any,0
+993,p_prel,the raccoons which I have studied inspired,any,0
+994,p_prel,many of the raccoons which I have studied inspired,any,0
+995,p_prel,it is the case that raccoons which I have studied inspired,any,0
+996,p_ppp,the raccoons in these places inspired,any,0
+997,p_ppp,many of the raccoons in these places inspired,any,0
+998,p_ppp,it is the case that the raccoons in these places inspired,any,0
+999,p_nrel,the raccoons which I have not studied inspired,any,1
+1000,p_nrel,many of the raccoons which I have not studied inspired,any,1
+1001,p_nrel,it is the case that the raccoons which I have not studied inspired,any,1
+1002,p_npp,the raccoons in none of these places inspired,any,1
+1003,p_npp,many of the raccoons in none of these places inspired,any,1
+1004,p_npp,it is the case that raccoons in none of these places inspired,any,1
+1005,n_pn,no raccoons inspired,any,1
+1006,n_pn,none of the raccoons inspired,any,1
+1007,n_pn,it is not the case that the raccoons inspired,any,1
+1008,n_prel,no raccoons which I have studied inspired,any,1
+1009,n_prel,none of the raccoons which I have studied inspired,any,1
+1010,n_prel,it is not the case that the raccoons which I have studied inspired,any,1
+1011,n_ppp,no raccoons in these places inspired,any,1
+1012,n_ppp,none of the raccoons in these places inspired,any,1
+1013,n_ppp,it is not the case that raccoons in these places inspired,any,1
+1014,n_nrel,no raccoons which I have not studied inspired,any,1
+1015,n_nrel,none of the raccoons which I have not have studied inspired,any,1
+1016,n_nrel,it is not the case that the raccoons which I have not studied inspired,any,1
+1017,n_npp,no raccoons in none of these places inspired,any,1
+1018,n_npp,none of the raccoons in none of these places inspired,any,1
+1019,n_npp,it is not the case that raccoons in none of these places inspired,any,1
+1020,p_pn,the raccoons will change,any,0
+1021,p_pn,many of the raccoons will change,any,0
+1022,p_pn,it is the case that the raccoons will change,any,0
+1023,p_prel,the raccoons which I have studied will change,any,0
+1024,p_prel,many of the raccoons which I have studied will change,any,0
+1025,p_prel,it is the case that raccoons which I have studied will change,any,0
+1026,p_ppp,the raccoons in these places will change,any,0
+1027,p_ppp,many of the raccoons in these places will change,any,0
+1028,p_ppp,it is the case that the raccoons in these places will change,any,0
+1029,p_nrel,the raccoons which I have not studied will change,any,1
+1030,p_nrel,many of the raccoons which I have not studied will change,any,1
+1031,p_nrel,it is the case that the raccoons which I have not studied will change,any,1
+1032,p_npp,the raccoons in none of these places will change,any,1
+1033,p_npp,many of the raccoons in none of these places will change,any,1
+1034,p_npp,it is the case that raccoons in none of these places will change,any,1
+1035,n_pn,no raccoons will change,any,1
+1036,n_pn,none of the raccoons will change,any,1
+1037,n_pn,it is not the case that the raccoons will change,any,1
+1038,n_prel,no raccoons which I have studied will change,any,1
+1039,n_prel,none of the raccoons which I have studied will change,any,1
+1040,n_prel,it is not the case that the raccoons which I have studied will change,any,1
+1041,n_ppp,no raccoons in these places will change,any,1
+1042,n_ppp,none of the raccoons in these places will change,any,1
+1043,n_ppp,it is not the case that raccoons in these places will change,any,1
+1044,n_nrel,no raccoons which I have not studied will change,any,1
+1045,n_nrel,none of the raccoons which I have not have studied will change,any,1
+1046,n_nrel,it is not the case that the raccoons which I have not studied will change,any,1
+1047,n_npp,no raccoons in none of these places will change,any,1
+1048,n_npp,none of the raccoons in none of these places will change,any,1
+1049,n_npp,it is not the case that raccoons in none of these places will change,any,1
+1050,p_pn,the raccoons impress,any,0
+1051,p_pn,many of the raccoons impress,any,0
+1052,p_pn,it is the case that the raccoons impress,any,0
+1053,p_prel,the raccoons which I have studied impress,any,0
+1054,p_prel,many of the raccoons which I have studied impress,any,0
+1055,p_prel,it is the case that raccoons which I have studied impress,any,0
+1056,p_ppp,the raccoons in these places impress,any,0
+1057,p_ppp,many of the raccoons in these places impress,any,0
+1058,p_ppp,it is the case that the raccoons in these places impress,any,0
+1059,p_nrel,the raccoons which I have not studied impress,any,1
+1060,p_nrel,many of the raccoons which I have not studied impress,any,1
+1061,p_nrel,it is the case that the raccoons which I have not studied impress,any,1
+1062,p_npp,the raccoons in none of these places impress,any,1
+1063,p_npp,many of the raccoons in none of these places impress,any,1
+1064,p_npp,it is the case that raccoons in none of these places impress,any,1
+1065,n_pn,no raccoons impress,any,1
+1066,n_pn,none of the raccoons impress,any,1
+1067,n_pn,it is not the case that the raccoons impress,any,1
+1068,n_prel,no raccoons which I have studied impress,any,1
+1069,n_prel,none of the raccoons which I have studied impress,any,1
+1070,n_prel,it is not the case that the raccoons which I have studied impress,any,1
+1071,n_ppp,no raccoons in these places impress,any,1
+1072,n_ppp,none of the raccoons in these places impress,any,1
+1073,n_ppp,it is not the case that raccoons in these places impress,any,1
+1074,n_nrel,no raccoons which I have not studied impress,any,1
+1075,n_nrel,none of the raccoons which I have not have studied impress,any,1
+1076,n_nrel,it is not the case that the raccoons which I have not studied impress,any,1
+1077,n_npp,no raccoons in none of these places impress,any,1
+1078,n_npp,none of the raccoons in none of these places impress,any,1
+1079,n_npp,it is not the case that raccoons in none of these places impress,any,1
+1080,p_pn,the mountaineers have done,any,0
+1081,p_pn,many of the mountaineers have done,any,0
+1082,p_pn,it is the case that the mountaineers have done,any,0
+1083,p_prel,the mountaineers which I have studied have done,any,0
+1084,p_prel,many of the mountaineers which I have studied have done,any,0
+1085,p_prel,it is the case that mountaineers which I have studied have done,any,0
+1086,p_ppp,the mountaineers in these places have done,any,0
+1087,p_ppp,many of the mountaineers in these places have done,any,0
+1088,p_ppp,it is the case that the mountaineers in these places have done,any,0
+1089,p_nrel,the mountaineers which I have not studied have done,any,1
+1090,p_nrel,many of the mountaineers which I have not studied have done,any,1
+1091,p_nrel,it is the case that the mountaineers which I have not studied have done,any,1
+1092,p_npp,the mountaineers in none of these places have done,any,1
+1093,p_npp,many of the mountaineers in none of these places have done,any,1
+1094,p_npp,it is the case that mountaineers in none of these places have done,any,1
+1095,n_pn,no mountaineers have done,any,1
+1096,n_pn,none of the mountaineers have done,any,1
+1097,n_pn,it is not the case that the mountaineers have done,any,1
+1098,n_prel,no mountaineers which I have studied have done,any,1
+1099,n_prel,none of the mountaineers which I have studied have done,any,1
+1100,n_prel,it is not the case that the mountaineers which I have studied have done,any,1
+1101,n_ppp,no mountaineers in these places have done,any,1
+1102,n_ppp,none of the mountaineers in these places have done,any,1
+1103,n_ppp,it is not the case that mountaineers in these places have done,any,1
+1104,n_nrel,no mountaineers which I have not studied have done,any,1
+1105,n_nrel,none of the mountaineers which I have not have studied have done,any,1
+1106,n_nrel,it is not the case that the mountaineers which I have not studied have done,any,1
+1107,n_npp,no mountaineers in none of these places have done,any,1
+1108,n_npp,none of the mountaineers in none of these places have done,any,1
+1109,n_npp,it is not the case that mountaineers in none of these places have done,any,1
+1110,p_pn,the mountaineers will impact,any,0
+1111,p_pn,many of the mountaineers will impact,any,0
+1112,p_pn,it is the case that the mountaineers will impact,any,0
+1113,p_prel,the mountaineers which I have studied will impact,any,0
+1114,p_prel,many of the mountaineers which I have studied will impact,any,0
+1115,p_prel,it is the case that mountaineers which I have studied will impact,any,0
+1116,p_ppp,the mountaineers in these places will impact,any,0
+1117,p_ppp,many of the mountaineers in these places will impact,any,0
+1118,p_ppp,it is the case that the mountaineers in these places will impact,any,0
+1119,p_nrel,the mountaineers which I have not studied will impact,any,1
+1120,p_nrel,many of the mountaineers which I have not studied will impact,any,1
+1121,p_nrel,it is the case that the mountaineers which I have not studied will impact,any,1
+1122,p_npp,the mountaineers in none of these places will impact,any,1
+1123,p_npp,many of the mountaineers in none of these places will impact,any,1
+1124,p_npp,it is the case that mountaineers in none of these places will impact,any,1
+1125,n_pn,no mountaineers will impact,any,1
+1126,n_pn,none of the mountaineers will impact,any,1
+1127,n_pn,it is not the case that the mountaineers will impact,any,1
+1128,n_prel,no mountaineers which I have studied will impact,any,1
+1129,n_prel,none of the mountaineers which I have studied will impact,any,1
+1130,n_prel,it is not the case that the mountaineers which I have studied will impact,any,1
+1131,n_ppp,no mountaineers in these places will impact,any,1
+1132,n_ppp,none of the mountaineers in these places will impact,any,1
+1133,n_ppp,it is not the case that mountaineers in these places will impact,any,1
+1134,n_nrel,no mountaineers which I have not studied will impact,any,1
+1135,n_nrel,none of the mountaineers which I have not have studied will impact,any,1
+1136,n_nrel,it is not the case that the mountaineers which I have not studied will impact,any,1
+1137,n_npp,no mountaineers in none of these places will impact,any,1
+1138,n_npp,none of the mountaineers in none of these places will impact,any,1
+1139,n_npp,it is not the case that mountaineers in none of these places will impact,any,1
+1140,p_pn,the mountaineers confuse,any,0
+1141,p_pn,many of the mountaineers confuse,any,0
+1142,p_pn,it is the case that the mountaineers confuse,any,0
+1143,p_prel,the mountaineers which I have studied confuse,any,0
+1144,p_prel,many of the mountaineers which I have studied confuse,any,0
+1145,p_prel,it is the case that mountaineers which I have studied confuse,any,0
+1146,p_ppp,the mountaineers in these places confuse,any,0
+1147,p_ppp,many of the mountaineers in these places confuse,any,0
+1148,p_ppp,it is the case that the mountaineers in these places confuse,any,0
+1149,p_nrel,the mountaineers which I have not studied confuse,any,1
+1150,p_nrel,many of the mountaineers which I have not studied confuse,any,1
+1151,p_nrel,it is the case that the mountaineers which I have not studied confuse,any,1
+1152,p_npp,the mountaineers in none of these places confuse,any,1
+1153,p_npp,many of the mountaineers in none of these places confuse,any,1
+1154,p_npp,it is the case that mountaineers in none of these places confuse,any,1
+1155,n_pn,no mountaineers confuse,any,1
+1156,n_pn,none of the mountaineers confuse,any,1
+1157,n_pn,it is not the case that the mountaineers confuse,any,1
+1158,n_prel,no mountaineers which I have studied confuse,any,1
+1159,n_prel,none of the mountaineers which I have studied confuse,any,1
+1160,n_prel,it is not the case that the mountaineers which I have studied confuse,any,1
+1161,n_ppp,no mountaineers in these places confuse,any,1
+1162,n_ppp,none of the mountaineers in these places confuse,any,1
+1163,n_ppp,it is not the case that mountaineers in these places confuse,any,1
+1164,n_nrel,no mountaineers which I have not studied confuse,any,1
+1165,n_nrel,none of the mountaineers which I have not have studied confuse,any,1
+1166,n_nrel,it is not the case that the mountaineers which I have not studied confuse,any,1
+1167,n_npp,no mountaineers in none of these places confuse,any,1
+1168,n_npp,none of the mountaineers in none of these places confuse,any,1
+1169,n_npp,it is not the case that mountaineers in none of these places confuse,any,1
+1170,p_pn,the mountaineers inspired,any,0
+1171,p_pn,many of the mountaineers inspired,any,0
+1172,p_pn,it is the case that the mountaineers inspired,any,0
+1173,p_prel,the mountaineers which I have studied inspired,any,0
+1174,p_prel,many of the mountaineers which I have studied inspired,any,0
+1175,p_prel,it is the case that mountaineers which I have studied inspired,any,0
+1176,p_ppp,the mountaineers in these places inspired,any,0
+1177,p_ppp,many of the mountaineers in these places inspired,any,0
+1178,p_ppp,it is the case that the mountaineers in these places inspired,any,0
+1179,p_nrel,the mountaineers which I have not studied inspired,any,1
+1180,p_nrel,many of the mountaineers which I have not studied inspired,any,1
+1181,p_nrel,it is the case that the mountaineers which I have not studied inspired,any,1
+1182,p_npp,the mountaineers in none of these places inspired,any,1
+1183,p_npp,many of the mountaineers in none of these places inspired,any,1
+1184,p_npp,it is the case that mountaineers in none of these places inspired,any,1
+1185,n_pn,no mountaineers inspired,any,1
+1186,n_pn,none of the mountaineers inspired,any,1
+1187,n_pn,it is not the case that the mountaineers inspired,any,1
+1188,n_prel,no mountaineers which I have studied inspired,any,1
+1189,n_prel,none of the mountaineers which I have studied inspired,any,1
+1190,n_prel,it is not the case that the mountaineers which I have studied inspired,any,1
+1191,n_ppp,no mountaineers in these places inspired,any,1
+1192,n_ppp,none of the mountaineers in these places inspired,any,1
+1193,n_ppp,it is not the case that mountaineers in these places inspired,any,1
+1194,n_nrel,no mountaineers which I have not studied inspired,any,1
+1195,n_nrel,none of the mountaineers which I have not have studied inspired,any,1
+1196,n_nrel,it is not the case that the mountaineers which I have not studied inspired,any,1
+1197,n_npp,no mountaineers in none of these places inspired,any,1
+1198,n_npp,none of the mountaineers in none of these places inspired,any,1
+1199,n_npp,it is not the case that mountaineers in none of these places inspired,any,1
+1200,p_pn,the mountaineers will change,any,0
+1201,p_pn,many of the mountaineers will change,any,0
+1202,p_pn,it is the case that the mountaineers will change,any,0
+1203,p_prel,the mountaineers which I have studied will change,any,0
+1204,p_prel,many of the mountaineers which I have studied will change,any,0
+1205,p_prel,it is the case that mountaineers which I have studied will change,any,0
+1206,p_ppp,the mountaineers in these places will change,any,0
+1207,p_ppp,many of the mountaineers in these places will change,any,0
+1208,p_ppp,it is the case that the mountaineers in these places will change,any,0
+1209,p_nrel,the mountaineers which I have not studied will change,any,1
+1210,p_nrel,many of the mountaineers which I have not studied will change,any,1
+1211,p_nrel,it is the case that the mountaineers which I have not studied will change,any,1
+1212,p_npp,the mountaineers in none of these places will change,any,1
+1213,p_npp,many of the mountaineers in none of these places will change,any,1
+1214,p_npp,it is the case that mountaineers in none of these places will change,any,1
+1215,n_pn,no mountaineers will change,any,1
+1216,n_pn,none of the mountaineers will change,any,1
+1217,n_pn,it is not the case that the mountaineers will change,any,1
+1218,n_prel,no mountaineers which I have studied will change,any,1
+1219,n_prel,none of the mountaineers which I have studied will change,any,1
+1220,n_prel,it is not the case that the mountaineers which I have studied will change,any,1
+1221,n_ppp,no mountaineers in these places will change,any,1
+1222,n_ppp,none of the mountaineers in these places will change,any,1
+1223,n_ppp,it is not the case that mountaineers in these places will change,any,1
+1224,n_nrel,no mountaineers which I have not studied will change,any,1
+1225,n_nrel,none of the mountaineers which I have not have studied will change,any,1
+1226,n_nrel,it is not the case that the mountaineers which I have not studied will change,any,1
+1227,n_npp,no mountaineers in none of these places will change,any,1
+1228,n_npp,none of the mountaineers in none of these places will change,any,1
+1229,n_npp,it is not the case that mountaineers in none of these places will change,any,1
+1230,p_pn,the mountaineers impress,any,0
+1231,p_pn,many of the mountaineers impress,any,0
+1232,p_pn,it is the case that the mountaineers impress,any,0
+1233,p_prel,the mountaineers which I have studied impress,any,0
+1234,p_prel,many of the mountaineers which I have studied impress,any,0
+1235,p_prel,it is the case that mountaineers which I have studied impress,any,0
+1236,p_ppp,the mountaineers in these places impress,any,0
+1237,p_ppp,many of the mountaineers in these places impress,any,0
+1238,p_ppp,it is the case that the mountaineers in these places impress,any,0
+1239,p_nrel,the mountaineers which I have not studied impress,any,1
+1240,p_nrel,many of the mountaineers which I have not studied impress,any,1
+1241,p_nrel,it is the case that the mountaineers which I have not studied impress,any,1
+1242,p_npp,the mountaineers in none of these places impress,any,1
+1243,p_npp,many of the mountaineers in none of these places impress,any,1
+1244,p_npp,it is the case that mountaineers in none of these places impress,any,1
+1245,n_pn,no mountaineers impress,any,1
+1246,n_pn,none of the mountaineers impress,any,1
+1247,n_pn,it is not the case that the mountaineers impress,any,1
+1248,n_prel,no mountaineers which I have studied impress,any,1
+1249,n_prel,none of the mountaineers which I have studied impress,any,1
+1250,n_prel,it is not the case that the mountaineers which I have studied impress,any,1
+1251,n_ppp,no mountaineers in these places impress,any,1
+1252,n_ppp,none of the mountaineers in these places impress,any,1
+1253,n_ppp,it is not the case that mountaineers in these places impress,any,1
+1254,n_nrel,no mountaineers which I have not studied impress,any,1
+1255,n_nrel,none of the mountaineers which I have not have studied impress,any,1
+1256,n_nrel,it is not the case that the mountaineers which I have not studied impress,any,1
+1257,n_npp,no mountaineers in none of these places impress,any,1
+1258,n_npp,none of the mountaineers in none of these places impress,any,1
+1259,n_npp,it is not the case that mountaineers in none of these places impress,any,1
+1260,p_pn,the planets have done,any,0
+1261,p_pn,many of the planets have done,any,0
+1262,p_pn,it is the case that the planets have done,any,0
+1263,p_prel,the planets which I have studied have done,any,0
+1264,p_prel,many of the planets which I have studied have done,any,0
+1265,p_prel,it is the case that planets which I have studied have done,any,0
+1266,p_ppp,the planets in these places have done,any,0
+1267,p_ppp,many of the planets in these places have done,any,0
+1268,p_ppp,it is the case that the planets in these places have done,any,0
+1269,p_nrel,the planets which I have not studied have done,any,1
+1270,p_nrel,many of the planets which I have not studied have done,any,1
+1271,p_nrel,it is the case that the planets which I have not studied have done,any,1
+1272,p_npp,the planets in none of these places have done,any,1
+1273,p_npp,many of the planets in none of these places have done,any,1
+1274,p_npp,it is the case that planets in none of these places have done,any,1
+1275,n_pn,no planets have done,any,1
+1276,n_pn,none of the planets have done,any,1
+1277,n_pn,it is not the case that the planets have done,any,1
+1278,n_prel,no planets which I have studied have done,any,1
+1279,n_prel,none of the planets which I have studied have done,any,1
+1280,n_prel,it is not the case that the planets which I have studied have done,any,1
+1281,n_ppp,no planets in these places have done,any,1
+1282,n_ppp,none of the planets in these places have done,any,1
+1283,n_ppp,it is not the case that planets in these places have done,any,1
+1284,n_nrel,no planets which I have not studied have done,any,1
+1285,n_nrel,none of the planets which I have not have studied have done,any,1
+1286,n_nrel,it is not the case that the planets which I have not studied have done,any,1
+1287,n_npp,no planets in none of these places have done,any,1
+1288,n_npp,none of the planets in none of these places have done,any,1
+1289,n_npp,it is not the case that planets in none of these places have done,any,1
+1290,p_pn,the planets will impact,any,0
+1291,p_pn,many of the planets will impact,any,0
+1292,p_pn,it is the case that the planets will impact,any,0
+1293,p_prel,the planets which I have studied will impact,any,0
+1294,p_prel,many of the planets which I have studied will impact,any,0
+1295,p_prel,it is the case that planets which I have studied will impact,any,0
+1296,p_ppp,the planets in these places will impact,any,0
+1297,p_ppp,many of the planets in these places will impact,any,0
+1298,p_ppp,it is the case that the planets in these places will impact,any,0
+1299,p_nrel,the planets which I have not studied will impact,any,1
+1300,p_nrel,many of the planets which I have not studied will impact,any,1
+1301,p_nrel,it is the case that the planets which I have not studied will impact,any,1
+1302,p_npp,the planets in none of these places will impact,any,1
+1303,p_npp,many of the planets in none of these places will impact,any,1
+1304,p_npp,it is the case that planets in none of these places will impact,any,1
+1305,n_pn,no planets will impact,any,1
+1306,n_pn,none of the planets will impact,any,1
+1307,n_pn,it is not the case that the planets will impact,any,1
+1308,n_prel,no planets which I have studied will impact,any,1
+1309,n_prel,none of the planets which I have studied will impact,any,1
+1310,n_prel,it is not the case that the planets which I have studied will impact,any,1
+1311,n_ppp,no planets in these places will impact,any,1
+1312,n_ppp,none of the planets in these places will impact,any,1
+1313,n_ppp,it is not the case that planets in these places will impact,any,1
+1314,n_nrel,no planets which I have not studied will impact,any,1
+1315,n_nrel,none of the planets which I have not have studied will impact,any,1
+1316,n_nrel,it is not the case that the planets which I have not studied will impact,any,1
+1317,n_npp,no planets in none of these places will impact,any,1
+1318,n_npp,none of the planets in none of these places will impact,any,1
+1319,n_npp,it is not the case that planets in none of these places will impact,any,1
+1320,p_pn,the planets confuse,any,0
+1321,p_pn,many of the planets confuse,any,0
+1322,p_pn,it is the case that the planets confuse,any,0
+1323,p_prel,the planets which I have studied confuse,any,0
+1324,p_prel,many of the planets which I have studied confuse,any,0
+1325,p_prel,it is the case that planets which I have studied confuse,any,0
+1326,p_ppp,the planets in these places confuse,any,0
+1327,p_ppp,many of the planets in these places confuse,any,0
+1328,p_ppp,it is the case that the planets in these places confuse,any,0
+1329,p_nrel,the planets which I have not studied confuse,any,1
+1330,p_nrel,many of the planets which I have not studied confuse,any,1
+1331,p_nrel,it is the case that the planets which I have not studied confuse,any,1
+1332,p_npp,the planets in none of these places confuse,any,1
+1333,p_npp,many of the planets in none of these places confuse,any,1
+1334,p_npp,it is the case that planets in none of these places confuse,any,1
+1335,n_pn,no planets confuse,any,1
+1336,n_pn,none of the planets confuse,any,1
+1337,n_pn,it is not the case that the planets confuse,any,1
+1338,n_prel,no planets which I have studied confuse,any,1
+1339,n_prel,none of the planets which I have studied confuse,any,1
+1340,n_prel,it is not the case that the planets which I have studied confuse,any,1
+1341,n_ppp,no planets in these places confuse,any,1
+1342,n_ppp,none of the planets in these places confuse,any,1
+1343,n_ppp,it is not the case that planets in these places confuse,any,1
+1344,n_nrel,no planets which I have not studied confuse,any,1
+1345,n_nrel,none of the planets which I have not have studied confuse,any,1
+1346,n_nrel,it is not the case that the planets which I have not studied confuse,any,1
+1347,n_npp,no planets in none of these places confuse,any,1
+1348,n_npp,none of the planets in none of these places confuse,any,1
+1349,n_npp,it is not the case that planets in none of these places confuse,any,1
+1350,p_pn,the planets inspired,any,0
+1351,p_pn,many of the planets inspired,any,0
+1352,p_pn,it is the case that the planets inspired,any,0
+1353,p_prel,the planets which I have studied inspired,any,0
+1354,p_prel,many of the planets which I have studied inspired,any,0
+1355,p_prel,it is the case that planets which I have studied inspired,any,0
+1356,p_ppp,the planets in these places inspired,any,0
+1357,p_ppp,many of the planets in these places inspired,any,0
+1358,p_ppp,it is the case that the planets in these places inspired,any,0
+1359,p_nrel,the planets which I have not studied inspired,any,1
+1360,p_nrel,many of the planets which I have not studied inspired,any,1
+1361,p_nrel,it is the case that the planets which I have not studied inspired,any,1
+1362,p_npp,the planets in none of these places inspired,any,1
+1363,p_npp,many of the planets in none of these places inspired,any,1
+1364,p_npp,it is the case that planets in none of these places inspired,any,1
+1365,n_pn,no planets inspired,any,1
+1366,n_pn,none of the planets inspired,any,1
+1367,n_pn,it is not the case that the planets inspired,any,1
+1368,n_prel,no planets which I have studied inspired,any,1
+1369,n_prel,none of the planets which I have studied inspired,any,1
+1370,n_prel,it is not the case that the planets which I have studied inspired,any,1
+1371,n_ppp,no planets in these places inspired,any,1
+1372,n_ppp,none of the planets in these places inspired,any,1
+1373,n_ppp,it is not the case that planets in these places inspired,any,1
+1374,n_nrel,no planets which I have not studied inspired,any,1
+1375,n_nrel,none of the planets which I have not have studied inspired,any,1
+1376,n_nrel,it is not the case that the planets which I have not studied inspired,any,1
+1377,n_npp,no planets in none of these places inspired,any,1
+1378,n_npp,none of the planets in none of these places inspired,any,1
+1379,n_npp,it is not the case that planets in none of these places inspired,any,1
+1380,p_pn,the planets will change,any,0
+1381,p_pn,many of the planets will change,any,0
+1382,p_pn,it is the case that the planets will change,any,0
+1383,p_prel,the planets which I have studied will change,any,0
+1384,p_prel,many of the planets which I have studied will change,any,0
+1385,p_prel,it is the case that planets which I have studied will change,any,0
+1386,p_ppp,the planets in these places will change,any,0
+1387,p_ppp,many of the planets in these places will change,any,0
+1388,p_ppp,it is the case that the planets in these places will change,any,0
+1389,p_nrel,the planets which I have not studied will change,any,1
+1390,p_nrel,many of the planets which I have not studied will change,any,1
+1391,p_nrel,it is the case that the planets which I have not studied will change,any,1
+1392,p_npp,the planets in none of these places will change,any,1
+1393,p_npp,many of the planets in none of these places will change,any,1
+1394,p_npp,it is the case that planets in none of these places will change,any,1
+1395,n_pn,no planets will change,any,1
+1396,n_pn,none of the planets will change,any,1
+1397,n_pn,it is not the case that the planets will change,any,1
+1398,n_prel,no planets which I have studied will change,any,1
+1399,n_prel,none of the planets which I have studied will change,any,1
+1400,n_prel,it is not the case that the planets which I have studied will change,any,1
+1401,n_ppp,no planets in these places will change,any,1
+1402,n_ppp,none of the planets in these places will change,any,1
+1403,n_ppp,it is not the case that planets in these places will change,any,1
+1404,n_nrel,no planets which I have not studied will change,any,1
+1405,n_nrel,none of the planets which I have not have studied will change,any,1
+1406,n_nrel,it is not the case that the planets which I have not studied will change,any,1
+1407,n_npp,no planets in none of these places will change,any,1
+1408,n_npp,none of the planets in none of these places will change,any,1
+1409,n_npp,it is not the case that planets in none of these places will change,any,1
+1410,p_pn,the planets impress,any,0
+1411,p_pn,many of the planets impress,any,0
+1412,p_pn,it is the case that the planets impress,any,0
+1413,p_prel,the planets which I have studied impress,any,0
+1414,p_prel,many of the planets which I have studied impress,any,0
+1415,p_prel,it is the case that planets which I have studied impress,any,0
+1416,p_ppp,the planets in these places impress,any,0
+1417,p_ppp,many of the planets in these places impress,any,0
+1418,p_ppp,it is the case that the planets in these places impress,any,0
+1419,p_nrel,the planets which I have not studied impress,any,1
+1420,p_nrel,many of the planets which I have not studied impress,any,1
+1421,p_nrel,it is the case that the planets which I have not studied impress,any,1
+1422,p_npp,the planets in none of these places impress,any,1
+1423,p_npp,many of the planets in none of these places impress,any,1
+1424,p_npp,it is the case that planets in none of these places impress,any,1
+1425,n_pn,no planets impress,any,1
+1426,n_pn,none of the planets impress,any,1
+1427,n_pn,it is not the case that the planets impress,any,1
+1428,n_prel,no planets which I have studied impress,any,1
+1429,n_prel,none of the planets which I have studied impress,any,1
+1430,n_prel,it is not the case that the planets which I have studied impress,any,1
+1431,n_ppp,no planets in these places impress,any,1
+1432,n_ppp,none of the planets in these places impress,any,1
+1433,n_ppp,it is not the case that planets in these places impress,any,1
+1434,n_nrel,no planets which I have not studied impress,any,1
+1435,n_nrel,none of the planets which I have not have studied impress,any,1
+1436,n_nrel,it is not the case that the planets which I have not studied impress,any,1
+1437,n_npp,no planets in none of these places impress,any,1
+1438,n_npp,none of the planets in none of these places impress,any,1
+1439,n_npp,it is not the case that planets in none of these places impress,any,1
+1440,p_pn,the cabinets have done,any,0
+1441,p_pn,many of the cabinets have done,any,0
+1442,p_pn,it is the case that the cabinets have done,any,0
+1443,p_prel,the cabinets which I have studied have done,any,0
+1444,p_prel,many of the cabinets which I have studied have done,any,0
+1445,p_prel,it is the case that cabinets which I have studied have done,any,0
+1446,p_ppp,the cabinets in these places have done,any,0
+1447,p_ppp,many of the cabinets in these places have done,any,0
+1448,p_ppp,it is the case that the cabinets in these places have done,any,0
+1449,p_nrel,the cabinets which I have not studied have done,any,1
+1450,p_nrel,many of the cabinets which I have not studied have done,any,1
+1451,p_nrel,it is the case that the cabinets which I have not studied have done,any,1
+1452,p_npp,the cabinets in none of these places have done,any,1
+1453,p_npp,many of the cabinets in none of these places have done,any,1
+1454,p_npp,it is the case that cabinets in none of these places have done,any,1
+1455,n_pn,no cabinets have done,any,1
+1456,n_pn,none of the cabinets have done,any,1
+1457,n_pn,it is not the case that the cabinets have done,any,1
+1458,n_prel,no cabinets which I have studied have done,any,1
+1459,n_prel,none of the cabinets which I have studied have done,any,1
+1460,n_prel,it is not the case that the cabinets which I have studied have done,any,1
+1461,n_ppp,no cabinets in these places have done,any,1
+1462,n_ppp,none of the cabinets in these places have done,any,1
+1463,n_ppp,it is not the case that cabinets in these places have done,any,1
+1464,n_nrel,no cabinets which I have not studied have done,any,1
+1465,n_nrel,none of the cabinets which I have not have studied have done,any,1
+1466,n_nrel,it is not the case that the cabinets which I have not studied have done,any,1
+1467,n_npp,no cabinets in none of these places have done,any,1
+1468,n_npp,none of the cabinets in none of these places have done,any,1
+1469,n_npp,it is not the case that cabinets in none of these places have done,any,1
+1470,p_pn,the cabinets will impact,any,0
+1471,p_pn,many of the cabinets will impact,any,0
+1472,p_pn,it is the case that the cabinets will impact,any,0
+1473,p_prel,the cabinets which I have studied will impact,any,0
+1474,p_prel,many of the cabinets which I have studied will impact,any,0
+1475,p_prel,it is the case that cabinets which I have studied will impact,any,0
+1476,p_ppp,the cabinets in these places will impact,any,0
+1477,p_ppp,many of the cabinets in these places will impact,any,0
+1478,p_ppp,it is the case that the cabinets in these places will impact,any,0
+1479,p_nrel,the cabinets which I have not studied will impact,any,1
+1480,p_nrel,many of the cabinets which I have not studied will impact,any,1
+1481,p_nrel,it is the case that the cabinets which I have not studied will impact,any,1
+1482,p_npp,the cabinets in none of these places will impact,any,1
+1483,p_npp,many of the cabinets in none of these places will impact,any,1
+1484,p_npp,it is the case that cabinets in none of these places will impact,any,1
+1485,n_pn,no cabinets will impact,any,1
+1486,n_pn,none of the cabinets will impact,any,1
+1487,n_pn,it is not the case that the cabinets will impact,any,1
+1488,n_prel,no cabinets which I have studied will impact,any,1
+1489,n_prel,none of the cabinets which I have studied will impact,any,1
+1490,n_prel,it is not the case that the cabinets which I have studied will impact,any,1
+1491,n_ppp,no cabinets in these places will impact,any,1
+1492,n_ppp,none of the cabinets in these places will impact,any,1
+1493,n_ppp,it is not the case that cabinets in these places will impact,any,1
+1494,n_nrel,no cabinets which I have not studied will impact,any,1
+1495,n_nrel,none of the cabinets which I have not have studied will impact,any,1
+1496,n_nrel,it is not the case that the cabinets which I have not studied will impact,any,1
+1497,n_npp,no cabinets in none of these places will impact,any,1
+1498,n_npp,none of the cabinets in none of these places will impact,any,1
+1499,n_npp,it is not the case that cabinets in none of these places will impact,any,1
+1500,p_pn,the cabinets confuse,any,0
+1501,p_pn,many of the cabinets confuse,any,0
+1502,p_pn,it is the case that the cabinets confuse,any,0
+1503,p_prel,the cabinets which I have studied confuse,any,0
+1504,p_prel,many of the cabinets which I have studied confuse,any,0
+1505,p_prel,it is the case that cabinets which I have studied confuse,any,0
+1506,p_ppp,the cabinets in these places confuse,any,0
+1507,p_ppp,many of the cabinets in these places confuse,any,0
+1508,p_ppp,it is the case that the cabinets in these places confuse,any,0
+1509,p_nrel,the cabinets which I have not studied confuse,any,1
+1510,p_nrel,many of the cabinets which I have not studied confuse,any,1
+1511,p_nrel,it is the case that the cabinets which I have not studied confuse,any,1
+1512,p_npp,the cabinets in none of these places confuse,any,1
+1513,p_npp,many of the cabinets in none of these places confuse,any,1
+1514,p_npp,it is the case that cabinets in none of these places confuse,any,1
+1515,n_pn,no cabinets confuse,any,1
+1516,n_pn,none of the cabinets confuse,any,1
+1517,n_pn,it is not the case that the cabinets confuse,any,1
+1518,n_prel,no cabinets which I have studied confuse,any,1
+1519,n_prel,none of the cabinets which I have studied confuse,any,1
+1520,n_prel,it is not the case that the cabinets which I have studied confuse,any,1
+1521,n_ppp,no cabinets in these places confuse,any,1
+1522,n_ppp,none of the cabinets in these places confuse,any,1
+1523,n_ppp,it is not the case that cabinets in these places confuse,any,1
+1524,n_nrel,no cabinets which I have not studied confuse,any,1
+1525,n_nrel,none of the cabinets which I have not have studied confuse,any,1
+1526,n_nrel,it is not the case that the cabinets which I have not studied confuse,any,1
+1527,n_npp,no cabinets in none of these places confuse,any,1
+1528,n_npp,none of the cabinets in none of these places confuse,any,1
+1529,n_npp,it is not the case that cabinets in none of these places confuse,any,1
+1530,p_pn,the cabinets inspired,any,0
+1531,p_pn,many of the cabinets inspired,any,0
+1532,p_pn,it is the case that the cabinets inspired,any,0
+1533,p_prel,the cabinets which I have studied inspired,any,0
+1534,p_prel,many of the cabinets which I have studied inspired,any,0
+1535,p_prel,it is the case that cabinets which I have studied inspired,any,0
+1536,p_ppp,the cabinets in these places inspired,any,0
+1537,p_ppp,many of the cabinets in these places inspired,any,0
+1538,p_ppp,it is the case that the cabinets in these places inspired,any,0
+1539,p_nrel,the cabinets which I have not studied inspired,any,1
+1540,p_nrel,many of the cabinets which I have not studied inspired,any,1
+1541,p_nrel,it is the case that the cabinets which I have not studied inspired,any,1
+1542,p_npp,the cabinets in none of these places inspired,any,1
+1543,p_npp,many of the cabinets in none of these places inspired,any,1
+1544,p_npp,it is the case that cabinets in none of these places inspired,any,1
+1545,n_pn,no cabinets inspired,any,1
+1546,n_pn,none of the cabinets inspired,any,1
+1547,n_pn,it is not the case that the cabinets inspired,any,1
+1548,n_prel,no cabinets which I have studied inspired,any,1
+1549,n_prel,none of the cabinets which I have studied inspired,any,1
+1550,n_prel,it is not the case that the cabinets which I have studied inspired,any,1
+1551,n_ppp,no cabinets in these places inspired,any,1
+1552,n_ppp,none of the cabinets in these places inspired,any,1
+1553,n_ppp,it is not the case that cabinets in these places inspired,any,1
+1554,n_nrel,no cabinets which I have not studied inspired,any,1
+1555,n_nrel,none of the cabinets which I have not have studied inspired,any,1
+1556,n_nrel,it is not the case that the cabinets which I have not studied inspired,any,1
+1557,n_npp,no cabinets in none of these places inspired,any,1
+1558,n_npp,none of the cabinets in none of these places inspired,any,1
+1559,n_npp,it is not the case that cabinets in none of these places inspired,any,1
+1560,p_pn,the cabinets will change,any,0
+1561,p_pn,many of the cabinets will change,any,0
+1562,p_pn,it is the case that the cabinets will change,any,0
+1563,p_prel,the cabinets which I have studied will change,any,0
+1564,p_prel,many of the cabinets which I have studied will change,any,0
+1565,p_prel,it is the case that cabinets which I have studied will change,any,0
+1566,p_ppp,the cabinets in these places will change,any,0
+1567,p_ppp,many of the cabinets in these places will change,any,0
+1568,p_ppp,it is the case that the cabinets in these places will change,any,0
+1569,p_nrel,the cabinets which I have not studied will change,any,1
+1570,p_nrel,many of the cabinets which I have not studied will change,any,1
+1571,p_nrel,it is the case that the cabinets which I have not studied will change,any,1
+1572,p_npp,the cabinets in none of these places will change,any,1
+1573,p_npp,many of the cabinets in none of these places will change,any,1
+1574,p_npp,it is the case that cabinets in none of these places will change,any,1
+1575,n_pn,no cabinets will change,any,1
+1576,n_pn,none of the cabinets will change,any,1
+1577,n_pn,it is not the case that the cabinets will change,any,1
+1578,n_prel,no cabinets which I have studied will change,any,1
+1579,n_prel,none of the cabinets which I have studied will change,any,1
+1580,n_prel,it is not the case that the cabinets which I have studied will change,any,1
+1581,n_ppp,no cabinets in these places will change,any,1
+1582,n_ppp,none of the cabinets in these places will change,any,1
+1583,n_ppp,it is not the case that cabinets in these places will change,any,1
+1584,n_nrel,no cabinets which I have not studied will change,any,1
+1585,n_nrel,none of the cabinets which I have not have studied will change,any,1
+1586,n_nrel,it is not the case that the cabinets which I have not studied will change,any,1
+1587,n_npp,no cabinets in none of these places will change,any,1
+1588,n_npp,none of the cabinets in none of these places will change,any,1
+1589,n_npp,it is not the case that cabinets in none of these places will change,any,1
+1590,p_pn,the cabinets impress,any,0
+1591,p_pn,many of the cabinets impress,any,0
+1592,p_pn,it is the case that the cabinets impress,any,0
+1593,p_prel,the cabinets which I have studied impress,any,0
+1594,p_prel,many of the cabinets which I have studied impress,any,0
+1595,p_prel,it is the case that cabinets which I have studied impress,any,0
+1596,p_ppp,the cabinets in these places impress,any,0
+1597,p_ppp,many of the cabinets in these places impress,any,0
+1598,p_ppp,it is the case that the cabinets in these places impress,any,0
+1599,p_nrel,the cabinets which I have not studied impress,any,1
+1600,p_nrel,many of the cabinets which I have not studied impress,any,1
+1601,p_nrel,it is the case that the cabinets which I have not studied impress,any,1
+1602,p_npp,the cabinets in none of these places impress,any,1
+1603,p_npp,many of the cabinets in none of these places impress,any,1
+1604,p_npp,it is the case that cabinets in none of these places impress,any,1
+1605,n_pn,no cabinets impress,any,1
+1606,n_pn,none of the cabinets impress,any,1
+1607,n_pn,it is not the case that the cabinets impress,any,1
+1608,n_prel,no cabinets which I have studied impress,any,1
+1609,n_prel,none of the cabinets which I have studied impress,any,1
+1610,n_prel,it is not the case that the cabinets which I have studied impress,any,1
+1611,n_ppp,no cabinets in these places impress,any,1
+1612,n_ppp,none of the cabinets in these places impress,any,1
+1613,n_ppp,it is not the case that cabinets in these places impress,any,1
+1614,n_nrel,no cabinets which I have not studied impress,any,1
+1615,n_nrel,none of the cabinets which I have not have studied impress,any,1
+1616,n_nrel,it is not the case that the cabinets which I have not studied impress,any,1
+1617,n_npp,no cabinets in none of these places impress,any,1
+1618,n_npp,none of the cabinets in none of these places impress,any,1
+1619,n_npp,it is not the case that cabinets in none of these places impress,any,1
+1620,p_pn,the philosophers have done,any,0
+1621,p_pn,many of the philosophers have done,any,0
+1622,p_pn,it is the case that the philosophers have done,any,0
+1623,p_prel,the philosophers which I have studied have done,any,0
+1624,p_prel,many of the philosophers which I have studied have done,any,0
+1625,p_prel,it is the case that philosophers which I have studied have done,any,0
+1626,p_ppp,the philosophers in these places have done,any,0
+1627,p_ppp,many of the philosophers in these places have done,any,0
+1628,p_ppp,it is the case that the philosophers in these places have done,any,0
+1629,p_nrel,the philosophers which I have not studied have done,any,1
+1630,p_nrel,many of the philosophers which I have not studied have done,any,1
+1631,p_nrel,it is the case that the philosophers which I have not studied have done,any,1
+1632,p_npp,the philosophers in none of these places have done,any,1
+1633,p_npp,many of the philosophers in none of these places have done,any,1
+1634,p_npp,it is the case that philosophers in none of these places have done,any,1
+1635,n_pn,no philosophers have done,any,1
+1636,n_pn,none of the philosophers have done,any,1
+1637,n_pn,it is not the case that the philosophers have done,any,1
+1638,n_prel,no philosophers which I have studied have done,any,1
+1639,n_prel,none of the philosophers which I have studied have done,any,1
+1640,n_prel,it is not the case that the philosophers which I have studied have done,any,1
+1641,n_ppp,no philosophers in these places have done,any,1
+1642,n_ppp,none of the philosophers in these places have done,any,1
+1643,n_ppp,it is not the case that philosophers in these places have done,any,1
+1644,n_nrel,no philosophers which I have not studied have done,any,1
+1645,n_nrel,none of the philosophers which I have not have studied have done,any,1
+1646,n_nrel,it is not the case that the philosophers which I have not studied have done,any,1
+1647,n_npp,no philosophers in none of these places have done,any,1
+1648,n_npp,none of the philosophers in none of these places have done,any,1
+1649,n_npp,it is not the case that philosophers in none of these places have done,any,1
+1650,p_pn,the philosophers will impact,any,0
+1651,p_pn,many of the philosophers will impact,any,0
+1652,p_pn,it is the case that the philosophers will impact,any,0
+1653,p_prel,the philosophers which I have studied will impact,any,0
+1654,p_prel,many of the philosophers which I have studied will impact,any,0
+1655,p_prel,it is the case that philosophers which I have studied will impact,any,0
+1656,p_ppp,the philosophers in these places will impact,any,0
+1657,p_ppp,many of the philosophers in these places will impact,any,0
+1658,p_ppp,it is the case that the philosophers in these places will impact,any,0
+1659,p_nrel,the philosophers which I have not studied will impact,any,1
+1660,p_nrel,many of the philosophers which I have not studied will impact,any,1
+1661,p_nrel,it is the case that the philosophers which I have not studied will impact,any,1
+1662,p_npp,the philosophers in none of these places will impact,any,1
+1663,p_npp,many of the philosophers in none of these places will impact,any,1
+1664,p_npp,it is the case that philosophers in none of these places will impact,any,1
+1665,n_pn,no philosophers will impact,any,1
+1666,n_pn,none of the philosophers will impact,any,1
+1667,n_pn,it is not the case that the philosophers will impact,any,1
+1668,n_prel,no philosophers which I have studied will impact,any,1
+1669,n_prel,none of the philosophers which I have studied will impact,any,1
+1670,n_prel,it is not the case that the philosophers which I have studied will impact,any,1
+1671,n_ppp,no philosophers in these places will impact,any,1
+1672,n_ppp,none of the philosophers in these places will impact,any,1
+1673,n_ppp,it is not the case that philosophers in these places will impact,any,1
+1674,n_nrel,no philosophers which I have not studied will impact,any,1
+1675,n_nrel,none of the philosophers which I have not have studied will impact,any,1
+1676,n_nrel,it is not the case that the philosophers which I have not studied will impact,any,1
+1677,n_npp,no philosophers in none of these places will impact,any,1
+1678,n_npp,none of the philosophers in none of these places will impact,any,1
+1679,n_npp,it is not the case that philosophers in none of these places will impact,any,1
+1680,p_pn,the philosophers confuse,any,0
+1681,p_pn,many of the philosophers confuse,any,0
+1682,p_pn,it is the case that the philosophers confuse,any,0
+1683,p_prel,the philosophers which I have studied confuse,any,0
+1684,p_prel,many of the philosophers which I have studied confuse,any,0
+1685,p_prel,it is the case that philosophers which I have studied confuse,any,0
+1686,p_ppp,the philosophers in these places confuse,any,0
+1687,p_ppp,many of the philosophers in these places confuse,any,0
+1688,p_ppp,it is the case that the philosophers in these places confuse,any,0
+1689,p_nrel,the philosophers which I have not studied confuse,any,1
+1690,p_nrel,many of the philosophers which I have not studied confuse,any,1
+1691,p_nrel,it is the case that the philosophers which I have not studied confuse,any,1
+1692,p_npp,the philosophers in none of these places confuse,any,1
+1693,p_npp,many of the philosophers in none of these places confuse,any,1
+1694,p_npp,it is the case that philosophers in none of these places confuse,any,1
+1695,n_pn,no philosophers confuse,any,1
+1696,n_pn,none of the philosophers confuse,any,1
+1697,n_pn,it is not the case that the philosophers confuse,any,1
+1698,n_prel,no philosophers which I have studied confuse,any,1
+1699,n_prel,none of the philosophers which I have studied confuse,any,1
+1700,n_prel,it is not the case that the philosophers which I have studied confuse,any,1
+1701,n_ppp,no philosophers in these places confuse,any,1
+1702,n_ppp,none of the philosophers in these places confuse,any,1
+1703,n_ppp,it is not the case that philosophers in these places confuse,any,1
+1704,n_nrel,no philosophers which I have not studied confuse,any,1
+1705,n_nrel,none of the philosophers which I have not have studied confuse,any,1
+1706,n_nrel,it is not the case that the philosophers which I have not studied confuse,any,1
+1707,n_npp,no philosophers in none of these places confuse,any,1
+1708,n_npp,none of the philosophers in none of these places confuse,any,1
+1709,n_npp,it is not the case that philosophers in none of these places confuse,any,1
+1710,p_pn,the philosophers inspired,any,0
+1711,p_pn,many of the philosophers inspired,any,0
+1712,p_pn,it is the case that the philosophers inspired,any,0
+1713,p_prel,the philosophers which I have studied inspired,any,0
+1714,p_prel,many of the philosophers which I have studied inspired,any,0
+1715,p_prel,it is the case that philosophers which I have studied inspired,any,0
+1716,p_ppp,the philosophers in these places inspired,any,0
+1717,p_ppp,many of the philosophers in these places inspired,any,0
+1718,p_ppp,it is the case that the philosophers in these places inspired,any,0
+1719,p_nrel,the philosophers which I have not studied inspired,any,1
+1720,p_nrel,many of the philosophers which I have not studied inspired,any,1
+1721,p_nrel,it is the case that the philosophers which I have not studied inspired,any,1
+1722,p_npp,the philosophers in none of these places inspired,any,1
+1723,p_npp,many of the philosophers in none of these places inspired,any,1
+1724,p_npp,it is the case that philosophers in none of these places inspired,any,1
+1725,n_pn,no philosophers inspired,any,1
+1726,n_pn,none of the philosophers inspired,any,1
+1727,n_pn,it is not the case that the philosophers inspired,any,1
+1728,n_prel,no philosophers which I have studied inspired,any,1
+1729,n_prel,none of the philosophers which I have studied inspired,any,1
+1730,n_prel,it is not the case that the philosophers which I have studied inspired,any,1
+1731,n_ppp,no philosophers in these places inspired,any,1
+1732,n_ppp,none of the philosophers in these places inspired,any,1
+1733,n_ppp,it is not the case that philosophers in these places inspired,any,1
+1734,n_nrel,no philosophers which I have not studied inspired,any,1
+1735,n_nrel,none of the philosophers which I have not have studied inspired,any,1
+1736,n_nrel,it is not the case that the philosophers which I have not studied inspired,any,1
+1737,n_npp,no philosophers in none of these places inspired,any,1
+1738,n_npp,none of the philosophers in none of these places inspired,any,1
+1739,n_npp,it is not the case that philosophers in none of these places inspired,any,1
+1740,p_pn,the philosophers will change,any,0
+1741,p_pn,many of the philosophers will change,any,0
+1742,p_pn,it is the case that the philosophers will change,any,0
+1743,p_prel,the philosophers which I have studied will change,any,0
+1744,p_prel,many of the philosophers which I have studied will change,any,0
+1745,p_prel,it is the case that philosophers which I have studied will change,any,0
+1746,p_ppp,the philosophers in these places will change,any,0
+1747,p_ppp,many of the philosophers in these places will change,any,0
+1748,p_ppp,it is the case that the philosophers in these places will change,any,0
+1749,p_nrel,the philosophers which I have not studied will change,any,1
+1750,p_nrel,many of the philosophers which I have not studied will change,any,1
+1751,p_nrel,it is the case that the philosophers which I have not studied will change,any,1
+1752,p_npp,the philosophers in none of these places will change,any,1
+1753,p_npp,many of the philosophers in none of these places will change,any,1
+1754,p_npp,it is the case that philosophers in none of these places will change,any,1
+1755,n_pn,no philosophers will change,any,1
+1756,n_pn,none of the philosophers will change,any,1
+1757,n_pn,it is not the case that the philosophers will change,any,1
+1758,n_prel,no philosophers which I have studied will change,any,1
+1759,n_prel,none of the philosophers which I have studied will change,any,1
+1760,n_prel,it is not the case that the philosophers which I have studied will change,any,1
+1761,n_ppp,no philosophers in these places will change,any,1
+1762,n_ppp,none of the philosophers in these places will change,any,1
+1763,n_ppp,it is not the case that philosophers in these places will change,any,1
+1764,n_nrel,no philosophers which I have not studied will change,any,1
+1765,n_nrel,none of the philosophers which I have not have studied will change,any,1
+1766,n_nrel,it is not the case that the philosophers which I have not studied will change,any,1
+1767,n_npp,no philosophers in none of these places will change,any,1
+1768,n_npp,none of the philosophers in none of these places will change,any,1
+1769,n_npp,it is not the case that philosophers in none of these places will change,any,1
+1770,p_pn,the philosophers impress,any,0
+1771,p_pn,many of the philosophers impress,any,0
+1772,p_pn,it is the case that the philosophers impress,any,0
+1773,p_prel,the philosophers which I have studied impress,any,0
+1774,p_prel,many of the philosophers which I have studied impress,any,0
+1775,p_prel,it is the case that philosophers which I have studied impress,any,0
+1776,p_ppp,the philosophers in these places impress,any,0
+1777,p_ppp,many of the philosophers in these places impress,any,0
+1778,p_ppp,it is the case that the philosophers in these places impress,any,0
+1779,p_nrel,the philosophers which I have not studied impress,any,1
+1780,p_nrel,many of the philosophers which I have not studied impress,any,1
+1781,p_nrel,it is the case that the philosophers which I have not studied impress,any,1
+1782,p_npp,the philosophers in none of these places impress,any,1
+1783,p_npp,many of the philosophers in none of these places impress,any,1
+1784,p_npp,it is the case that philosophers in none of these places impress,any,1
+1785,n_pn,no philosophers impress,any,1
+1786,n_pn,none of the philosophers impress,any,1
+1787,n_pn,it is not the case that the philosophers impress,any,1
+1788,n_prel,no philosophers which I have studied impress,any,1
+1789,n_prel,none of the philosophers which I have studied impress,any,1
+1790,n_prel,it is not the case that the philosophers which I have studied impress,any,1
+1791,n_ppp,no philosophers in these places impress,any,1
+1792,n_ppp,none of the philosophers in these places impress,any,1
+1793,n_ppp,it is not the case that philosophers in these places impress,any,1
+1794,n_nrel,no philosophers which I have not studied impress,any,1
+1795,n_nrel,none of the philosophers which I have not have studied impress,any,1
+1796,n_nrel,it is not the case that the philosophers which I have not studied impress,any,1
+1797,n_npp,no philosophers in none of these places impress,any,1
+1798,n_npp,none of the philosophers in none of these places impress,any,1
+1799,n_npp,it is not the case that philosophers in none of these places impress,any,1
+1800,p_pn,the passengers have done,any,0
+1801,p_pn,many of the passengers have done,any,0
+1802,p_pn,it is the case that the passengers have done,any,0
+1803,p_prel,the passengers which I have studied have done,any,0
+1804,p_prel,many of the passengers which I have studied have done,any,0
+1805,p_prel,it is the case that passengers which I have studied have done,any,0
+1806,p_ppp,the passengers in these places have done,any,0
+1807,p_ppp,many of the passengers in these places have done,any,0
+1808,p_ppp,it is the case that the passengers in these places have done,any,0
+1809,p_nrel,the passengers which I have not studied have done,any,1
+1810,p_nrel,many of the passengers which I have not studied have done,any,1
+1811,p_nrel,it is the case that the passengers which I have not studied have done,any,1
+1812,p_npp,the passengers in none of these places have done,any,1
+1813,p_npp,many of the passengers in none of these places have done,any,1
+1814,p_npp,it is the case that passengers in none of these places have done,any,1
+1815,n_pn,no passengers have done,any,1
+1816,n_pn,none of the passengers have done,any,1
+1817,n_pn,it is not the case that the passengers have done,any,1
+1818,n_prel,no passengers which I have studied have done,any,1
+1819,n_prel,none of the passengers which I have studied have done,any,1
+1820,n_prel,it is not the case that the passengers which I have studied have done,any,1
+1821,n_ppp,no passengers in these places have done,any,1
+1822,n_ppp,none of the passengers in these places have done,any,1
+1823,n_ppp,it is not the case that passengers in these places have done,any,1
+1824,n_nrel,no passengers which I have not studied have done,any,1
+1825,n_nrel,none of the passengers which I have not have studied have done,any,1
+1826,n_nrel,it is not the case that the passengers which I have not studied have done,any,1
+1827,n_npp,no passengers in none of these places have done,any,1
+1828,n_npp,none of the passengers in none of these places have done,any,1
+1829,n_npp,it is not the case that passengers in none of these places have done,any,1
+1830,p_pn,the passengers will impact,any,0
+1831,p_pn,many of the passengers will impact,any,0
+1832,p_pn,it is the case that the passengers will impact,any,0
+1833,p_prel,the passengers which I have studied will impact,any,0
+1834,p_prel,many of the passengers which I have studied will impact,any,0
+1835,p_prel,it is the case that passengers which I have studied will impact,any,0
+1836,p_ppp,the passengers in these places will impact,any,0
+1837,p_ppp,many of the passengers in these places will impact,any,0
+1838,p_ppp,it is the case that the passengers in these places will impact,any,0
+1839,p_nrel,the passengers which I have not studied will impact,any,1
+1840,p_nrel,many of the passengers which I have not studied will impact,any,1
+1841,p_nrel,it is the case that the passengers which I have not studied will impact,any,1
+1842,p_npp,the passengers in none of these places will impact,any,1
+1843,p_npp,many of the passengers in none of these places will impact,any,1
+1844,p_npp,it is the case that passengers in none of these places will impact,any,1
+1845,n_pn,no passengers will impact,any,1
+1846,n_pn,none of the passengers will impact,any,1
+1847,n_pn,it is not the case that the passengers will impact,any,1
+1848,n_prel,no passengers which I have studied will impact,any,1
+1849,n_prel,none of the passengers which I have studied will impact,any,1
+1850,n_prel,it is not the case that the passengers which I have studied will impact,any,1
+1851,n_ppp,no passengers in these places will impact,any,1
+1852,n_ppp,none of the passengers in these places will impact,any,1
+1853,n_ppp,it is not the case that passengers in these places will impact,any,1
+1854,n_nrel,no passengers which I have not studied will impact,any,1
+1855,n_nrel,none of the passengers which I have not have studied will impact,any,1
+1856,n_nrel,it is not the case that the passengers which I have not studied will impact,any,1
+1857,n_npp,no passengers in none of these places will impact,any,1
+1858,n_npp,none of the passengers in none of these places will impact,any,1
+1859,n_npp,it is not the case that passengers in none of these places will impact,any,1
+1860,p_pn,the passengers confuse,any,0
+1861,p_pn,many of the passengers confuse,any,0
+1862,p_pn,it is the case that the passengers confuse,any,0
+1863,p_prel,the passengers which I have studied confuse,any,0
+1864,p_prel,many of the passengers which I have studied confuse,any,0
+1865,p_prel,it is the case that passengers which I have studied confuse,any,0
+1866,p_ppp,the passengers in these places confuse,any,0
+1867,p_ppp,many of the passengers in these places confuse,any,0
+1868,p_ppp,it is the case that the passengers in these places confuse,any,0
+1869,p_nrel,the passengers which I have not studied confuse,any,1
+1870,p_nrel,many of the passengers which I have not studied confuse,any,1
+1871,p_nrel,it is the case that the passengers which I have not studied confuse,any,1
+1872,p_npp,the passengers in none of these places confuse,any,1
+1873,p_npp,many of the passengers in none of these places confuse,any,1
+1874,p_npp,it is the case that passengers in none of these places confuse,any,1
+1875,n_pn,no passengers confuse,any,1
+1876,n_pn,none of the passengers confuse,any,1
+1877,n_pn,it is not the case that the passengers confuse,any,1
+1878,n_prel,no passengers which I have studied confuse,any,1
+1879,n_prel,none of the passengers which I have studied confuse,any,1
+1880,n_prel,it is not the case that the passengers which I have studied confuse,any,1
+1881,n_ppp,no passengers in these places confuse,any,1
+1882,n_ppp,none of the passengers in these places confuse,any,1
+1883,n_ppp,it is not the case that passengers in these places confuse,any,1
+1884,n_nrel,no passengers which I have not studied confuse,any,1
+1885,n_nrel,none of the passengers which I have not have studied confuse,any,1
+1886,n_nrel,it is not the case that the passengers which I have not studied confuse,any,1
+1887,n_npp,no passengers in none of these places confuse,any,1
+1888,n_npp,none of the passengers in none of these places confuse,any,1
+1889,n_npp,it is not the case that passengers in none of these places confuse,any,1
+1890,p_pn,the passengers inspired,any,0
+1891,p_pn,many of the passengers inspired,any,0
+1892,p_pn,it is the case that the passengers inspired,any,0
+1893,p_prel,the passengers which I have studied inspired,any,0
+1894,p_prel,many of the passengers which I have studied inspired,any,0
+1895,p_prel,it is the case that passengers which I have studied inspired,any,0
+1896,p_ppp,the passengers in these places inspired,any,0
+1897,p_ppp,many of the passengers in these places inspired,any,0
+1898,p_ppp,it is the case that the passengers in these places inspired,any,0
+1899,p_nrel,the passengers which I have not studied inspired,any,1
+1900,p_nrel,many of the passengers which I have not studied inspired,any,1
+1901,p_nrel,it is the case that the passengers which I have not studied inspired,any,1
+1902,p_npp,the passengers in none of these places inspired,any,1
+1903,p_npp,many of the passengers in none of these places inspired,any,1
+1904,p_npp,it is the case that passengers in none of these places inspired,any,1
+1905,n_pn,no passengers inspired,any,1
+1906,n_pn,none of the passengers inspired,any,1
+1907,n_pn,it is not the case that the passengers inspired,any,1
+1908,n_prel,no passengers which I have studied inspired,any,1
+1909,n_prel,none of the passengers which I have studied inspired,any,1
+1910,n_prel,it is not the case that the passengers which I have studied inspired,any,1
+1911,n_ppp,no passengers in these places inspired,any,1
+1912,n_ppp,none of the passengers in these places inspired,any,1
+1913,n_ppp,it is not the case that passengers in these places inspired,any,1
+1914,n_nrel,no passengers which I have not studied inspired,any,1
+1915,n_nrel,none of the passengers which I have not have studied inspired,any,1
+1916,n_nrel,it is not the case that the passengers which I have not studied inspired,any,1
+1917,n_npp,no passengers in none of these places inspired,any,1
+1918,n_npp,none of the passengers in none of these places inspired,any,1
+1919,n_npp,it is not the case that passengers in none of these places inspired,any,1
+1920,p_pn,the passengers will change,any,0
+1921,p_pn,many of the passengers will change,any,0
+1922,p_pn,it is the case that the passengers will change,any,0
+1923,p_prel,the passengers which I have studied will change,any,0
+1924,p_prel,many of the passengers which I have studied will change,any,0
+1925,p_prel,it is the case that passengers which I have studied will change,any,0
+1926,p_ppp,the passengers in these places will change,any,0
+1927,p_ppp,many of the passengers in these places will change,any,0
+1928,p_ppp,it is the case that the passengers in these places will change,any,0
+1929,p_nrel,the passengers which I have not studied will change,any,1
+1930,p_nrel,many of the passengers which I have not studied will change,any,1
+1931,p_nrel,it is the case that the passengers which I have not studied will change,any,1
+1932,p_npp,the passengers in none of these places will change,any,1
+1933,p_npp,many of the passengers in none of these places will change,any,1
+1934,p_npp,it is the case that passengers in none of these places will change,any,1
+1935,n_pn,no passengers will change,any,1
+1936,n_pn,none of the passengers will change,any,1
+1937,n_pn,it is not the case that the passengers will change,any,1
+1938,n_prel,no passengers which I have studied will change,any,1
+1939,n_prel,none of the passengers which I have studied will change,any,1
+1940,n_prel,it is not the case that the passengers which I have studied will change,any,1
+1941,n_ppp,no passengers in these places will change,any,1
+1942,n_ppp,none of the passengers in these places will change,any,1
+1943,n_ppp,it is not the case that passengers in these places will change,any,1
+1944,n_nrel,no passengers which I have not studied will change,any,1
+1945,n_nrel,none of the passengers which I have not have studied will change,any,1
+1946,n_nrel,it is not the case that the passengers which I have not studied will change,any,1
+1947,n_npp,no passengers in none of these places will change,any,1
+1948,n_npp,none of the passengers in none of these places will change,any,1
+1949,n_npp,it is not the case that passengers in none of these places will change,any,1
+1950,p_pn,the passengers impress,any,0
+1951,p_pn,many of the passengers impress,any,0
+1952,p_pn,it is the case that the passengers impress,any,0
+1953,p_prel,the passengers which I have studied impress,any,0
+1954,p_prel,many of the passengers which I have studied impress,any,0
+1955,p_prel,it is the case that passengers which I have studied impress,any,0
+1956,p_ppp,the passengers in these places impress,any,0
+1957,p_ppp,many of the passengers in these places impress,any,0
+1958,p_ppp,it is the case that the passengers in these places impress,any,0
+1959,p_nrel,the passengers which I have not studied impress,any,1
+1960,p_nrel,many of the passengers which I have not studied impress,any,1
+1961,p_nrel,it is the case that the passengers which I have not studied impress,any,1
+1962,p_npp,the passengers in none of these places impress,any,1
+1963,p_npp,many of the passengers in none of these places impress,any,1
+1964,p_npp,it is the case that passengers in none of these places impress,any,1
+1965,n_pn,no passengers impress,any,1
+1966,n_pn,none of the passengers impress,any,1
+1967,n_pn,it is not the case that the passengers impress,any,1
+1968,n_prel,no passengers which I have studied impress,any,1
+1969,n_prel,none of the passengers which I have studied impress,any,1
+1970,n_prel,it is not the case that the passengers which I have studied impress,any,1
+1971,n_ppp,no passengers in these places impress,any,1
+1972,n_ppp,none of the passengers in these places impress,any,1
+1973,n_ppp,it is not the case that passengers in these places impress,any,1
+1974,n_nrel,no passengers which I have not studied impress,any,1
+1975,n_nrel,none of the passengers which I have not have studied impress,any,1
+1976,n_nrel,it is not the case that the passengers which I have not studied impress,any,1
+1977,n_npp,no passengers in none of these places impress,any,1
+1978,n_npp,none of the passengers in none of these places impress,any,1
+1979,n_npp,it is not the case that passengers in none of these places impress,any,1
